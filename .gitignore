@@ -1,4 +1,5 @@
 node_modules
+.omg/
 data/municipalities.json
 data/metadata.json
 data/missing.json
