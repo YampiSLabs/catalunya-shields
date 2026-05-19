@@ -6,6 +6,10 @@ export const scoreCandidate = (file: any, municipalityName: string) => {
   if (title.includes('escut de')) score += 50;
   if (title.includes(municipalityName.toLowerCase())) score += 40;
   
+  // Penalties
+  if (title.includes('flag') || title.includes('bandera')) score -= 50;
+  if (title.includes('old') || title.includes('former')) score -= 40;
+  
   return {
     title: file.title,
     score,

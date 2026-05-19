@@ -4,9 +4,9 @@
   "description": "Library of Catalan municipal shields",
   "private": true,
   "scripts": {
-    "normalize": "tsx scripts/normalize-municipalities.ts",
-    "download:commons": "tsx scripts/download-commons.ts",
-    "optimize:shields": "tsx scripts/optimize-shields.ts",
+    "normalize": "npx tsx scripts/normalize-municipalities.ts",
+    "download:commons": "npx tsx scripts/download-commons.ts",
+    "optimize:shields": "npx tsx scripts/optimize-shields.ts",
     "prepare:assets": "pnpm normalize && pnpm download:commons -- --dry-run --limit=5 && pnpm optimize:shields",
     "test": "vitest",
     "format": "prettier --write ."
