@@ -2,6 +2,7 @@ import { readJson, writeJson } from './shared/fs.js';
 import { searchCommonsFiles, getImageUrl, downloadFile } from './shared/commons.js';
 import { scoreCandidate } from './shared/candidates.js';
 import { join } from 'path';
+import { existsSync } from 'fs';
 
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
@@ -13,8 +14,18 @@ const filtered = municipalityFilter
   ? municipalities.filter(m => m.slug === municipalityFilter) 
   : (dryRun ? municipalities.slice(0, limit) : municipalities);
 
+const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
+
 async function run() {
   for (const m of filtered) {
+    const outputPath = join('raw/svg', `${m.slug}.svg`);
+    if (existsSync(outputPath)) {
+        console.log(`Skipping: ${m.name} (already downloaded)`);
+        continue;
+    }
+
+    await delay(5000); // Much longer delay to respect rate limits
+
     console.log(`Searching for: ${m.name}`);
     const query = `Escut de ${m.name}.svg`;
     const files = await searchCommonsFiles(query);
@@ -31,9 +42,9 @@ async function run() {
       if (!dryRun) {
         const url = await getImageUrl(best.title);
         if (url) {
-          const outputPath = join('raw/svg', `${m.slug}.svg`);
           await downloadFile(url, outputPath);
           console.log(`Downloaded: ${outputPath}`);
+          await delay(5000); // Respect rate limits after download
         }
       }
     } else {
