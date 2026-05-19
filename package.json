@@ -1,0 +1,23 @@
+{
+  "name": "catalunya-shields",
+  "version": "0.1.0",
+  "description": "Library of Catalan municipal shields",
+  "private": true,
+  "scripts": {
+    "normalize": "tsx scripts/normalize-municipalities.ts",
+    "download:commons": "tsx scripts/download-commons.ts",
+    "optimize:shields": "tsx scripts/optimize-shields.ts",
+    "prepare:assets": "pnpm normalize && pnpm download:commons -- --dry-run --limit=5 && pnpm optimize:shields",
+    "test": "vitest",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "p-limit": "^5.0.0",
+    "prettier": "^3.0.0",
+    "svgo": "^3.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  { "name": "Barcelona", "province": "Barcelona" },
+  { "name": "Badalona", "province": "Barcelona" },
+  { "name": "L'Hospitalet de Llobregat", "province": "Barcelona" },
+  { "name": "Lleida", "province": "Lleida" },
+  { "name": "Tarragona", "province": "Tarragona" },
+  { "name": "Girona", "province": "Girona" },
+  { "name": "Sabadell", "province": "Barcelona" },
+  { "name": "Terrassa", "province": "Barcelona" },
+  { "name": "Mataró", "province": "Barcelona" },
+  { "name": "Reus", "province": "Tarragona" },
+  { "name": "Santa Coloma de Gramenet", "province": "Barcelona" },
+  { "name": "Cornellà de Llobregat", "province": "Barcelona" },
+  { "name": "Sant Cugat del Vallès", "province": "Barcelona" },
+  { "name": "Manresa", "province": "Barcelona" },
+  { "name": "Rubí", "province": "Barcelona" },
+  { "name": "Vilanova i la Geltrú", "province": "Barcelona" },
+  { "name": "Castelldefels", "province": "Barcelona" },
+  { "name": "Viladecans", "province": "Barcelona" },
+  { "name": "El Prat de Llobregat", "province": "Barcelona" },
+  { "name": "Granollers", "province": "Barcelona" }
+]
