@@ -7,9 +7,12 @@ export const searchCommonsFiles = async (query: string) => {
   return data.query.search;
 };
 
-export const getCommonsFileMetadata = async (title: string) => {
-  // Simplified for this stage
-  return { title };
+export const getImageUrl = async (title: string) => {
+  const url = `https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url&titles=${encodeURIComponent(title)}`;
+  const response = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+  const data = await response.json();
+  const pages = Object.values(data.query.pages) as any[];
+  return pages[0]?.imageinfo?.[0]?.url;
 };
 
 export const downloadFile = async (url: string, outputPath: string) => {

@@ -1,6 +1,7 @@
 import { readJson, writeJson } from './shared/fs.js';
-import { searchCommonsFiles } from './shared/commons.js';
+import { searchCommonsFiles, getImageUrl, downloadFile } from './shared/commons.js';
 import { scoreCandidate } from './shared/candidates.js';
+import { join } from 'path';
 
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
@@ -21,11 +22,22 @@ async function run() {
     const candidates = files.map(f => scoreCandidate({ title: f.title, mime: 'image/svg+xml' }, m.name));
     candidates.sort((a, b) => b.score - a.score);
     
-    console.log(`Found ${candidates.length} candidates for ${m.name}. Top: ${candidates[0]?.title} (Score: ${candidates[0]?.score})`);
+    const best = candidates[0];
+    console.log(`Found ${candidates.length} candidates for ${m.name}. Top: ${best?.title} (Score: ${best?.score})`);
     
-    if (!dryRun && candidates.length > 0) {
-      // TODO: Download logic
+    if (best && best.score >= 100) {
       writeJson(`data/commons-candidates/${m.slug}.json`, candidates);
+      
+      if (!dryRun) {
+        const url = await getImageUrl(best.title);
+        if (url) {
+          const outputPath = join('raw/svg', `${m.slug}.svg`);
+          await downloadFile(url, outputPath);
+          console.log(`Downloaded: ${outputPath}`);
+        }
+      }
+    } else {
+        console.warn(`No high confidence candidate for ${m.name}`);
     }
   }
 }
