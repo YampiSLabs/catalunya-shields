@@ -3,6 +3,7 @@ import {
   searchCommonsFiles,
   getImageUrl,
   downloadFile,
+  WikimediaRateLimitError,
 } from "./shared/commons.js";
 import { scoreCandidate } from "./shared/candidates.js";
 import { join } from "path";
@@ -31,6 +32,7 @@ const filtered = municipalityFilter
   ? municipalities.filter((m) => m.slug === municipalityFilter)
   : municipalities;
 
+const requestDelayMs = parseInt(process.env.WIKIMEDIA_DELAY_MS || "10000");
 const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
 async function run() {
@@ -52,11 +54,20 @@ async function run() {
     }
 
     reviewed += 1;
-    await delay(5000); // Much longer delay to respect rate limits
+    await delay(requestDelayMs);
 
-    console.log(`Searching for: ${m.name}`);
-    const query = `Escut de ${m.name}.svg`;
-    const files = (await searchCommonsFiles(query)) as CommonsFile[];
+    let files: CommonsFile[];
+    try {
+      console.log(`Searching for: ${m.name}`);
+      const query = `Escut de ${m.name}.svg`;
+      files = (await searchCommonsFiles(query)) as CommonsFile[];
+    } catch (error) {
+      if (error instanceof WikimediaRateLimitError) {
+        console.warn(error.message);
+        break;
+      }
+      throw error;
+    }
 
     const candidates = files.map((f) =>
       scoreCandidate({ title: f.title, mime: "image/svg+xml" }, m.name),
@@ -78,12 +89,22 @@ async function run() {
 
       writeJson(`data/commons-candidates/${m.slug}.json`, candidates);
 
-      const url = await getImageUrl(best.title);
+      let url: string | undefined;
+      try {
+        url = await getImageUrl(best.title);
+      } catch (error) {
+        if (error instanceof WikimediaRateLimitError) {
+          console.warn(error.message);
+          break;
+        }
+        throw error;
+      }
+
       if (url) {
         await downloadFile(url, outputPath);
         downloaded += 1;
         console.log(`Downloaded: ${outputPath} (${downloaded}/${limit})`);
-        await delay(5000); // Respect rate limits after download
+        await delay(requestDelayMs);
       }
     } else {
       console.warn(`No high confidence candidate for ${m.name}`);
