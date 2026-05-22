@@ -10,7 +10,8 @@
     "generate:outputs": "npx tsx scripts/generate-outputs.ts",
     "prepare:assets": "pnpm normalize && pnpm download:commons -- --dry-run --limit=5 && pnpm optimize:shields && pnpm generate:outputs",
     "test": "vitest",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "start": "npx tsx scripts/vps-scheduler.ts"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
