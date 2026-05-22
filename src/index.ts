@@ -1,10 +1,13 @@
+export { default as AbellaDeLaConca } from "../assets/svg/abella-de-la-conca.svg";
+export { default as Agramunt } from "../assets/svg/agramunt.svg";
+export { default as Agullana } from "../assets/svg/agullana.svg";
 export { default as Badalona } from "../assets/svg/badalona.svg";
 export { default as Barcelona } from "../assets/svg/barcelona.svg";
-export { default as CornellaDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
-export { default as LhospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
-export { default as Mataro } from "../assets/svg/mataro.svg";
+export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
+export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
+export { default as Mataró } from "../assets/svg/mataro.svg";
 export { default as Reus } from "../assets/svg/reus.svg";
 export { default as Sabadell } from "../assets/svg/sabadell.svg";
-export { default as SantCugatDelValles } from "../assets/svg/sant-cugat-del-valles.svg";
 export { default as SantaColomaDeGramenet } from "../assets/svg/santa-coloma-de-gramenet.svg";
+export { default as SantCugatDelVallès } from "../assets/svg/sant-cugat-del-valles.svg";
 export { default as Terrassa } from "../assets/svg/terrassa.svg";
