@@ -8,6 +8,8 @@
     "download:commons": "npx tsx scripts/download-commons.ts",
     "optimize:shields": "npx tsx scripts/optimize-shields.ts",
     "generate:outputs": "npx tsx scripts/generate-outputs.ts",
+    "cron:update": "bash scripts/cron-update.sh",
+    "healthcheck": "npx tsx scripts/vps-scheduler.ts",
     "prepare:assets": "pnpm normalize && pnpm download:commons -- --dry-run --limit=5 && pnpm optimize:shields && pnpm generate:outputs",
     "test": "vitest",
     "format": "prettier --write .",

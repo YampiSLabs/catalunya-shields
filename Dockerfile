@@ -17,8 +17,9 @@ RUN pnpm install --frozen-lockfile
 # Copy the rest of the application files
 COPY . .
 
-# Dokploy will listen to this port for health checks
+# Dokploy will listen to this port for health checks.
+# Daily updates run through a Dokploy scheduled task: pnpm cron:update
 EXPOSE 3000
 
-# Start the Node.js scheduler
-CMD ["pnpm", "start"]
+# Keep the app container healthy without running the updater on restart.
+CMD ["pnpm", "healthcheck"]

@@ -14,9 +14,19 @@ cd "$PROJECT_ROOT"
 
 echo "=== Catalan Shields Cron Update - $(date) ==="
 
+if [[ -n "${GITHUB_PAT:-}" ]]; then
+  echo "Configuring GitHub token auth for origin..."
+  git remote set-url origin "https://oauth2:${GITHUB_PAT}@github.com/YampiSLabs/catalunya-shields.git"
+else
+  echo "WARNING: GITHUB_PAT not set. Push may fail unless the runtime already has Git credentials."
+fi
+
+git config user.name "${GIT_AUTHOR_NAME:-BeatrizAgent}"
+git config user.email "${GIT_AUTHOR_EMAIL:-beatrizagent@users.noreply.github.com}"
+
 # 1. Pull latest changes
 echo "Pulling latest changes from Git..."
-git pull
+git pull origin master
 
 # 2. Install dependencies (if lockfile changed, etc.)
 echo "Installing dependencies..."
@@ -26,23 +36,27 @@ pnpm install --frozen-lockfile
 echo "Normalizing municipality data..."
 pnpm normalize
 
-# 4. Download up to 10 missing shields
+# 4. Dry-run first so the job logs candidates without mutating tracked data
+echo "Dry-running Commons candidate review (limit 10)..."
+pnpm download:commons -- --dry-run --limit=10
+
+# 5. Download up to 10 missing shields
 echo "Downloading up to 10 new shields..."
 pnpm download:commons -- --limit=10
 
-# 5. Optimize shields
+# 6. Optimize shields
 echo "Optimizing newly downloaded shields..."
 pnpm optimize:shields
 
-# 6. Generate exports and update shields-status.md
+# 7. Generate exports and update shields-status.md
 echo "Updating exports and status documentation..."
 pnpm generate:outputs
 
-# 7. Run test suite to verify changes
+# 8. Run test suite to verify changes
 echo "Running test suite..."
 pnpm test run
 
-# 8. Check for git changes and commit/push
+# 9. Check for git changes and commit/push
 if [[ -n "$(git status --porcelain)" ]]; then
   echo "Changes detected. Preparing commit..."
   git add .
@@ -51,8 +65,8 @@ if [[ -n "$(git status --porcelain)" ]]; then
   COMMIT_MSG="feat(auto): download and optimize new municipal shields - $(date +'%Y-%m-%d')"
   git commit -m "$COMMIT_MSG"
   
-  echo "Pushing changes to origin..."
-  git push
+  echo "Pushing changes to origin master..."
+  git push origin master
   echo "Successfully pushed auto-updates to GitHub!"
 else
   echo "No new shields downloaded or modified. Everything is up to date."
