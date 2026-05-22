@@ -26,7 +26,7 @@ git config user.email "${GIT_AUTHOR_EMAIL:-beatrizagent@users.noreply.github.com
 
 # 1. Pull latest changes
 echo "Pulling latest changes from Git..."
-git pull origin master
+git pull origin main
 
 # 2. Install dependencies (if lockfile changed, etc.)
 echo "Installing dependencies..."
@@ -65,8 +65,8 @@ if [[ -n "$(git status --porcelain)" ]]; then
   COMMIT_MSG="feat(auto): download and optimize new municipal shields - $(date +'%Y-%m-%d')"
   git commit -m "$COMMIT_MSG"
   
-  echo "Pushing changes to origin master..."
-  git push origin master
+  echo "Pushing changes to origin main..."
+  git push origin main
   echo "Successfully pushed auto-updates to GitHub!"
 else
   echo "No new shields downloaded or modified. Everything is up to date."
