@@ -1,23 +1,23 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **27**
-Pending: **920**
-Progress: **2.9%**
+Downloaded: **33**
+Pending: **914**
+Progress: **3.5%**
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.9%`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3.5%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (10/311 - 3.2%)</b></summary>
+<summary><b>Barcelona (11/311 - 3.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
 | Abrera | `abrera` | ❌ Pending |
 | Aguilar de Segarra | `aguilar-de-segarra` | ❌ Pending |
 | Aiguafreda | `aiguafreda` | ✅ Downloaded |
-| Alella | `alella` | ❌ Pending |
+| Alella | `alella` | ✅ Downloaded |
 | Alpens | `alpens` | ❌ Pending |
 | Arenys de Mar | `arenys-de-mar` | ❌ Pending |
 | Arenys de Munt | `arenys-de-munt` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **2.9%**
 </details>
 
 <details>
-<summary><b>Lleida (8/231 - 3.5%)</b></summary>
+<summary><b>Lleida (12/231 - 5.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -572,10 +572,10 @@ Progress: **2.9%**
 | Alcanó | `alcano` | ✅ Downloaded |
 | Alcarràs | `alcarras` | ✅ Downloaded |
 | Alcoletge | `alcoletge` | ✅ Downloaded |
-| Alfarràs | `alfarras` | ❌ Pending |
-| Alfés | `alfes` | ❌ Pending |
-| Algerri | `algerri` | ❌ Pending |
-| Alguaire | `alguaire` | ❌ Pending |
+| Alfarràs | `alfarras` | ✅ Downloaded |
+| Alfés | `alfes` | ✅ Downloaded |
+| Algerri | `algerri` | ✅ Downloaded |
+| Alguaire | `alguaire` | ✅ Downloaded |
 | Alins | `alins` | ❌ Pending |
 | Almacelles | `almacelles` | ❌ Pending |
 | Almatret | `almatret` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **2.9%**
 </details>
 
 <details>
-<summary><b>Tarragona (5/184 - 2.7%)</b></summary>
+<summary><b>Tarragona (6/184 - 3.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -807,7 +807,7 @@ Progress: **2.9%**
 | Alcover | `alcover` | ✅ Downloaded |
 | Aldover | `aldover` | ✅ Downloaded |
 | Alfara de Carles | `alfara-de-carles` | ❌ Pending |
-| Alforja | `alforja` | ❌ Pending |
+| Alforja | `alforja` | ✅ Downloaded |
 | Alió | `alio` | ❌ Pending |
 | Almoster | `almoster` | ❌ Pending |
 | Altafulla | `altafulla` | ❌ Pending |
