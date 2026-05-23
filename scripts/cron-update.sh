@@ -24,9 +24,12 @@ fi
 git config user.name "${GIT_AUTHOR_NAME:-BeatrizAgent}"
 git config user.email "${GIT_AUTHOR_EMAIL:-beatrizagent@users.noreply.github.com}"
 
-# 1. Pull latest changes
-echo "Pulling latest changes from Git..."
-git pull origin main
+# 1. Start from the latest main and discard stale artifacts from failed runs
+echo "Resetting workspace to origin/main..."
+git fetch origin main
+git reset --hard origin/main
+git clean -fd raw/svg assets/svg src docs
+git clean -fdX data/commons-candidates
 
 # 2. Install dependencies (if lockfile changed, etc.)
 echo "Installing dependencies..."
