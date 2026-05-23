@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **20**
-Pending: **927**
-Progress: **2.1%**
+Downloaded: **27**
+Pending: **920**
+Progress: **2.9%**
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.1%`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.9%`
 
 ## Provinces Overview
 
@@ -329,14 +329,14 @@ Progress: **2.1%**
 </details>
 
 <details>
-<summary><b>Girona (3/221 - 1.4%)</b></summary>
+<summary><b>Girona (4/221 - 1.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
 | Agullana | `agullana` | ✅ Downloaded |
 | Aiguaviva | `aiguaviva` | ✅ Downloaded |
 | Albanyà | `albanya` | ✅ Downloaded |
-| Albons | `albons` | ❌ Pending |
+| Albons | `albons` | ✅ Downloaded |
 | Alp | `alp` | ❌ Pending |
 | Amer | `amer` | ❌ Pending |
 | Anglès | `angles` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **2.1%**
 </details>
 
 <details>
-<summary><b>Lleida (5/231 - 2.2%)</b></summary>
+<summary><b>Lleida (8/231 - 3.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -569,9 +569,9 @@ Progress: **2.1%**
 | Alàs i Cerc | `alas-i-cerc` | ❌ Pending |
 | Albatàrrec | `albatarrec` | ✅ Downloaded |
 | Albesa | `albesa` | ✅ Downloaded |
-| Alcanó | `alcano` | ❌ Pending |
-| Alcarràs | `alcarras` | ❌ Pending |
-| Alcoletge | `alcoletge` | ❌ Pending |
+| Alcanó | `alcano` | ✅ Downloaded |
+| Alcarràs | `alcarras` | ✅ Downloaded |
+| Alcoletge | `alcoletge` | ✅ Downloaded |
 | Alfarràs | `alfarras` | ❌ Pending |
 | Alfés | `alfes` | ❌ Pending |
 | Algerri | `algerri` | ❌ Pending |
@@ -797,15 +797,15 @@ Progress: **2.1%**
 </details>
 
 <details>
-<summary><b>Tarragona (2/184 - 1.1%)</b></summary>
+<summary><b>Tarragona (5/184 - 2.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
 | Aiguamúrcia | `aiguamurcia` | ❌ Pending |
 | Albinyana | `albinyana` | ✅ Downloaded |
-| Alcanar | `alcanar` | ❌ Pending |
-| Alcover | `alcover` | ❌ Pending |
-| Aldover | `aldover` | ❌ Pending |
+| Alcanar | `alcanar` | ✅ Downloaded |
+| Alcover | `alcover` | ✅ Downloaded |
+| Aldover | `aldover` | ✅ Downloaded |
 | Alfara de Carles | `alfara-de-carles` | ❌ Pending |
 | Alforja | `alforja` | ❌ Pending |
 | Alió | `alio` | ❌ Pending |
