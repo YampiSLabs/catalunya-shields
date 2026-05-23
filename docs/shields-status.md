@@ -1,22 +1,22 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **13**
-Pending: **934**
-Progress: **1.4%**
+Downloaded: **20**
+Pending: **927**
+Progress: **2.1%**
 
-`[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1.4%`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.1%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (9/311 - 2.9%)</b></summary>
+<summary><b>Barcelona (10/311 - 3.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
 | Abrera | `abrera` | ❌ Pending |
 | Aguilar de Segarra | `aguilar-de-segarra` | ❌ Pending |
-| Aiguafreda | `aiguafreda` | 🔍 Has Candidate |
+| Aiguafreda | `aiguafreda` | ✅ Downloaded |
 | Alella | `alella` | ❌ Pending |
 | Alpens | `alpens` | ❌ Pending |
 | Arenys de Mar | `arenys-de-mar` | ❌ Pending |
@@ -329,13 +329,13 @@ Progress: **1.4%**
 </details>
 
 <details>
-<summary><b>Girona (1/221 - 0.5%)</b></summary>
+<summary><b>Girona (3/221 - 1.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
 | Agullana | `agullana` | ✅ Downloaded |
-| Aiguaviva | `aiguaviva` | 🔍 Has Candidate |
-| Albanyà | `albanya` | ❌ Pending |
+| Aiguaviva | `aiguaviva` | ✅ Downloaded |
+| Albanyà | `albanya` | ✅ Downloaded |
 | Albons | `albons` | ❌ Pending |
 | Alp | `alp` | ❌ Pending |
 | Amer | `amer` | ❌ Pending |
@@ -403,7 +403,7 @@ Progress: **1.4%**
 | Garrigoles | `garrigoles` | ❌ Pending |
 | Garriguella | `garriguella` | ❌ Pending |
 | Ger | `ger` | ❌ Pending |
-| Girona | `girona` | 🔍 Has Candidate |
+| Girona | `girona` | ❌ Pending |
 | Gombrèn | `gombren` | ❌ Pending |
 | Gualta | `gualta` | ❌ Pending |
 | Guils de Cerdanya | `guils-de-cerdanya` | ❌ Pending |
@@ -558,17 +558,17 @@ Progress: **1.4%**
 </details>
 
 <details>
-<summary><b>Lleida (2/231 - 0.9%)</b></summary>
+<summary><b>Lleida (5/231 - 2.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
 | Abella de la Conca | `abella-de-la-conca` | ✅ Downloaded |
 | Àger | `ager` | ❌ Pending |
 | Agramunt | `agramunt` | ✅ Downloaded |
-| Aitona | `aitona` | 🔍 Has Candidate |
+| Aitona | `aitona` | ✅ Downloaded |
 | Alàs i Cerc | `alas-i-cerc` | ❌ Pending |
-| Albatàrrec | `albatarrec` | ❌ Pending |
-| Albesa | `albesa` | ❌ Pending |
+| Albatàrrec | `albatarrec` | ✅ Downloaded |
+| Albesa | `albesa` | ✅ Downloaded |
 | Alcanó | `alcano` | ❌ Pending |
 | Alcarràs | `alcarras` | ❌ Pending |
 | Alcoletge | `alcoletge` | ❌ Pending |
@@ -696,7 +696,7 @@ Progress: **1.4%**
 | Lladurs | `lladurs` | ❌ Pending |
 | Llardecans | `llardecans` | ❌ Pending |
 | Llavorsí | `llavorsi` | ❌ Pending |
-| Lleida | `lleida` | 🔍 Has Candidate |
+| Lleida | `lleida` | ❌ Pending |
 | Lles de Cerdanya | `lles-de-cerdanya` | ❌ Pending |
 | Llimiana | `llimiana` | ❌ Pending |
 | Llobera | `llobera` | ❌ Pending |
@@ -797,12 +797,12 @@ Progress: **1.4%**
 </details>
 
 <details>
-<summary><b>Tarragona (1/184 - 0.5%)</b></summary>
+<summary><b>Tarragona (2/184 - 1.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
 | Aiguamúrcia | `aiguamurcia` | ❌ Pending |
-| Albinyana | `albinyana` | ❌ Pending |
+| Albinyana | `albinyana` | ✅ Downloaded |
 | Alcanar | `alcanar` | ❌ Pending |
 | Alcover | `alcover` | ❌ Pending |
 | Aldover | `aldover` | ❌ Pending |
@@ -958,7 +958,7 @@ Progress: **1.4%**
 | Savallà del Comtat | `savalla-del-comtat` | ❌ Pending |
 | Senan | `senan` | ❌ Pending |
 | Solivella | `solivella` | ❌ Pending |
-| Tarragona | `tarragona` | 🔍 Has Candidate |
+| Tarragona | `tarragona` | ❌ Pending |
 | Tivenys | `tivenys` | ❌ Pending |
 | Tivissa | `tivissa` | ❌ Pending |
 | Torredembarra | `torredembarra` | ❌ Pending |

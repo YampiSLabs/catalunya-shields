@@ -1,6 +1,13 @@
 export { default as AbellaDeLaConca } from "../assets/svg/abella-de-la-conca.svg";
 export { default as Agramunt } from "../assets/svg/agramunt.svg";
 export { default as Agullana } from "../assets/svg/agullana.svg";
+export { default as Aiguafreda } from "../assets/svg/aiguafreda.svg";
+export { default as Aiguaviva } from "../assets/svg/aiguaviva.svg";
+export { default as Aitona } from "../assets/svg/aitona.svg";
+export { default as Albanyà } from "../assets/svg/albanya.svg";
+export { default as Albatàrrec } from "../assets/svg/albatarrec.svg";
+export { default as Albesa } from "../assets/svg/albesa.svg";
+export { default as Albinyana } from "../assets/svg/albinyana.svg";
 export { default as Badalona } from "../assets/svg/badalona.svg";
 export { default as Barcelona } from "../assets/svg/barcelona.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
