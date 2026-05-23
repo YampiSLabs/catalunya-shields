@@ -59,10 +59,10 @@ pnpm generate:outputs
 echo "Running test suite..."
 pnpm test run
 
-# 9. Check for git changes and commit/push
-if [[ -n "$(git status --porcelain)" ]]; then
+# 9. Check for generated shield changes and commit/push
+if [[ -n "$(git status --porcelain -- raw/svg assets/svg src/index.ts docs/shields-status.md)" ]]; then
   echo "Changes detected. Preparing commit..."
-  git add .
+  git add raw/svg assets/svg src/index.ts docs/shields-status.md
   
   # Standardized commit message with date
   COMMIT_MSG="feat(auto): download and optimize new municipal shields - $(date +'%Y-%m-%d')"
