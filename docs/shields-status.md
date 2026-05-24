@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **33**
-Pending: **914**
-Progress: **3.5%**
+Downloaded: **38**
+Pending: **909**
+Progress: **4.0%**
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3.5%`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.0%`
 
 ## Provinces Overview
 
@@ -558,7 +558,7 @@ Progress: **3.5%**
 </details>
 
 <details>
-<summary><b>Lleida (12/231 - 5.2%)</b></summary>
+<summary><b>Lleida (15/231 - 6.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -576,9 +576,9 @@ Progress: **3.5%**
 | Alfés | `alfes` | ✅ Downloaded |
 | Algerri | `algerri` | ✅ Downloaded |
 | Alguaire | `alguaire` | ✅ Downloaded |
-| Alins | `alins` | ❌ Pending |
-| Almacelles | `almacelles` | ❌ Pending |
-| Almatret | `almatret` | ❌ Pending |
+| Alins | `alins` | ✅ Downloaded |
+| Almacelles | `almacelles` | ✅ Downloaded |
+| Almatret | `almatret` | ✅ Downloaded |
 | Almenar | `almenar` | ❌ Pending |
 | Alòs de Balaguer | `alos-de-balaguer` | ❌ Pending |
 | Alpicat | `alpicat` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **3.5%**
 </details>
 
 <details>
-<summary><b>Tarragona (6/184 - 3.3%)</b></summary>
+<summary><b>Tarragona (8/184 - 4.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -808,8 +808,8 @@ Progress: **3.5%**
 | Aldover | `aldover` | ✅ Downloaded |
 | Alfara de Carles | `alfara-de-carles` | ❌ Pending |
 | Alforja | `alforja` | ✅ Downloaded |
-| Alió | `alio` | ❌ Pending |
-| Almoster | `almoster` | ❌ Pending |
+| Alió | `alio` | ✅ Downloaded |
+| Almoster | `almoster` | ✅ Downloaded |
 | Altafulla | `altafulla` | ❌ Pending |
 | Amposta | `amposta` | ❌ Pending |
 | Arbolí | `arboli` | ❌ Pending |
