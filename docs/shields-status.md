@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **38**
-Pending: **909**
-Progress: **4.0%**
+Downloaded: **42**
+Pending: **905**
+Progress: **4.4%**
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.0%`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.4%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (11/311 - 3.5%)</b></summary>
+<summary><b>Barcelona (12/311 - 3.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@ Progress: **4.0%**
 | Aguilar de Segarra | `aguilar-de-segarra` | ❌ Pending |
 | Aiguafreda | `aiguafreda` | ✅ Downloaded |
 | Alella | `alella` | ✅ Downloaded |
-| Alpens | `alpens` | ❌ Pending |
+| Alpens | `alpens` | ✅ Downloaded |
 | Arenys de Mar | `arenys-de-mar` | ❌ Pending |
 | Arenys de Munt | `arenys-de-munt` | ❌ Pending |
 | Argençola | `argencola` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **4.0%**
 </details>
 
 <details>
-<summary><b>Lleida (15/231 - 6.5%)</b></summary>
+<summary><b>Lleida (17/231 - 7.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -581,8 +581,8 @@ Progress: **4.0%**
 | Almatret | `almatret` | ✅ Downloaded |
 | Almenar | `almenar` | ❌ Pending |
 | Alòs de Balaguer | `alos-de-balaguer` | ❌ Pending |
-| Alpicat | `alpicat` | ❌ Pending |
-| Alt Àneu | `alt-aneu` | ❌ Pending |
+| Alpicat | `alpicat` | ✅ Downloaded |
+| Alt Àneu | `alt-aneu` | ✅ Downloaded |
 | Anglesola | `anglesola` | ❌ Pending |
 | Arbeca | `arbeca` | ❌ Pending |
 | Arres | `arres` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **4.0%**
 </details>
 
 <details>
-<summary><b>Tarragona (8/184 - 4.3%)</b></summary>
+<summary><b>Tarragona (9/184 - 4.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -810,7 +810,7 @@ Progress: **4.0%**
 | Alforja | `alforja` | ✅ Downloaded |
 | Alió | `alio` | ✅ Downloaded |
 | Almoster | `almoster` | ✅ Downloaded |
-| Altafulla | `altafulla` | ❌ Pending |
+| Altafulla | `altafulla` | ✅ Downloaded |
 | Amposta | `amposta` | ❌ Pending |
 | Arbolí | `arboli` | ❌ Pending |
 | Arnes | `arnes` | ❌ Pending |
