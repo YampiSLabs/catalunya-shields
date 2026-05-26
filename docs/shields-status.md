@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **42**
-Pending: **905**
-Progress: **4.4%**
+Downloaded: **44**
+Pending: **903**
+Progress: **4.6%**
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.4%`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.6%`
 
 ## Provinces Overview
 
@@ -558,7 +558,7 @@ Progress: **4.4%**
 </details>
 
 <details>
-<summary><b>Lleida (17/231 - 7.4%)</b></summary>
+<summary><b>Lleida (18/231 - 7.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -566,7 +566,7 @@ Progress: **4.4%**
 | Àger | `ager` | ❌ Pending |
 | Agramunt | `agramunt` | ✅ Downloaded |
 | Aitona | `aitona` | ✅ Downloaded |
-| Alàs i Cerc | `alas-i-cerc` | ❌ Pending |
+| Alàs i Cerc | `alas-i-cerc` | ✅ Downloaded |
 | Albatàrrec | `albatarrec` | ✅ Downloaded |
 | Albesa | `albesa` | ✅ Downloaded |
 | Alcanó | `alcano` | ✅ Downloaded |
@@ -797,7 +797,7 @@ Progress: **4.4%**
 </details>
 
 <details>
-<summary><b>Tarragona (9/184 - 4.9%)</b></summary>
+<summary><b>Tarragona (10/184 - 5.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -811,7 +811,7 @@ Progress: **4.4%**
 | Alió | `alio` | ✅ Downloaded |
 | Almoster | `almoster` | ✅ Downloaded |
 | Altafulla | `altafulla` | ✅ Downloaded |
-| Amposta | `amposta` | ❌ Pending |
+| Amposta | `amposta` | ✅ Downloaded |
 | Arbolí | `arboli` | ❌ Pending |
 | Arnes | `arnes` | ❌ Pending |
 | Ascó | `asco` | ❌ Pending |
