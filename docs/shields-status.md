@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **44**
-Pending: **903**
-Progress: **4.6%**
+Downloaded: **46**
+Pending: **901**
+Progress: **4.9%**
 
-`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.6%`
+`[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4.9%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **4.6%**
 </details>
 
 <details>
-<summary><b>Girona (4/221 - 1.8%)</b></summary>
+<summary><b>Girona (5/221 - 2.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -339,7 +339,7 @@ Progress: **4.6%**
 | Albons | `albons` | ✅ Downloaded |
 | Alp | `alp` | ❌ Pending |
 | Amer | `amer` | ❌ Pending |
-| Anglès | `angles` | ❌ Pending |
+| Anglès | `angles` | ✅ Downloaded |
 | Arbúcies | `arbucies` | ❌ Pending |
 | Argelaguer | `argelaguer` | ❌ Pending |
 | Avinyonet de Puigventós | `avinyonet-de-puigventos` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **4.6%**
 </details>
 
 <details>
-<summary><b>Lleida (18/231 - 7.8%)</b></summary>
+<summary><b>Lleida (19/231 - 8.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -583,7 +583,7 @@ Progress: **4.6%**
 | Alòs de Balaguer | `alos-de-balaguer` | ❌ Pending |
 | Alpicat | `alpicat` | ✅ Downloaded |
 | Alt Àneu | `alt-aneu` | ✅ Downloaded |
-| Anglesola | `anglesola` | ❌ Pending |
+| Anglesola | `anglesola` | ✅ Downloaded |
 | Arbeca | `arbeca` | ❌ Pending |
 | Arres | `arres` | ❌ Pending |
 | Arsèguel | `arseguel` | ❌ Pending |
