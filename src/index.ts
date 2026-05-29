@@ -35,6 +35,7 @@ export { default as Amposta } from "../assets/svg/amposta.svg";
 export { default as Anglès } from "../assets/svg/angles.svg";
 export { default as Anglesola } from "../assets/svg/anglesola.svg";
 export { default as Arbeca } from "../assets/svg/arbeca.svg";
+export { default as Arbúcies } from "../assets/svg/arbucies.svg";
 export { default as Badalona } from "../assets/svg/badalona.svg";
 export { default as Barcelona } from "../assets/svg/barcelona.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
