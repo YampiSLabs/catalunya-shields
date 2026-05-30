@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **48**
-Pending: **899**
-Progress: **5.1%**
+Downloaded: **49**
+Pending: **898**
+Progress: **5.2%**
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.1%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.2%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (12/311 - 3.9%)</b></summary>
+<summary><b>Barcelona (13/311 - 4.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ Progress: **5.1%**
 | Aiguafreda | `aiguafreda` | ✅ Downloaded |
 | Alella | `alella` | ✅ Downloaded |
 | Alpens | `alpens` | ✅ Downloaded |
-| Arenys de Mar | `arenys-de-mar` | ❌ Pending |
+| Arenys de Mar | `arenys-de-mar` | ✅ Downloaded |
 | Arenys de Munt | `arenys-de-munt` | ❌ Pending |
 | Argençola | `argencola` | ❌ Pending |
 | Argentona | `argentona` | ❌ Pending |
