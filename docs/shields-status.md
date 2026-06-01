@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **50**
-Pending: **897**
-Progress: **5.3%**
+Downloaded: **51**
+Pending: **896**
+Progress: **5.4%**
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.3%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.4%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **5.3%**
 </details>
 
 <details>
-<summary><b>Girona (6/221 - 2.7%)</b></summary>
+<summary><b>Girona (7/221 - 3.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -341,7 +341,7 @@ Progress: **5.3%**
 | Amer | `amer` | ❌ Pending |
 | Anglès | `angles` | ✅ Downloaded |
 | Arbúcies | `arbucies` | ✅ Downloaded |
-| Argelaguer | `argelaguer` | ❌ Pending |
+| Argelaguer | `argelaguer` | ✅ Downloaded |
 | Avinyonet de Puigventós | `avinyonet-de-puigventos` | ❌ Pending |
 | Banyoles | `banyoles` | ❌ Pending |
 | Bàscara | `bascara` | ❌ Pending |
