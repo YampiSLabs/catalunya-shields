@@ -39,6 +39,7 @@ export { default as Arbúcies } from "../assets/svg/arbucies.svg";
 export { default as ArenysDeMar } from "../assets/svg/arenys-de-mar.svg";
 export { default as ArenysDeMunt } from "../assets/svg/arenys-de-munt.svg";
 export { default as Argelaguer } from "../assets/svg/argelaguer.svg";
+export { default as Argençola } from "../assets/svg/argencola.svg";
 export { default as Argentona } from "../assets/svg/argentona.svg";
 export { default as Badalona } from "../assets/svg/badalona.svg";
 export { default as Barcelona } from "../assets/svg/barcelona.svg";
