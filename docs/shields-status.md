@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **53**
-Pending: **894**
-Progress: **5.6%**
+Downloaded: **54**
+Pending: **893**
+Progress: **5.7%**
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.6%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.7%`
 
 ## Provinces Overview
 
@@ -797,7 +797,7 @@ Progress: **5.6%**
 </details>
 
 <details>
-<summary><b>Tarragona (10/184 - 5.4%)</b></summary>
+<summary><b>Tarragona (11/184 - 6.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -813,7 +813,7 @@ Progress: **5.6%**
 | Altafulla | `altafulla` | ✅ Downloaded |
 | Amposta | `amposta` | ✅ Downloaded |
 | Arbolí | `arboli` | ❌ Pending |
-| Arnes | `arnes` | ❌ Pending |
+| Arnes | `arnes` | ✅ Downloaded |
 | Ascó | `asco` | ❌ Pending |
 | Banyeres del Penedès | `banyeres-del-penedes` | ❌ Pending |
 | Barberà de la Conca | `barbera-de-la-conca` | ❌ Pending |
