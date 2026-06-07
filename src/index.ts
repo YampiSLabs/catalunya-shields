@@ -44,6 +44,7 @@ export { default as Argentona } from "../assets/svg/argentona.svg";
 export { default as Arnes } from "../assets/svg/arnes.svg";
 export { default as Arres } from "../assets/svg/arres.svg";
 export { default as Arsèguel } from "../assets/svg/arseguel.svg";
+export { default as ArtesaDeLleida } from "../assets/svg/artesa-de-lleida.svg";
 export { default as Badalona } from "../assets/svg/badalona.svg";
 export { default as Barcelona } from "../assets/svg/barcelona.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";

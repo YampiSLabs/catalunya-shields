@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **56**
-Pending: **891**
-Progress: **5.9%**
+Downloaded: **57**
+Pending: **890**
+Progress: **6.0%**
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5.9%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.0%`
 
 ## Provinces Overview
 
@@ -558,7 +558,7 @@ Progress: **5.9%**
 </details>
 
 <details>
-<summary><b>Lleida (22/231 - 9.5%)</b></summary>
+<summary><b>Lleida (23/231 - 10.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -587,7 +587,7 @@ Progress: **5.9%**
 | Arbeca | `arbeca` | ✅ Downloaded |
 | Arres | `arres` | ✅ Downloaded |
 | Arsèguel | `arseguel` | ✅ Downloaded |
-| Artesa de Lleida | `artesa-de-lleida` | ❌ Pending |
+| Artesa de Lleida | `artesa-de-lleida` | ✅ Downloaded |
 | Artesa de Segre | `artesa-de-segre` | ❌ Pending |
 | Aspa | `aspa` | ❌ Pending |
 | Baix Pallars | `baix-pallars` | ❌ Pending |
