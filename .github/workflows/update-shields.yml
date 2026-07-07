@@ -1,0 +1,115 @@
+name: Update Municipal Shields
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+    paths:
+      - "assets/svg/**"
+      - "data/**"
+      - "docs/**"
+      - "raw/svg/**"
+      - "scripts/**"
+      - "src/**"
+      - "tests/**"
+      - "package.json"
+      - "pnpm-lock.yaml"
+      - "pnpm-workspace.yaml"
+      - ".github/workflows/update-shields.yml"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-municipal-shields
+  cancel-in-progress: false
+
+jobs:
+  test:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.30.3
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - run: pnpm test run
+
+  update:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    env:
+      SHIELDS_UPDATE_LIMIT: ${{ vars.SHIELDS_UPDATE_LIMIT || '10' }}
+      WIKIMEDIA_DELAY_MS: ${{ vars.WIKIMEDIA_DELAY_MS || '10000' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.30.3
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Normalize municipality data
+        run: pnpm normalize
+
+      - name: Dry-run Commons candidate review
+        run: pnpm download:commons -- --dry-run --limit="$SHIELDS_UPDATE_LIMIT"
+
+      - name: Download new real shields from Commons
+        run: pnpm download:commons -- --limit="$SHIELDS_UPDATE_LIMIT"
+
+      - name: Optimize and regenerate package outputs
+        run: |
+          pnpm optimize:shields
+          pnpm generate:outputs
+
+      - run: pnpm test run
+
+      - uses: peter-evans/create-pull-request@v7
+        id: cpr
+        with:
+          token: ${{ secrets.BEATRIZ_AGENT_PAT || github.token }}
+          branch: beatriz/update-municipal-shields
+          delete-branch: true
+          add-paths: |
+            assets/svg/**
+            data/commons-candidates/**
+            docs/shields-status.md
+            raw/svg/**
+            src/index.ts
+          commit-message: "feat(auto): update municipal shields"
+          committer: "BeatrizAgent <beatrizagent@users.noreply.github.com>"
+          author: "BeatrizAgent <beatrizagent@users.noreply.github.com>"
+          title: "feat(auto): update municipal shields"
+          body: |
+            Automated update from Wikimedia Commons.
+
+            The workflow uses a dry-run first, downloads a limited batch of high-confidence real SVG shield candidates, optimizes the SVG assets, regenerates package exports, and runs tests before creating this PR.
+
+      - name: Enable automerge for generated shield update
+        if: steps.cpr.outputs.pull-request-number
+        env:
+          GH_TOKEN: ${{ secrets.BEATRIZ_AGENT_PAT || github.token }}
+          PR_NUMBER: ${{ steps.cpr.outputs.pull-request-number }}
+          PR_HEAD_SHA: ${{ steps.cpr.outputs.pull-request-head-sha }}
+        run: gh pr merge "$PR_NUMBER" --auto --squash --delete-branch --match-head-commit "$PR_HEAD_SHA"
