@@ -4,5 +4,4 @@ node_modules
 data/municipalities.json
 data/metadata.json
 data/missing.json
-data/commons-candidates/
 .DS_Store
