@@ -23,8 +23,16 @@ const dryRun = args.includes("--dry-run");
 const municipalityFilter = args
   .find((a) => a.startsWith("--municipality="))
   ?.split("=")[1];
-const limit = parseInt(
+const legacyLimit = parseInt(
   args.find((a) => a.startsWith("--limit="))?.split("=")[1] || "5",
+);
+const reviewLimit = parseInt(
+  args.find((a) => a.startsWith("--review-limit="))?.split("=")[1] ||
+    String(legacyLimit),
+);
+const downloadLimit = parseInt(
+  args.find((a) => a.startsWith("--download-limit="))?.split("=")[1] ||
+    String(legacyLimit),
 );
 
 const municipalities = readJson<Municipality[]>("data/municipalities.json");
@@ -40,9 +48,9 @@ async function run() {
   let downloaded = 0;
 
   for (const m of filtered) {
-    if (reviewed >= limit || downloaded >= limit) {
+    if (reviewed >= reviewLimit || downloaded >= downloadLimit) {
       console.log(
-        `Limit reached: reviewed=${reviewed}, downloaded=${downloaded}, limit=${limit}`,
+        `Limit reached: reviewed=${reviewed}/${reviewLimit}, downloaded=${downloaded}/${downloadLimit}`,
       );
       break;
     }
@@ -103,7 +111,9 @@ async function run() {
       if (url) {
         await downloadFile(url, outputPath);
         downloaded += 1;
-        console.log(`Downloaded: ${outputPath} (${downloaded}/${limit})`);
+        console.log(
+          `Downloaded: ${outputPath} (${downloaded}/${downloadLimit})`,
+        );
         await delay(requestDelayMs);
       }
     } else {
@@ -112,7 +122,7 @@ async function run() {
   }
 
   console.log(
-    `Completed: reviewed=${reviewed}, downloaded=${downloaded}, limit=${limit}`,
+    `Completed: reviewed=${reviewed}/${reviewLimit}, downloaded=${downloaded}/${downloadLimit}`,
   );
 }
 

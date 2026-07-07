@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "23 3 * * *"
   workflow_dispatch:
+    inputs:
+      review_limit:
+        description: "Maximum missing municipalities to review"
+        required: false
+        default: "50"
+      download_limit:
+        description: "Maximum SVG shields to download"
+        required: false
+        default: "5"
   pull_request:
     branches: [main]
     paths:
@@ -53,7 +62,8 @@ jobs:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     env:
-      SHIELDS_UPDATE_LIMIT: ${{ vars.SHIELDS_UPDATE_LIMIT || '10' }}
+      SHIELDS_REVIEW_LIMIT: ${{ github.event.inputs.review_limit || vars.SHIELDS_REVIEW_LIMIT || vars.SHIELDS_UPDATE_LIMIT || '50' }}
+      SHIELDS_DOWNLOAD_LIMIT: ${{ github.event.inputs.download_limit || vars.SHIELDS_DOWNLOAD_LIMIT || '5' }}
       WIKIMEDIA_DELAY_MS: ${{ vars.WIKIMEDIA_DELAY_MS || '10000' }}
     steps:
       - uses: actions/checkout@v4
@@ -73,10 +83,10 @@ jobs:
         run: pnpm normalize
 
       - name: Dry-run Commons candidate review
-        run: pnpm download:commons -- --dry-run --limit="$SHIELDS_UPDATE_LIMIT"
+        run: pnpm download:commons -- --dry-run --review-limit="$SHIELDS_REVIEW_LIMIT" --download-limit="$SHIELDS_DOWNLOAD_LIMIT"
 
       - name: Download new real shields from Commons
-        run: pnpm download:commons -- --limit="$SHIELDS_UPDATE_LIMIT"
+        run: pnpm download:commons -- --review-limit="$SHIELDS_REVIEW_LIMIT" --download-limit="$SHIELDS_DOWNLOAD_LIMIT"
 
       - name: Optimize and regenerate package outputs
         run: |
