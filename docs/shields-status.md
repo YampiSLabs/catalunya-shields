@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **57**
-Pending: **890**
-Progress: **6.0%**
+Downloaded: **62**
+Pending: **885**
+Progress: **6.5%**
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.0%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.5%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (16/311 - 5.1%)</b></summary>
+<summary><b>Barcelona (18/311 - 5.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -23,10 +23,10 @@ Progress: **6.0%**
 | Arenys de Munt | `arenys-de-munt` | ✅ Downloaded |
 | Argençola | `argencola` | ✅ Downloaded |
 | Argentona | `argentona` | ✅ Downloaded |
-| Artés | `artes` | ❌ Pending |
+| Artés | `artes` | ✅ Downloaded |
 | Avià | `avia` | ❌ Pending |
 | Avinyó | `avinyo` | ❌ Pending |
-| Avinyonet del Penedès | `avinyonet-del-penedes` | ❌ Pending |
+| Avinyonet del Penedès | `avinyonet-del-penedes` | ✅ Downloaded |
 | Badalona | `badalona` | ✅ Downloaded |
 | Badia del Vallès | `badia-del-valles` | ❌ Pending |
 | Bagà | `baga` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **6.0%**
 </details>
 
 <details>
-<summary><b>Girona (7/221 - 3.2%)</b></summary>
+<summary><b>Girona (8/221 - 3.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -342,7 +342,7 @@ Progress: **6.0%**
 | Anglès | `angles` | ✅ Downloaded |
 | Arbúcies | `arbucies` | ✅ Downloaded |
 | Argelaguer | `argelaguer` | ✅ Downloaded |
-| Avinyonet de Puigventós | `avinyonet-de-puigventos` | ❌ Pending |
+| Avinyonet de Puigventós | `avinyonet-de-puigventos` | ✅ Downloaded |
 | Banyoles | `banyoles` | ❌ Pending |
 | Bàscara | `bascara` | ❌ Pending |
 | Begur | `begur` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **6.0%**
 </details>
 
 <details>
-<summary><b>Lleida (23/231 - 10.0%)</b></summary>
+<summary><b>Lleida (24/231 - 10.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -589,7 +589,7 @@ Progress: **6.0%**
 | Arsèguel | `arseguel` | ✅ Downloaded |
 | Artesa de Lleida | `artesa-de-lleida` | ✅ Downloaded |
 | Artesa de Segre | `artesa-de-segre` | ❌ Pending |
-| Aspa | `aspa` | ❌ Pending |
+| Aspa | `aspa` | ✅ Downloaded |
 | Baix Pallars | `baix-pallars` | ❌ Pending |
 | Balaguer | `balaguer` | ❌ Pending |
 | Barbens | `barbens` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **6.0%**
 </details>
 
 <details>
-<summary><b>Tarragona (11/184 - 6.0%)</b></summary>
+<summary><b>Tarragona (12/184 - 6.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -814,7 +814,7 @@ Progress: **6.0%**
 | Amposta | `amposta` | ✅ Downloaded |
 | Arbolí | `arboli` | ❌ Pending |
 | Arnes | `arnes` | ✅ Downloaded |
-| Ascó | `asco` | ❌ Pending |
+| Ascó | `asco` | ✅ Downloaded |
 | Banyeres del Penedès | `banyeres-del-penedes` | ❌ Pending |
 | Barberà de la Conca | `barbera-de-la-conca` | ❌ Pending |
 | Batea | `batea` | ❌ Pending |
