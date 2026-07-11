@@ -116,10 +116,16 @@ jobs:
 
             The workflow uses a dry-run first, downloads a limited batch of high-confidence real SVG shield candidates, optimizes the SVG assets, regenerates package exports, and runs tests before creating this PR.
 
-      - name: Enable automerge for generated shield update
+      - name: Merge generated shield update
         if: steps.cpr.outputs.pull-request-number
         env:
           GH_TOKEN: ${{ secrets.BEATRIZ_AGENT_PAT || github.token }}
           PR_NUMBER: ${{ steps.cpr.outputs.pull-request-number }}
           PR_HEAD_SHA: ${{ steps.cpr.outputs.pull-request-head-sha }}
-        run: gh pr merge "$PR_NUMBER" --auto --squash --delete-branch --match-head-commit "$PR_HEAD_SHA"
+        run: |
+          CURRENT_SHA=$(gh pr view "$PR_NUMBER" --json headRefOid -q '.headRefOid')
+          if [ "$CURRENT_SHA" = "$PR_HEAD_SHA" ]; then
+            gh pr merge "$PR_NUMBER" --squash --delete-branch
+          else
+            echo "PR head changed ($CURRENT_SHA != $PR_HEAD_SHA), skipping merge"
+          fi
