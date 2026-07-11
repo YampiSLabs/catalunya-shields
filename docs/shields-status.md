@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **62**
-Pending: **885**
-Progress: **6.5%**
+Downloaded: **67**
+Pending: **880**
+Progress: **7.1%**
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6.5%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7.1%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (18/311 - 5.8%)</b></summary>
+<summary><b>Barcelona (22/311 - 7.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -24,12 +24,12 @@ Progress: **6.5%**
 | Argençola | `argencola` | ✅ Downloaded |
 | Argentona | `argentona` | ✅ Downloaded |
 | Artés | `artes` | ✅ Downloaded |
-| Avià | `avia` | ❌ Pending |
-| Avinyó | `avinyo` | ❌ Pending |
+| Avià | `avia` | ✅ Downloaded |
+| Avinyó | `avinyo` | ✅ Downloaded |
 | Avinyonet del Penedès | `avinyonet-del-penedes` | ✅ Downloaded |
 | Badalona | `badalona` | ✅ Downloaded |
-| Badia del Vallès | `badia-del-valles` | ❌ Pending |
-| Bagà | `baga` | ❌ Pending |
+| Badia del Vallès | `badia-del-valles` | ✅ Downloaded |
+| Bagà | `baga` | ✅ Downloaded |
 | Balenyà | `balenya` | ❌ Pending |
 | Balsareny | `balsareny` | ❌ Pending |
 | Barberà del Vallès | `barbera-del-valles` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **6.5%**
 </details>
 
 <details>
-<summary><b>Lleida (24/231 - 10.4%)</b></summary>
+<summary><b>Lleida (25/231 - 10.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -590,7 +590,7 @@ Progress: **6.5%**
 | Artesa de Lleida | `artesa-de-lleida` | ✅ Downloaded |
 | Artesa de Segre | `artesa-de-segre` | ❌ Pending |
 | Aspa | `aspa` | ✅ Downloaded |
-| Baix Pallars | `baix-pallars` | ❌ Pending |
+| Baix Pallars | `baix-pallars` | ✅ Downloaded |
 | Balaguer | `balaguer` | ❌ Pending |
 | Barbens | `barbens` | ❌ Pending |
 | Bassella | `bassella` | ❌ Pending |
