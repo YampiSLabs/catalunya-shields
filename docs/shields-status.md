@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **72**
-Pending: **875**
-Progress: **7.6%**
+Downloaded: **77**
+Pending: **870**
+Progress: **8.1%**
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7.6%`
+`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.1%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (24/311 - 7.7%)</b></summary>
+<summary><b>Barcelona (25/311 - 8.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ Progress: **7.6%**
 | Bagà | `baga` | ✅ Downloaded |
 | Balenyà | `balenya` | ✅ Downloaded |
 | Balsareny | `balsareny` | ✅ Downloaded |
-| Barberà del Vallès | `barbera-del-valles` | ❌ Pending |
+| Barberà del Vallès | `barbera-del-valles` | ✅ Downloaded |
 | Barcelona | `barcelona` | ✅ Downloaded |
 | Begues | `begues` | ❌ Pending |
 | Bellprat | `bellprat` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **7.6%**
 </details>
 
 <details>
-<summary><b>Lleida (26/231 - 11.3%)</b></summary>
+<summary><b>Lleida (28/231 - 12.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -592,8 +592,8 @@ Progress: **7.6%**
 | Aspa | `aspa` | ✅ Downloaded |
 | Baix Pallars | `baix-pallars` | ✅ Downloaded |
 | Balaguer | `balaguer` | ✅ Downloaded |
-| Barbens | `barbens` | ❌ Pending |
-| Bassella | `bassella` | ❌ Pending |
+| Barbens | `barbens` | ✅ Downloaded |
+| Bassella | `bassella` | ✅ Downloaded |
 | Bausen | `bausen` | ❌ Pending |
 | Belianes | `belianes` | ❌ Pending |
 | Bell-lloc d'Urgell | `bell-lloc-durgell` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **7.6%**
 </details>
 
 <details>
-<summary><b>Tarragona (13/184 - 7.1%)</b></summary>
+<summary><b>Tarragona (15/184 - 8.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -816,8 +816,8 @@ Progress: **7.6%**
 | Arnes | `arnes` | ✅ Downloaded |
 | Ascó | `asco` | ✅ Downloaded |
 | Banyeres del Penedès | `banyeres-del-penedes` | ✅ Downloaded |
-| Barberà de la Conca | `barbera-de-la-conca` | ❌ Pending |
-| Batea | `batea` | ❌ Pending |
+| Barberà de la Conca | `barbera-de-la-conca` | ✅ Downloaded |
+| Batea | `batea` | ✅ Downloaded |
 | Bellmunt del Priorat | `bellmunt-del-priorat` | ❌ Pending |
 | Bellvei | `bellvei` | ❌ Pending |
 | Benifallet | `benifallet` | ❌ Pending |
