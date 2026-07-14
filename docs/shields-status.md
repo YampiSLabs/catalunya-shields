@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **77**
-Pending: **870**
-Progress: **8.1%**
+Downloaded: **82**
+Pending: **865**
+Progress: **8.7%**
 
-`[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.1%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.7%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (25/311 - 8.0%)</b></summary>
+<summary><b>Barcelona (26/311 - 8.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ Progress: **8.1%**
 | Balsareny | `balsareny` | ✅ Downloaded |
 | Barberà del Vallès | `barbera-del-valles` | ✅ Downloaded |
 | Barcelona | `barcelona` | ✅ Downloaded |
-| Begues | `begues` | ❌ Pending |
+| Begues | `begues` | ✅ Downloaded |
 | Bellprat | `bellprat` | ❌ Pending |
 | Berga | `berga` | ❌ Pending |
 | Bigues i Riells del Fai | `bigues-i-riells-del-fai` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **8.1%**
 </details>
 
 <details>
-<summary><b>Girona (9/221 - 4.1%)</b></summary>
+<summary><b>Girona (10/221 - 4.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -345,7 +345,7 @@ Progress: **8.1%**
 | Avinyonet de Puigventós | `avinyonet-de-puigventos` | ✅ Downloaded |
 | Banyoles | `banyoles` | ✅ Downloaded |
 | Bàscara | `bascara` | ❌ Pending |
-| Begur | `begur` | ❌ Pending |
+| Begur | `begur` | ✅ Downloaded |
 | Bellcaire d'Empordà | `bellcaire-demporda` | ❌ Pending |
 | Besalú | `besalu` | ❌ Pending |
 | Bescanó | `bescano` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **8.1%**
 </details>
 
 <details>
-<summary><b>Lleida (28/231 - 12.1%)</b></summary>
+<summary><b>Lleida (31/231 - 13.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -594,9 +594,9 @@ Progress: **8.1%**
 | Balaguer | `balaguer` | ✅ Downloaded |
 | Barbens | `barbens` | ✅ Downloaded |
 | Bassella | `bassella` | ✅ Downloaded |
-| Bausen | `bausen` | ❌ Pending |
-| Belianes | `belianes` | ❌ Pending |
-| Bell-lloc d'Urgell | `bell-lloc-durgell` | ❌ Pending |
+| Bausen | `bausen` | ✅ Downloaded |
+| Belianes | `belianes` | ✅ Downloaded |
+| Bell-lloc d'Urgell | `bell-lloc-durgell` | ✅ Downloaded |
 | Bellaguarda | `bellaguarda` | ❌ Pending |
 | Bellcaire d'Urgell | `bellcaire-durgell` | ❌ Pending |
 | Bellmunt d'Urgell | `bellmunt-durgell` | ❌ Pending |

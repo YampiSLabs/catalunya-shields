@@ -67,6 +67,11 @@ export { default as BarberàDelVallès } from "../assets/svg/barbera-del-valles.
 export { default as Barcelona } from "../assets/svg/barcelona.svg";
 export { default as Bassella } from "../assets/svg/bassella.svg";
 export { default as Batea } from "../assets/svg/batea.svg";
+export { default as Bausen } from "../assets/svg/bausen.svg";
+export { default as Begues } from "../assets/svg/begues.svg";
+export { default as Begur } from "../assets/svg/begur.svg";
+export { default as Belianes } from "../assets/svg/belianes.svg";
+export { default as BellLlocDUrgell } from "../assets/svg/bell-lloc-durgell.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";
