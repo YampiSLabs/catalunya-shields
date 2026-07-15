@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **82**
-Pending: **865**
-Progress: **8.7%**
+Downloaded: **87**
+Pending: **860**
+Progress: **9.2%**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.7%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9.2%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (26/311 - 8.4%)</b></summary>
+<summary><b>Barcelona (27/311 - 8.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ Progress: **8.7%**
 | Barberà del Vallès | `barbera-del-valles` | ✅ Downloaded |
 | Barcelona | `barcelona` | ✅ Downloaded |
 | Begues | `begues` | ✅ Downloaded |
-| Bellprat | `bellprat` | ❌ Pending |
+| Bellprat | `bellprat` | ✅ Downloaded |
 | Berga | `berga` | ❌ Pending |
 | Bigues i Riells del Fai | `bigues-i-riells-del-fai` | ❌ Pending |
 | Borredà | `borreda` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **8.7%**
 </details>
 
 <details>
-<summary><b>Girona (10/221 - 4.5%)</b></summary>
+<summary><b>Girona (11/221 - 5.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -346,7 +346,7 @@ Progress: **8.7%**
 | Banyoles | `banyoles` | ✅ Downloaded |
 | Bàscara | `bascara` | ❌ Pending |
 | Begur | `begur` | ✅ Downloaded |
-| Bellcaire d'Empordà | `bellcaire-demporda` | ❌ Pending |
+| Bellcaire d'Empordà | `bellcaire-demporda` | ✅ Downloaded |
 | Besalú | `besalu` | ❌ Pending |
 | Bescanó | `bescano` | ❌ Pending |
 | Beuda | `beuda` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **8.7%**
 </details>
 
 <details>
-<summary><b>Lleida (31/231 - 13.4%)</b></summary>
+<summary><b>Lleida (34/231 - 14.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -597,10 +597,10 @@ Progress: **8.7%**
 | Bausen | `bausen` | ✅ Downloaded |
 | Belianes | `belianes` | ✅ Downloaded |
 | Bell-lloc d'Urgell | `bell-lloc-durgell` | ✅ Downloaded |
-| Bellaguarda | `bellaguarda` | ❌ Pending |
+| Bellaguarda | `bellaguarda` | ✅ Downloaded |
 | Bellcaire d'Urgell | `bellcaire-durgell` | ❌ Pending |
-| Bellmunt d'Urgell | `bellmunt-durgell` | ❌ Pending |
-| Bellpuig | `bellpuig` | ❌ Pending |
+| Bellmunt d'Urgell | `bellmunt-durgell` | ✅ Downloaded |
+| Bellpuig | `bellpuig` | ✅ Downloaded |
 | Bellver de Cerdanya | `bellver-de-cerdanya` | ❌ Pending |
 | Bellvís | `bellvis` | ❌ Pending |
 | Benavent de Segrià | `benavent-de-segria` | ❌ Pending |
