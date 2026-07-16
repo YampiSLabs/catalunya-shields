@@ -77,6 +77,11 @@ export { default as BellLlocDUrgell } from "../assets/svg/bell-lloc-durgell.svg"
 export { default as BellmuntDUrgell } from "../assets/svg/bellmunt-durgell.svg";
 export { default as Bellprat } from "../assets/svg/bellprat.svg";
 export { default as Bellpuig } from "../assets/svg/bellpuig.svg";
+export { default as Bellvei } from "../assets/svg/bellvei.svg";
+export { default as BellverDeCerdanya } from "../assets/svg/bellver-de-cerdanya.svg";
+export { default as Bellvís } from "../assets/svg/bellvis.svg";
+export { default as BenaventDeSegrià } from "../assets/svg/benavent-de-segria.svg";
+export { default as Benifallet } from "../assets/svg/benifallet.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";

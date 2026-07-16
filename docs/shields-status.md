@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **87**
-Pending: **860**
-Progress: **9.2%**
+Downloaded: **92**
+Pending: **855**
+Progress: **9.7%**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9.2%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9.7%`
 
 ## Provinces Overview
 
@@ -558,7 +558,7 @@ Progress: **9.2%**
 </details>
 
 <details>
-<summary><b>Lleida (34/231 - 14.7%)</b></summary>
+<summary><b>Lleida (37/231 - 16.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -601,9 +601,9 @@ Progress: **9.2%**
 | Bellcaire d'Urgell | `bellcaire-durgell` | ❌ Pending |
 | Bellmunt d'Urgell | `bellmunt-durgell` | ✅ Downloaded |
 | Bellpuig | `bellpuig` | ✅ Downloaded |
-| Bellver de Cerdanya | `bellver-de-cerdanya` | ❌ Pending |
-| Bellvís | `bellvis` | ❌ Pending |
-| Benavent de Segrià | `benavent-de-segria` | ❌ Pending |
+| Bellver de Cerdanya | `bellver-de-cerdanya` | ✅ Downloaded |
+| Bellvís | `bellvis` | ✅ Downloaded |
+| Benavent de Segrià | `benavent-de-segria` | ✅ Downloaded |
 | Biosca | `biosca` | ❌ Pending |
 | Bossòst | `bossost` | ❌ Pending |
 | Bovera | `bovera` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **9.2%**
 </details>
 
 <details>
-<summary><b>Tarragona (15/184 - 8.2%)</b></summary>
+<summary><b>Tarragona (17/184 - 9.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -819,8 +819,8 @@ Progress: **9.2%**
 | Barberà de la Conca | `barbera-de-la-conca` | ✅ Downloaded |
 | Batea | `batea` | ✅ Downloaded |
 | Bellmunt del Priorat | `bellmunt-del-priorat` | ❌ Pending |
-| Bellvei | `bellvei` | ❌ Pending |
-| Benifallet | `benifallet` | ❌ Pending |
+| Bellvei | `bellvei` | ✅ Downloaded |
+| Benifallet | `benifallet` | ✅ Downloaded |
 | Benissanet | `benissanet` | ❌ Pending |
 | Blancafort | `blancafort` | ❌ Pending |
 | Bonastre | `bonastre` | ❌ Pending |
