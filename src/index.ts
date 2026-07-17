@@ -82,6 +82,11 @@ export { default as BellverDeCerdanya } from "../assets/svg/bellver-de-cerdanya.
 export { default as Bellvís } from "../assets/svg/bellvis.svg";
 export { default as BenaventDeSegrià } from "../assets/svg/benavent-de-segria.svg";
 export { default as Benifallet } from "../assets/svg/benifallet.svg";
+export { default as Berga } from "../assets/svg/berga.svg";
+export { default as Besalú } from "../assets/svg/besalu.svg";
+export { default as Bescanó } from "../assets/svg/bescano.svg";
+export { default as Beuda } from "../assets/svg/beuda.svg";
+export { default as Biosca } from "../assets/svg/biosca.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";

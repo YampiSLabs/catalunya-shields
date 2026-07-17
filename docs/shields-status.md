@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **92**
-Pending: **855**
-Progress: **9.7%**
+Downloaded: **97**
+Pending: **850**
+Progress: **10.2%**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9.7%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.2%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (27/311 - 8.7%)</b></summary>
+<summary><b>Barcelona (28/311 - 9.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Progress: **9.7%**
 | Barcelona | `barcelona` | ✅ Downloaded |
 | Begues | `begues` | ✅ Downloaded |
 | Bellprat | `bellprat` | ✅ Downloaded |
-| Berga | `berga` | ❌ Pending |
+| Berga | `berga` | ✅ Downloaded |
 | Bigues i Riells del Fai | `bigues-i-riells-del-fai` | ❌ Pending |
 | Borredà | `borreda` | ❌ Pending |
 | Cabrera d'Anoia | `cabrera-danoia` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **9.7%**
 </details>
 
 <details>
-<summary><b>Girona (11/221 - 5.0%)</b></summary>
+<summary><b>Girona (14/221 - 6.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -347,9 +347,9 @@ Progress: **9.7%**
 | Bàscara | `bascara` | ❌ Pending |
 | Begur | `begur` | ✅ Downloaded |
 | Bellcaire d'Empordà | `bellcaire-demporda` | ✅ Downloaded |
-| Besalú | `besalu` | ❌ Pending |
-| Bescanó | `bescano` | ❌ Pending |
-| Beuda | `beuda` | ❌ Pending |
+| Besalú | `besalu` | ✅ Downloaded |
+| Bescanó | `bescano` | ✅ Downloaded |
+| Beuda | `beuda` | ✅ Downloaded |
 | Biure | `biure` | ❌ Pending |
 | Blanes | `blanes` | ❌ Pending |
 | Boadella i les Escaules | `boadella-i-les-escaules` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **9.7%**
 </details>
 
 <details>
-<summary><b>Lleida (37/231 - 16.0%)</b></summary>
+<summary><b>Lleida (38/231 - 16.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -604,7 +604,7 @@ Progress: **9.7%**
 | Bellver de Cerdanya | `bellver-de-cerdanya` | ✅ Downloaded |
 | Bellvís | `bellvis` | ✅ Downloaded |
 | Benavent de Segrià | `benavent-de-segria` | ✅ Downloaded |
-| Biosca | `biosca` | ❌ Pending |
+| Biosca | `biosca` | ✅ Downloaded |
 | Bossòst | `bossost` | ❌ Pending |
 | Bovera | `bovera` | ❌ Pending |
 | Cabanabona | `cabanabona` | ❌ Pending |
