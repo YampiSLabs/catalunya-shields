@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **97**
-Pending: **850**
-Progress: **10.2%**
+Downloaded: **102**
+Pending: **845**
+Progress: **10.8%**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.2%`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10.8%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **10.2%**
 </details>
 
 <details>
-<summary><b>Girona (14/221 - 6.3%)</b></summary>
+<summary><b>Girona (17/221 - 7.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -350,10 +350,10 @@ Progress: **10.2%**
 | Besalú | `besalu` | ✅ Downloaded |
 | Bescanó | `bescano` | ✅ Downloaded |
 | Beuda | `beuda` | ✅ Downloaded |
-| Biure | `biure` | ❌ Pending |
-| Blanes | `blanes` | ❌ Pending |
+| Biure | `biure` | ✅ Downloaded |
+| Blanes | `blanes` | ✅ Downloaded |
 | Boadella i les Escaules | `boadella-i-les-escaules` | ❌ Pending |
-| Bolvir | `bolvir` | ❌ Pending |
+| Bolvir | `bolvir` | ✅ Downloaded |
 | Bordils | `bordils` | ❌ Pending |
 | Borrassà | `borrassa` | ❌ Pending |
 | Breda | `breda` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **10.2%**
 </details>
 
 <details>
-<summary><b>Tarragona (17/184 - 9.2%)</b></summary>
+<summary><b>Tarragona (19/184 - 10.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -822,8 +822,8 @@ Progress: **10.2%**
 | Bellvei | `bellvei` | ✅ Downloaded |
 | Benifallet | `benifallet` | ✅ Downloaded |
 | Benissanet | `benissanet` | ❌ Pending |
-| Blancafort | `blancafort` | ❌ Pending |
-| Bonastre | `bonastre` | ❌ Pending |
+| Blancafort | `blancafort` | ✅ Downloaded |
+| Bonastre | `bonastre` | ✅ Downloaded |
 | Bot | `bot` | ❌ Pending |
 | Botarell | `botarell` | ❌ Pending |
 | Bràfim | `brafim` | ❌ Pending |
