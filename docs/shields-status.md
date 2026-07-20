@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **107**
-Pending: **840**
-Progress: **11.3%**
+Downloaded: **112**
+Pending: **835**
+Progress: **11.8%**
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 11.3%`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 11.8%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **11.3%**
 </details>
 
 <details>
-<summary><b>Girona (19/221 - 8.6%)</b></summary>
+<summary><b>Girona (21/221 - 9.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -344,7 +344,7 @@ Progress: **11.3%**
 | Argelaguer | `argelaguer` | ✅ Downloaded |
 | Avinyonet de Puigventós | `avinyonet-de-puigventos` | ✅ Downloaded |
 | Banyoles | `banyoles` | ✅ Downloaded |
-| Bàscara | `bascara` | ❌ Pending |
+| Bàscara | `bascara` | ✅ Downloaded |
 | Begur | `begur` | ✅ Downloaded |
 | Bellcaire d'Empordà | `bellcaire-demporda` | ✅ Downloaded |
 | Besalú | `besalu` | ✅ Downloaded |
@@ -356,7 +356,7 @@ Progress: **11.3%**
 | Bolvir | `bolvir` | ✅ Downloaded |
 | Bordils | `bordils` | ✅ Downloaded |
 | Borrassà | `borrassa` | ✅ Downloaded |
-| Breda | `breda` | ❌ Pending |
+| Breda | `breda` | ✅ Downloaded |
 | Brunyola i Sant Martí Sapresa | `brunyola-i-sant-marti-sapresa` | ❌ Pending |
 | Cabanelles | `cabanelles` | ❌ Pending |
 | Cabanes | `cabanes` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **11.3%**
 </details>
 
 <details>
-<summary><b>Lleida (39/231 - 16.9%)</b></summary>
+<summary><b>Lleida (41/231 - 17.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -606,8 +606,8 @@ Progress: **11.3%**
 | Benavent de Segrià | `benavent-de-segria` | ✅ Downloaded |
 | Biosca | `biosca` | ✅ Downloaded |
 | Bossòst | `bossost` | ✅ Downloaded |
-| Bovera | `bovera` | ❌ Pending |
-| Cabanabona | `cabanabona` | ❌ Pending |
+| Bovera | `bovera` | ✅ Downloaded |
+| Cabanabona | `cabanabona` | ✅ Downloaded |
 | Cabó | `cabo` | ❌ Pending |
 | Camarasa | `camarasa` | ❌ Pending |
 | Canejan | `canejan` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **11.3%**
 </details>
 
 <details>
-<summary><b>Tarragona (20/184 - 10.9%)</b></summary>
+<summary><b>Tarragona (21/184 - 11.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -826,7 +826,7 @@ Progress: **11.3%**
 | Bonastre | `bonastre` | ✅ Downloaded |
 | Bot | `bot` | ❌ Pending |
 | Botarell | `botarell` | ✅ Downloaded |
-| Bràfim | `brafim` | ❌ Pending |
+| Bràfim | `brafim` | ✅ Downloaded |
 | Cabassers | `cabassers` | ❌ Pending |
 | Cabra del Camp | `cabra-del-camp` | ❌ Pending |
 | Calafell | `calafell` | ❌ Pending |
