@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **112**
-Pending: **835**
-Progress: **11.8%**
+Downloaded: **117**
+Pending: **830**
+Progress: **12.4%**
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 11.8%`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 12.4%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (29/311 - 9.3%)</b></summary>
+<summary><b>Barcelona (31/311 - 10.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -40,8 +40,8 @@ Progress: **11.8%**
 | Bigues i Riells del Fai | `bigues-i-riells-del-fai` | ❌ Pending |
 | Borredà | `borreda` | ✅ Downloaded |
 | Cabrera d'Anoia | `cabrera-danoia` | ❌ Pending |
-| Cabrera de Mar | `cabrera-de-mar` | ❌ Pending |
-| Cabrils | `cabrils` | ❌ Pending |
+| Cabrera de Mar | `cabrera-de-mar` | ✅ Downloaded |
+| Cabrils | `cabrils` | ✅ Downloaded |
 | Calaf | `calaf` | ❌ Pending |
 | Calders | `calders` | ❌ Pending |
 | Caldes d'Estrac | `caldes-destrac` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **11.8%**
 </details>
 
 <details>
-<summary><b>Girona (21/221 - 9.5%)</b></summary>
+<summary><b>Girona (23/221 - 10.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -358,8 +358,8 @@ Progress: **11.8%**
 | Borrassà | `borrassa` | ✅ Downloaded |
 | Breda | `breda` | ✅ Downloaded |
 | Brunyola i Sant Martí Sapresa | `brunyola-i-sant-marti-sapresa` | ❌ Pending |
-| Cabanelles | `cabanelles` | ❌ Pending |
-| Cabanes | `cabanes` | ❌ Pending |
+| Cabanelles | `cabanelles` | ✅ Downloaded |
+| Cabanes | `cabanes` | ✅ Downloaded |
 | Cadaqués | `cadaques` | ❌ Pending |
 | Caldes de Malavella | `caldes-de-malavella` | ❌ Pending |
 | Calonge i Sant Antoni | `calonge-i-sant-antoni` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **11.8%**
 </details>
 
 <details>
-<summary><b>Tarragona (21/184 - 11.4%)</b></summary>
+<summary><b>Tarragona (22/184 - 12.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -828,7 +828,7 @@ Progress: **11.8%**
 | Botarell | `botarell` | ✅ Downloaded |
 | Bràfim | `brafim` | ✅ Downloaded |
 | Cabassers | `cabassers` | ❌ Pending |
-| Cabra del Camp | `cabra-del-camp` | ❌ Pending |
+| Cabra del Camp | `cabra-del-camp` | ✅ Downloaded |
 | Calafell | `calafell` | ❌ Pending |
 | Camarles | `camarles` | ❌ Pending |
 | Cambrils | `cambrils` | ❌ Pending |
