@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **117**
-Pending: **830**
-Progress: **12.4%**
+Downloaded: **122**
+Pending: **825**
+Progress: **12.9%**
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 12.4%`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 12.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (31/311 - 10.0%)</b></summary>
+<summary><b>Barcelona (33/311 - 10.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -42,8 +42,8 @@ Progress: **12.4%**
 | Cabrera d'Anoia | `cabrera-danoia` | ❌ Pending |
 | Cabrera de Mar | `cabrera-de-mar` | ✅ Downloaded |
 | Cabrils | `cabrils` | ✅ Downloaded |
-| Calaf | `calaf` | ❌ Pending |
-| Calders | `calders` | ❌ Pending |
+| Calaf | `calaf` | ✅ Downloaded |
+| Calders | `calders` | ✅ Downloaded |
 | Caldes d'Estrac | `caldes-destrac` | ❌ Pending |
 | Caldes de Montbui | `caldes-de-montbui` | ❌ Pending |
 | Calella | `calella` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **12.4%**
 </details>
 
 <details>
-<summary><b>Girona (23/221 - 10.4%)</b></summary>
+<summary><b>Girona (24/221 - 10.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -360,7 +360,7 @@ Progress: **12.4%**
 | Brunyola i Sant Martí Sapresa | `brunyola-i-sant-marti-sapresa` | ❌ Pending |
 | Cabanelles | `cabanelles` | ✅ Downloaded |
 | Cabanes | `cabanes` | ✅ Downloaded |
-| Cadaqués | `cadaques` | ❌ Pending |
+| Cadaqués | `cadaques` | ✅ Downloaded |
 | Caldes de Malavella | `caldes-de-malavella` | ❌ Pending |
 | Calonge i Sant Antoni | `calonge-i-sant-antoni` | ❌ Pending |
 | Camós | `camos` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **12.4%**
 </details>
 
 <details>
-<summary><b>Lleida (41/231 - 17.7%)</b></summary>
+<summary><b>Lleida (42/231 - 18.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -608,7 +608,7 @@ Progress: **12.4%**
 | Bossòst | `bossost` | ✅ Downloaded |
 | Bovera | `bovera` | ✅ Downloaded |
 | Cabanabona | `cabanabona` | ✅ Downloaded |
-| Cabó | `cabo` | ❌ Pending |
+| Cabó | `cabo` | ✅ Downloaded |
 | Camarasa | `camarasa` | ❌ Pending |
 | Canejan | `canejan` | ❌ Pending |
 | Castell de Mur | `castell-de-mur` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **12.4%**
 </details>
 
 <details>
-<summary><b>Tarragona (22/184 - 12.0%)</b></summary>
+<summary><b>Tarragona (23/184 - 12.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -829,7 +829,7 @@ Progress: **12.4%**
 | Bràfim | `brafim` | ✅ Downloaded |
 | Cabassers | `cabassers` | ❌ Pending |
 | Cabra del Camp | `cabra-del-camp` | ✅ Downloaded |
-| Calafell | `calafell` | ❌ Pending |
+| Calafell | `calafell` | ✅ Downloaded |
 | Camarles | `camarles` | ❌ Pending |
 | Cambrils | `cambrils` | ❌ Pending |
 | Capafonts | `capafonts` | ❌ Pending |
