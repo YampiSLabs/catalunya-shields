@@ -117,6 +117,11 @@ export { default as CaldesDeMontbui } from "../assets/svg/caldes-de-montbui.svg"
 export { default as CaldesDEstrac } from "../assets/svg/caldes-destrac.svg";
 export { default as Calella } from "../assets/svg/calella.svg";
 export { default as Calldetenes } from "../assets/svg/calldetenes.svg";
+export { default as Callús } from "../assets/svg/callus.svg";
+export { default as CalongeDeSegarra } from "../assets/svg/calonge-de-segarra.svg";
+export { default as Camarasa } from "../assets/svg/camarasa.svg";
+export { default as Camarles } from "../assets/svg/camarles.svg";
+export { default as Cambrils } from "../assets/svg/cambrils.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";

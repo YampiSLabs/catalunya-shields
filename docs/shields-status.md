@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **127**
-Pending: **820**
-Progress: **13.4%**
+Downloaded: **132**
+Pending: **815**
+Progress: **13.9%**
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 13.4%`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 13.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (37/311 - 11.9%)</b></summary>
+<summary><b>Barcelona (39/311 - 12.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -48,8 +48,8 @@ Progress: **13.4%**
 | Caldes de Montbui | `caldes-de-montbui` | ✅ Downloaded |
 | Calella | `calella` | ✅ Downloaded |
 | Calldetenes | `calldetenes` | ✅ Downloaded |
-| Callús | `callus` | ❌ Pending |
-| Calonge de Segarra | `calonge-de-segarra` | ❌ Pending |
+| Callús | `callus` | ✅ Downloaded |
+| Calonge de Segarra | `calonge-de-segarra` | ✅ Downloaded |
 | Campins | `campins` | ❌ Pending |
 | Canet de Mar | `canet-de-mar` | ❌ Pending |
 | Canovelles | `canovelles` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **13.4%**
 </details>
 
 <details>
-<summary><b>Lleida (42/231 - 18.2%)</b></summary>
+<summary><b>Lleida (43/231 - 18.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -609,7 +609,7 @@ Progress: **13.4%**
 | Bovera | `bovera` | ✅ Downloaded |
 | Cabanabona | `cabanabona` | ✅ Downloaded |
 | Cabó | `cabo` | ✅ Downloaded |
-| Camarasa | `camarasa` | ❌ Pending |
+| Camarasa | `camarasa` | ✅ Downloaded |
 | Canejan | `canejan` | ❌ Pending |
 | Castell de Mur | `castell-de-mur` | ❌ Pending |
 | Castellar de la Ribera | `castellar-de-la-ribera` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **13.4%**
 </details>
 
 <details>
-<summary><b>Tarragona (23/184 - 12.5%)</b></summary>
+<summary><b>Tarragona (25/184 - 13.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -830,8 +830,8 @@ Progress: **13.4%**
 | Cabassers | `cabassers` | ❌ Pending |
 | Cabra del Camp | `cabra-del-camp` | ✅ Downloaded |
 | Calafell | `calafell` | ✅ Downloaded |
-| Camarles | `camarles` | ❌ Pending |
-| Cambrils | `cambrils` | ❌ Pending |
+| Camarles | `camarles` | ✅ Downloaded |
+| Cambrils | `cambrils` | ✅ Downloaded |
 | Capafonts | `capafonts` | ❌ Pending |
 | Capçanes | `capcanes` | ❌ Pending |
 | Caseres | `caseres` | ❌ Pending |
