@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **132**
-Pending: **815**
-Progress: **13.9%**
+Downloaded: **137**
+Pending: **810**
+Progress: **14.5%**
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 13.9%`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 14.5%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (39/311 - 12.5%)</b></summary>
+<summary><b>Barcelona (40/311 - 12.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -50,7 +50,7 @@ Progress: **13.9%**
 | Calldetenes | `calldetenes` | ✅ Downloaded |
 | Callús | `callus` | ✅ Downloaded |
 | Calonge de Segarra | `calonge-de-segarra` | ✅ Downloaded |
-| Campins | `campins` | ❌ Pending |
+| Campins | `campins` | ✅ Downloaded |
 | Canet de Mar | `canet-de-mar` | ❌ Pending |
 | Canovelles | `canovelles` | ❌ Pending |
 | Cànoves i Samalús | `canoves-i-samalus` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **13.9%**
 </details>
 
 <details>
-<summary><b>Girona (25/221 - 11.3%)</b></summary>
+<summary><b>Girona (29/221 - 13.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -364,10 +364,10 @@ Progress: **13.9%**
 | Caldes de Malavella | `caldes-de-malavella` | ✅ Downloaded |
 | Calonge i Sant Antoni | `calonge-i-sant-antoni` | ❌ Pending |
 | Camós | `camos` | ❌ Pending |
-| Campdevànol | `campdevanol` | ❌ Pending |
-| Campelles | `campelles` | ❌ Pending |
-| Campllong | `campllong` | ❌ Pending |
-| Campmany | `campmany` | ❌ Pending |
+| Campdevànol | `campdevanol` | ✅ Downloaded |
+| Campelles | `campelles` | ✅ Downloaded |
+| Campllong | `campllong` | ✅ Downloaded |
+| Campmany | `campmany` | ✅ Downloaded |
 | Camprodon | `camprodon` | ❌ Pending |
 | Canet d'Adri | `canet-dadri` | ❌ Pending |
 | Cantallops | `cantallops` | ❌ Pending |
