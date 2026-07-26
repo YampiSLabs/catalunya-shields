@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **137**
-Pending: **810**
-Progress: **14.5%**
+Downloaded: **142**
+Pending: **805**
+Progress: **15.0%**
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 14.5%`
+`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 15.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (40/311 - 12.9%)</b></summary>
+<summary><b>Barcelona (41/311 - 13.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ Progress: **14.5%**
 | Calonge de Segarra | `calonge-de-segarra` | ✅ Downloaded |
 | Campins | `campins` | ✅ Downloaded |
 | Canet de Mar | `canet-de-mar` | ❌ Pending |
-| Canovelles | `canovelles` | ❌ Pending |
+| Canovelles | `canovelles` | ✅ Downloaded |
 | Cànoves i Samalús | `canoves-i-samalus` | ❌ Pending |
 | Canyelles | `canyelles` | ❌ Pending |
 | Capellades | `capellades` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **14.5%**
 </details>
 
 <details>
-<summary><b>Girona (29/221 - 13.1%)</b></summary>
+<summary><b>Girona (32/221 - 14.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -363,13 +363,13 @@ Progress: **14.5%**
 | Cadaqués | `cadaques` | ✅ Downloaded |
 | Caldes de Malavella | `caldes-de-malavella` | ✅ Downloaded |
 | Calonge i Sant Antoni | `calonge-i-sant-antoni` | ❌ Pending |
-| Camós | `camos` | ❌ Pending |
+| Camós | `camos` | ✅ Downloaded |
 | Campdevànol | `campdevanol` | ✅ Downloaded |
 | Campelles | `campelles` | ✅ Downloaded |
 | Campllong | `campllong` | ✅ Downloaded |
 | Campmany | `campmany` | ✅ Downloaded |
-| Camprodon | `camprodon` | ❌ Pending |
-| Canet d'Adri | `canet-dadri` | ❌ Pending |
+| Camprodon | `camprodon` | ✅ Downloaded |
+| Canet d'Adri | `canet-dadri` | ✅ Downloaded |
 | Cantallops | `cantallops` | ❌ Pending |
 | Cassà de la Selva | `cassa-de-la-selva` | ❌ Pending |
 | Castell d'Aro, Platja d'Aro i s'Agaró | `castell-daro-platja-daro-i-sagaro` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **14.5%**
 </details>
 
 <details>
-<summary><b>Lleida (43/231 - 18.6%)</b></summary>
+<summary><b>Lleida (44/231 - 19.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -610,7 +610,7 @@ Progress: **14.5%**
 | Cabanabona | `cabanabona` | ✅ Downloaded |
 | Cabó | `cabo` | ✅ Downloaded |
 | Camarasa | `camarasa` | ✅ Downloaded |
-| Canejan | `canejan` | ❌ Pending |
+| Canejan | `canejan` | ✅ Downloaded |
 | Castell de Mur | `castell-de-mur` | ❌ Pending |
 | Castellar de la Ribera | `castellar-de-la-ribera` | ❌ Pending |
 | Castelldans | `castelldans` | ❌ Pending |
