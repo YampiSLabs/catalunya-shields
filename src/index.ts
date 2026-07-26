@@ -122,11 +122,16 @@ export { default as CalongeDeSegarra } from "../assets/svg/calonge-de-segarra.sv
 export { default as Camarasa } from "../assets/svg/camarasa.svg";
 export { default as Camarles } from "../assets/svg/camarles.svg";
 export { default as Cambrils } from "../assets/svg/cambrils.svg";
+export { default as Camós } from "../assets/svg/camos.svg";
 export { default as Campdevànol } from "../assets/svg/campdevanol.svg";
 export { default as Campelles } from "../assets/svg/campelles.svg";
 export { default as Campins } from "../assets/svg/campins.svg";
 export { default as Campllong } from "../assets/svg/campllong.svg";
 export { default as Campmany } from "../assets/svg/campmany.svg";
+export { default as Camprodon } from "../assets/svg/camprodon.svg";
+export { default as Canejan } from "../assets/svg/canejan.svg";
+export { default as CanetDAdri } from "../assets/svg/canet-dadri.svg";
+export { default as Canovelles } from "../assets/svg/canovelles.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";
