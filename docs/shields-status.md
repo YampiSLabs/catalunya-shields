@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **142**
-Pending: **805**
-Progress: **15.0%**
+Downloaded: **147**
+Pending: **800**
+Progress: **15.5%**
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 15.0%`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 15.5%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (41/311 - 13.2%)</b></summary>
+<summary><b>Barcelona (45/311 - 14.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -54,11 +54,11 @@ Progress: **15.0%**
 | Canet de Mar | `canet-de-mar` | ❌ Pending |
 | Canovelles | `canovelles` | ✅ Downloaded |
 | Cànoves i Samalús | `canoves-i-samalus` | ❌ Pending |
-| Canyelles | `canyelles` | ❌ Pending |
-| Capellades | `capellades` | ❌ Pending |
+| Canyelles | `canyelles` | ✅ Downloaded |
+| Capellades | `capellades` | ✅ Downloaded |
 | Capolat | `capolat` | ❌ Pending |
-| Cardedeu | `cardedeu` | ❌ Pending |
-| Cardona | `cardona` | ❌ Pending |
+| Cardedeu | `cardedeu` | ✅ Downloaded |
+| Cardona | `cardona` | ✅ Downloaded |
 | Carme | `carme` | ❌ Pending |
 | Casserres | `casserres` | ❌ Pending |
 | Castell de l'Areny | `castell-de-lareny` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **15.0%**
 </details>
 
 <details>
-<summary><b>Girona (32/221 - 14.5%)</b></summary>
+<summary><b>Girona (33/221 - 14.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -370,7 +370,7 @@ Progress: **15.0%**
 | Campmany | `campmany` | ✅ Downloaded |
 | Camprodon | `camprodon` | ✅ Downloaded |
 | Canet d'Adri | `canet-dadri` | ✅ Downloaded |
-| Cantallops | `cantallops` | ❌ Pending |
+| Cantallops | `cantallops` | ✅ Downloaded |
 | Cassà de la Selva | `cassa-de-la-selva` | ❌ Pending |
 | Castell d'Aro, Platja d'Aro i s'Agaró | `castell-daro-platja-daro-i-sagaro` | ❌ Pending |
 | Castellfollit de la Roca | `castellfollit-de-la-roca` | ❌ Pending |
