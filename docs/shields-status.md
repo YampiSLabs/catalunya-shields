@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **147**
-Pending: **800**
-Progress: **15.5%**
+Downloaded: **152**
+Pending: **795**
+Progress: **16.1%**
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 15.5%`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 16.1%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (45/311 - 14.5%)</b></summary>
+<summary><b>Barcelona (47/311 - 15.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -59,8 +59,8 @@ Progress: **15.5%**
 | Capolat | `capolat` | ❌ Pending |
 | Cardedeu | `cardedeu` | ✅ Downloaded |
 | Cardona | `cardona` | ✅ Downloaded |
-| Carme | `carme` | ❌ Pending |
-| Casserres | `casserres` | ❌ Pending |
+| Carme | `carme` | ✅ Downloaded |
+| Casserres | `casserres` | ✅ Downloaded |
 | Castell de l'Areny | `castell-de-lareny` | ❌ Pending |
 | Castellar de n'Hug | `castellar-de-nhug` | ❌ Pending |
 | Castellar del Riu | `castellar-del-riu` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **15.5%**
 </details>
 
 <details>
-<summary><b>Girona (33/221 - 14.9%)</b></summary>
+<summary><b>Girona (35/221 - 15.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -371,8 +371,8 @@ Progress: **15.5%**
 | Camprodon | `camprodon` | ✅ Downloaded |
 | Canet d'Adri | `canet-dadri` | ✅ Downloaded |
 | Cantallops | `cantallops` | ✅ Downloaded |
-| Cassà de la Selva | `cassa-de-la-selva` | ❌ Pending |
-| Castell d'Aro, Platja d'Aro i s'Agaró | `castell-daro-platja-daro-i-sagaro` | ❌ Pending |
+| Cassà de la Selva | `cassa-de-la-selva` | ✅ Downloaded |
+| Castell d'Aro, Platja d'Aro i s'Agaró | `castell-daro-platja-daro-i-sagaro` | ✅ Downloaded |
 | Castellfollit de la Roca | `castellfollit-de-la-roca` | ❌ Pending |
 | Castelló d'Empúries | `castello-dempuries` | ❌ Pending |
 | Celrà | `celra` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **15.5%**
 </details>
 
 <details>
-<summary><b>Tarragona (25/184 - 13.6%)</b></summary>
+<summary><b>Tarragona (26/184 - 14.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -834,7 +834,7 @@ Progress: **15.5%**
 | Cambrils | `cambrils` | ✅ Downloaded |
 | Capafonts | `capafonts` | ❌ Pending |
 | Capçanes | `capcanes` | ❌ Pending |
-| Caseres | `caseres` | ❌ Pending |
+| Caseres | `caseres` | ✅ Downloaded |
 | Castellvell del Camp | `castellvell-del-camp` | ❌ Pending |
 | Colldejou | `colldejou` | ❌ Pending |
 | Conesa | `conesa` | ❌ Pending |
