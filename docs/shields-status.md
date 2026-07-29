@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **152**
-Pending: **795**
-Progress: **16.1%**
+Downloaded: **157**
+Pending: **790**
+Progress: **16.6%**
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 16.1%`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 16.6%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (47/311 - 15.1%)</b></summary>
+<summary><b>Barcelona (50/311 - 16.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -61,10 +61,10 @@ Progress: **16.1%**
 | Cardona | `cardona` | ✅ Downloaded |
 | Carme | `carme` | ✅ Downloaded |
 | Casserres | `casserres` | ✅ Downloaded |
-| Castell de l'Areny | `castell-de-lareny` | ❌ Pending |
+| Castell de l'Areny | `castell-de-lareny` | ✅ Downloaded |
 | Castellar de n'Hug | `castellar-de-nhug` | ❌ Pending |
-| Castellar del Riu | `castellar-del-riu` | ❌ Pending |
-| Castellar del Vallès | `castellar-del-valles` | ❌ Pending |
+| Castellar del Riu | `castellar-del-riu` | ✅ Downloaded |
+| Castellar del Vallès | `castellar-del-valles` | ✅ Downloaded |
 | Castellbell i el Vilar | `castellbell-i-el-vilar` | ❌ Pending |
 | Castellbisbal | `castellbisbal` | ❌ Pending |
 | Castellcir | `castellcir` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **16.1%**
 </details>
 
 <details>
-<summary><b>Lleida (44/231 - 19.0%)</b></summary>
+<summary><b>Lleida (46/231 - 19.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -611,8 +611,8 @@ Progress: **16.1%**
 | Cabó | `cabo` | ✅ Downloaded |
 | Camarasa | `camarasa` | ✅ Downloaded |
 | Canejan | `canejan` | ✅ Downloaded |
-| Castell de Mur | `castell-de-mur` | ❌ Pending |
-| Castellar de la Ribera | `castellar-de-la-ribera` | ❌ Pending |
+| Castell de Mur | `castell-de-mur` | ✅ Downloaded |
+| Castellar de la Ribera | `castellar-de-la-ribera` | ✅ Downloaded |
 | Castelldans | `castelldans` | ❌ Pending |
 | Castellnou de Seana | `castellnou-de-seana` | ❌ Pending |
 | Castelló de Farfanya | `castello-de-farfanya` | ❌ Pending |
