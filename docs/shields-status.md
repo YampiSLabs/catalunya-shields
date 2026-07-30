@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **157**
-Pending: **790**
-Progress: **16.6%**
+Downloaded: **162**
+Pending: **785**
+Progress: **17.1%**
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 16.6%`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 17.1%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (50/311 - 16.1%)</b></summary>
+<summary><b>Barcelona (54/311 - 17.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -65,10 +65,10 @@ Progress: **16.6%**
 | Castellar de n'Hug | `castellar-de-nhug` | ❌ Pending |
 | Castellar del Riu | `castellar-del-riu` | ✅ Downloaded |
 | Castellar del Vallès | `castellar-del-valles` | ✅ Downloaded |
-| Castellbell i el Vilar | `castellbell-i-el-vilar` | ❌ Pending |
-| Castellbisbal | `castellbisbal` | ❌ Pending |
-| Castellcir | `castellcir` | ❌ Pending |
-| Castelldefels | `castelldefels` | ❌ Pending |
+| Castellbell i el Vilar | `castellbell-i-el-vilar` | ✅ Downloaded |
+| Castellbisbal | `castellbisbal` | ✅ Downloaded |
+| Castellcir | `castellcir` | ✅ Downloaded |
+| Castelldefels | `castelldefels` | ✅ Downloaded |
 | Castellet i la Gornal | `castellet-i-la-gornal` | ❌ Pending |
 | Castellfollit de Riubregós | `castellfollit-de-riubregos` | ❌ Pending |
 | Castellfollit del Boix | `castellfollit-del-boix` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **16.6%**
 </details>
 
 <details>
-<summary><b>Lleida (46/231 - 19.9%)</b></summary>
+<summary><b>Lleida (47/231 - 20.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -613,7 +613,7 @@ Progress: **16.6%**
 | Canejan | `canejan` | ✅ Downloaded |
 | Castell de Mur | `castell-de-mur` | ✅ Downloaded |
 | Castellar de la Ribera | `castellar-de-la-ribera` | ✅ Downloaded |
-| Castelldans | `castelldans` | ❌ Pending |
+| Castelldans | `castelldans` | ✅ Downloaded |
 | Castellnou de Seana | `castellnou-de-seana` | ❌ Pending |
 | Castelló de Farfanya | `castello-de-farfanya` | ❌ Pending |
 | Castellserà | `castellsera` | ❌ Pending |
