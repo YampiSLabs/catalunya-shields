@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **162**
-Pending: **785**
-Progress: **17.1%**
+Downloaded: **167**
+Pending: **780**
+Progress: **17.6%**
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 17.1%`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 17.6%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (54/311 - 17.4%)</b></summary>
+<summary><b>Barcelona (58/311 - 18.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -69,10 +69,10 @@ Progress: **17.1%**
 | Castellbisbal | `castellbisbal` | ✅ Downloaded |
 | Castellcir | `castellcir` | ✅ Downloaded |
 | Castelldefels | `castelldefels` | ✅ Downloaded |
-| Castellet i la Gornal | `castellet-i-la-gornal` | ❌ Pending |
-| Castellfollit de Riubregós | `castellfollit-de-riubregos` | ❌ Pending |
-| Castellfollit del Boix | `castellfollit-del-boix` | ❌ Pending |
-| Castellgalí | `castellgali` | ❌ Pending |
+| Castellet i la Gornal | `castellet-i-la-gornal` | ✅ Downloaded |
+| Castellfollit de Riubregós | `castellfollit-de-riubregos` | ✅ Downloaded |
+| Castellfollit del Boix | `castellfollit-del-boix` | ✅ Downloaded |
+| Castellgalí | `castellgali` | ✅ Downloaded |
 | Castellnou de Bages | `castellnou-de-bages` | ❌ Pending |
 | Castellolí | `castelloli` | ❌ Pending |
 | Castellterçol | `castelltercol` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **17.1%**
 </details>
 
 <details>
-<summary><b>Girona (35/221 - 15.8%)</b></summary>
+<summary><b>Girona (36/221 - 16.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -373,7 +373,7 @@ Progress: **17.1%**
 | Cantallops | `cantallops` | ✅ Downloaded |
 | Cassà de la Selva | `cassa-de-la-selva` | ✅ Downloaded |
 | Castell d'Aro, Platja d'Aro i s'Agaró | `castell-daro-platja-daro-i-sagaro` | ✅ Downloaded |
-| Castellfollit de la Roca | `castellfollit-de-la-roca` | ❌ Pending |
+| Castellfollit de la Roca | `castellfollit-de-la-roca` | ✅ Downloaded |
 | Castelló d'Empúries | `castello-dempuries` | ❌ Pending |
 | Celrà | `celra` | ❌ Pending |
 | Cervià de Ter | `cervia-de-ter` | ❌ Pending |
