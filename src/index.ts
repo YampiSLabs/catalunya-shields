@@ -152,6 +152,11 @@ export { default as CastellDAro,PlatjaDAroISAgaró } from "../assets/svg/castell
 export { default as Castelldefels } from "../assets/svg/castelldefels.svg";
 export { default as CastellDeLAreny } from "../assets/svg/castell-de-lareny.svg";
 export { default as CastellDeMur } from "../assets/svg/castell-de-mur.svg";
+export { default as CastelletILaGornal } from "../assets/svg/castellet-i-la-gornal.svg";
+export { default as CastellfollitDeLaRoca } from "../assets/svg/castellfollit-de-la-roca.svg";
+export { default as CastellfollitDelBoix } from "../assets/svg/castellfollit-del-boix.svg";
+export { default as CastellfollitDeRiubregós } from "../assets/svg/castellfollit-de-riubregos.svg";
+export { default as Castellgalí } from "../assets/svg/castellgali.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";
