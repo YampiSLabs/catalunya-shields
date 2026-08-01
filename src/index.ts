@@ -157,6 +157,11 @@ export { default as CastellfollitDeLaRoca } from "../assets/svg/castellfollit-de
 export { default as CastellfollitDelBoix } from "../assets/svg/castellfollit-del-boix.svg";
 export { default as CastellfollitDeRiubregós } from "../assets/svg/castellfollit-de-riubregos.svg";
 export { default as Castellgalí } from "../assets/svg/castellgali.svg";
+export { default as CastellnouDeBages } from "../assets/svg/castellnou-de-bages.svg";
+export { default as CastellnouDeSeana } from "../assets/svg/castellnou-de-seana.svg";
+export { default as Castellserà } from "../assets/svg/castellsera.svg";
+export { default as Castellterçol } from "../assets/svg/castelltercol.svg";
+export { default as CastellvíDeRosanes } from "../assets/svg/castellvi-de-rosanes.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";

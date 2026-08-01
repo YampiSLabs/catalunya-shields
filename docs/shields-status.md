@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **167**
-Pending: **780**
-Progress: **17.6%**
+Downloaded: **172**
+Pending: **775**
+Progress: **18.2%**
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 17.6%`
+`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 18.2%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (58/311 - 18.6%)</b></summary>
+<summary><b>Barcelona (61/311 - 19.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -73,11 +73,11 @@ Progress: **17.6%**
 | Castellfollit de Riubregós | `castellfollit-de-riubregos` | ✅ Downloaded |
 | Castellfollit del Boix | `castellfollit-del-boix` | ✅ Downloaded |
 | Castellgalí | `castellgali` | ✅ Downloaded |
-| Castellnou de Bages | `castellnou-de-bages` | ❌ Pending |
+| Castellnou de Bages | `castellnou-de-bages` | ✅ Downloaded |
 | Castellolí | `castelloli` | ❌ Pending |
-| Castellterçol | `castelltercol` | ❌ Pending |
+| Castellterçol | `castelltercol` | ✅ Downloaded |
 | Castellví de la Marca | `castellvi-de-la-marca` | ❌ Pending |
-| Castellví de Rosanes | `castellvi-de-rosanes` | ❌ Pending |
+| Castellví de Rosanes | `castellvi-de-rosanes` | ✅ Downloaded |
 | Centelles | `centelles` | ❌ Pending |
 | Cercs | `cercs` | ❌ Pending |
 | Cerdanyola del Vallès | `cerdanyola-del-valles` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **17.6%**
 </details>
 
 <details>
-<summary><b>Lleida (47/231 - 20.3%)</b></summary>
+<summary><b>Lleida (49/231 - 21.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -614,9 +614,9 @@ Progress: **17.6%**
 | Castell de Mur | `castell-de-mur` | ✅ Downloaded |
 | Castellar de la Ribera | `castellar-de-la-ribera` | ✅ Downloaded |
 | Castelldans | `castelldans` | ✅ Downloaded |
-| Castellnou de Seana | `castellnou-de-seana` | ❌ Pending |
+| Castellnou de Seana | `castellnou-de-seana` | ✅ Downloaded |
 | Castelló de Farfanya | `castello-de-farfanya` | ❌ Pending |
-| Castellserà | `castellsera` | ❌ Pending |
+| Castellserà | `castellsera` | ✅ Downloaded |
 | Cava | `cava` | ❌ Pending |
 | Cervera | `cervera` | ❌ Pending |
 | Cervià de les Garrigues | `cervia-de-les-garrigues` | ❌ Pending |
