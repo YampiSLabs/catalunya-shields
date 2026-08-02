@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **172**
-Pending: **775**
-Progress: **18.2%**
+Downloaded: **177**
+Pending: **770**
+Progress: **18.7%**
 
-`[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 18.2%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 18.7%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (61/311 - 19.6%)</b></summary>
+<summary><b>Barcelona (63/311 - 20.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -76,9 +76,9 @@ Progress: **18.2%**
 | Castellnou de Bages | `castellnou-de-bages` | ✅ Downloaded |
 | Castellolí | `castelloli` | ❌ Pending |
 | Castellterçol | `castelltercol` | ✅ Downloaded |
-| Castellví de la Marca | `castellvi-de-la-marca` | ❌ Pending |
+| Castellví de la Marca | `castellvi-de-la-marca` | ✅ Downloaded |
 | Castellví de Rosanes | `castellvi-de-rosanes` | ✅ Downloaded |
-| Centelles | `centelles` | ❌ Pending |
+| Centelles | `centelles` | ✅ Downloaded |
 | Cercs | `cercs` | ❌ Pending |
 | Cerdanyola del Vallès | `cerdanyola-del-valles` | ❌ Pending |
 | Cervelló | `cervello` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **18.2%**
 </details>
 
 <details>
-<summary><b>Girona (36/221 - 16.3%)</b></summary>
+<summary><b>Girona (37/221 - 16.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -374,7 +374,7 @@ Progress: **18.2%**
 | Cassà de la Selva | `cassa-de-la-selva` | ✅ Downloaded |
 | Castell d'Aro, Platja d'Aro i s'Agaró | `castell-daro-platja-daro-i-sagaro` | ✅ Downloaded |
 | Castellfollit de la Roca | `castellfollit-de-la-roca` | ✅ Downloaded |
-| Castelló d'Empúries | `castello-dempuries` | ❌ Pending |
+| Castelló d'Empúries | `castello-dempuries` | ✅ Downloaded |
 | Celrà | `celra` | ❌ Pending |
 | Cervià de Ter | `cervia-de-ter` | ❌ Pending |
 | Cistella | `cistella` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **18.2%**
 </details>
 
 <details>
-<summary><b>Lleida (49/231 - 21.2%)</b></summary>
+<summary><b>Lleida (51/231 - 22.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -615,9 +615,9 @@ Progress: **18.2%**
 | Castellar de la Ribera | `castellar-de-la-ribera` | ✅ Downloaded |
 | Castelldans | `castelldans` | ✅ Downloaded |
 | Castellnou de Seana | `castellnou-de-seana` | ✅ Downloaded |
-| Castelló de Farfanya | `castello-de-farfanya` | ❌ Pending |
+| Castelló de Farfanya | `castello-de-farfanya` | ✅ Downloaded |
 | Castellserà | `castellsera` | ✅ Downloaded |
-| Cava | `cava` | ❌ Pending |
+| Cava | `cava` | ✅ Downloaded |
 | Cervera | `cervera` | ❌ Pending |
 | Cervià de les Garrigues | `cervia-de-les-garrigues` | ❌ Pending |
 | Ciutadilla | `ciutadilla` | ❌ Pending |
