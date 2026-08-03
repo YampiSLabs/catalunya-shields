@@ -167,6 +167,11 @@ export { default as CastellvíDeLaMarca } from "../assets/svg/castellvi-de-la-ma
 export { default as CastellvíDeRosanes } from "../assets/svg/castellvi-de-rosanes.svg";
 export { default as Cava } from "../assets/svg/cava.svg";
 export { default as Centelles } from "../assets/svg/centelles.svg";
+export { default as Cercs } from "../assets/svg/cercs.svg";
+export { default as CerdanyolaDelVallès } from "../assets/svg/cerdanyola-del-valles.svg";
+export { default as Cervelló } from "../assets/svg/cervello.svg";
+export { default as Cervera } from "../assets/svg/cervera.svg";
+export { default as CerviàDeTer } from "../assets/svg/cervia-de-ter.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";

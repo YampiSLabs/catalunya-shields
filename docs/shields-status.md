@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **177**
-Pending: **770**
-Progress: **18.7%**
+Downloaded: **182**
+Pending: **765**
+Progress: **19.2%**
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 18.7%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 19.2%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (63/311 - 20.3%)</b></summary>
+<summary><b>Barcelona (66/311 - 21.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -79,9 +79,9 @@ Progress: **18.7%**
 | Castellví de la Marca | `castellvi-de-la-marca` | ✅ Downloaded |
 | Castellví de Rosanes | `castellvi-de-rosanes` | ✅ Downloaded |
 | Centelles | `centelles` | ✅ Downloaded |
-| Cercs | `cercs` | ❌ Pending |
-| Cerdanyola del Vallès | `cerdanyola-del-valles` | ❌ Pending |
-| Cervelló | `cervello` | ❌ Pending |
+| Cercs | `cercs` | ✅ Downloaded |
+| Cerdanyola del Vallès | `cerdanyola-del-valles` | ✅ Downloaded |
+| Cervelló | `cervello` | ✅ Downloaded |
 | Collbató | `collbato` | ❌ Pending |
 | Collsuspina | `collsuspina` | ❌ Pending |
 | Copons | `copons` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **18.7%**
 </details>
 
 <details>
-<summary><b>Girona (37/221 - 16.7%)</b></summary>
+<summary><b>Girona (38/221 - 17.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -376,7 +376,7 @@ Progress: **18.7%**
 | Castellfollit de la Roca | `castellfollit-de-la-roca` | ✅ Downloaded |
 | Castelló d'Empúries | `castello-dempuries` | ✅ Downloaded |
 | Celrà | `celra` | ❌ Pending |
-| Cervià de Ter | `cervia-de-ter` | ❌ Pending |
+| Cervià de Ter | `cervia-de-ter` | ✅ Downloaded |
 | Cistella | `cistella` | ❌ Pending |
 | Colera | `colera` | ❌ Pending |
 | Colomers | `colomers` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **18.7%**
 </details>
 
 <details>
-<summary><b>Lleida (51/231 - 22.1%)</b></summary>
+<summary><b>Lleida (52/231 - 22.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -618,7 +618,7 @@ Progress: **18.7%**
 | Castelló de Farfanya | `castello-de-farfanya` | ✅ Downloaded |
 | Castellserà | `castellsera` | ✅ Downloaded |
 | Cava | `cava` | ✅ Downloaded |
-| Cervera | `cervera` | ❌ Pending |
+| Cervera | `cervera` | ✅ Downloaded |
 | Cervià de les Garrigues | `cervia-de-les-garrigues` | ❌ Pending |
 | Ciutadilla | `ciutadilla` | ❌ Pending |
 | Clariana de Cardener | `clariana-de-cardener` | ❌ Pending |
