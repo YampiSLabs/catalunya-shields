@@ -172,6 +172,11 @@ export { default as CerdanyolaDelVallès } from "../assets/svg/cerdanyola-del-va
 export { default as Cervelló } from "../assets/svg/cervello.svg";
 export { default as Cervera } from "../assets/svg/cervera.svg";
 export { default as CerviàDeTer } from "../assets/svg/cervia-de-ter.svg";
+export { default as Cistella } from "../assets/svg/cistella.svg";
+export { default as Ciutadilla } from "../assets/svg/ciutadilla.svg";
+export { default as ClarianaDeCardener } from "../assets/svg/clariana-de-cardener.svg";
+export { default as Colera } from "../assets/svg/colera.svg";
+export { default as CollDeNargó } from "../assets/svg/coll-de-nargo.svg";
 export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobregat.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";

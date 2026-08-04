@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **182**
-Pending: **765**
-Progress: **19.2%**
+Downloaded: **187**
+Pending: **760**
+Progress: **19.7%**
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 19.2%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 19.7%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **19.2%**
 </details>
 
 <details>
-<summary><b>Girona (38/221 - 17.2%)</b></summary>
+<summary><b>Girona (40/221 - 18.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -377,8 +377,8 @@ Progress: **19.2%**
 | Castelló d'Empúries | `castello-dempuries` | ✅ Downloaded |
 | Celrà | `celra` | ❌ Pending |
 | Cervià de Ter | `cervia-de-ter` | ✅ Downloaded |
-| Cistella | `cistella` | ❌ Pending |
-| Colera | `colera` | ❌ Pending |
+| Cistella | `cistella` | ✅ Downloaded |
+| Colera | `colera` | ✅ Downloaded |
 | Colomers | `colomers` | ❌ Pending |
 | Corçà | `corca` | ❌ Pending |
 | Cornellà del Terri | `cornella-del-terri` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **19.2%**
 </details>
 
 <details>
-<summary><b>Lleida (52/231 - 22.5%)</b></summary>
+<summary><b>Lleida (55/231 - 23.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -620,9 +620,9 @@ Progress: **19.2%**
 | Cava | `cava` | ✅ Downloaded |
 | Cervera | `cervera` | ✅ Downloaded |
 | Cervià de les Garrigues | `cervia-de-les-garrigues` | ❌ Pending |
-| Ciutadilla | `ciutadilla` | ❌ Pending |
-| Clariana de Cardener | `clariana-de-cardener` | ❌ Pending |
-| Coll de Nargó | `coll-de-nargo` | ❌ Pending |
+| Ciutadilla | `ciutadilla` | ✅ Downloaded |
+| Clariana de Cardener | `clariana-de-cardener` | ✅ Downloaded |
+| Coll de Nargó | `coll-de-nargo` | ✅ Downloaded |
 | Conca de Dalt | `conca-de-dalt` | ❌ Pending |
 | Corbins | `corbins` | ❌ Pending |
 | Cubells | `cubells` | ❌ Pending |
