@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **187**
-Pending: **760**
-Progress: **19.7%**
+Downloaded: **192**
+Pending: **755**
+Progress: **20.3%**
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 19.7%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 20.3%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (66/311 - 21.2%)</b></summary>
+<summary><b>Barcelona (68/311 - 21.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -82,8 +82,8 @@ Progress: **19.7%**
 | Cercs | `cercs` | ✅ Downloaded |
 | Cerdanyola del Vallès | `cerdanyola-del-valles` | ✅ Downloaded |
 | Cervelló | `cervello` | ✅ Downloaded |
-| Collbató | `collbato` | ❌ Pending |
-| Collsuspina | `collsuspina` | ❌ Pending |
+| Collbató | `collbato` | ✅ Downloaded |
+| Collsuspina | `collsuspina` | ✅ Downloaded |
 | Copons | `copons` | ❌ Pending |
 | Corbera de Llobregat | `corbera-de-llobregat` | ❌ Pending |
 | Cornellà de Llobregat | `cornella-de-llobregat` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **19.7%**
 </details>
 
 <details>
-<summary><b>Girona (40/221 - 18.1%)</b></summary>
+<summary><b>Girona (41/221 - 18.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -379,7 +379,7 @@ Progress: **19.7%**
 | Cervià de Ter | `cervia-de-ter` | ✅ Downloaded |
 | Cistella | `cistella` | ✅ Downloaded |
 | Colera | `colera` | ✅ Downloaded |
-| Colomers | `colomers` | ❌ Pending |
+| Colomers | `colomers` | ✅ Downloaded |
 | Corçà | `corca` | ❌ Pending |
 | Cornellà del Terri | `cornella-del-terri` | ❌ Pending |
 | Crespià | `crespia` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **19.7%**
 </details>
 
 <details>
-<summary><b>Lleida (55/231 - 23.8%)</b></summary>
+<summary><b>Lleida (56/231 - 24.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -623,7 +623,7 @@ Progress: **19.7%**
 | Ciutadilla | `ciutadilla` | ✅ Downloaded |
 | Clariana de Cardener | `clariana-de-cardener` | ✅ Downloaded |
 | Coll de Nargó | `coll-de-nargo` | ✅ Downloaded |
-| Conca de Dalt | `conca-de-dalt` | ❌ Pending |
+| Conca de Dalt | `conca-de-dalt` | ✅ Downloaded |
 | Corbins | `corbins` | ❌ Pending |
 | Cubells | `cubells` | ❌ Pending |
 | el Cogul | `el-cogul` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **19.7%**
 </details>
 
 <details>
-<summary><b>Tarragona (26/184 - 14.1%)</b></summary>
+<summary><b>Tarragona (27/184 - 14.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -836,7 +836,7 @@ Progress: **19.7%**
 | Capçanes | `capcanes` | ❌ Pending |
 | Caseres | `caseres` | ✅ Downloaded |
 | Castellvell del Camp | `castellvell-del-camp` | ❌ Pending |
-| Colldejou | `colldejou` | ❌ Pending |
+| Colldejou | `colldejou` | ✅ Downloaded |
 | Conesa | `conesa` | ❌ Pending |
 | Constantí | `constanti` | ❌ Pending |
 | Corbera d'Ebre | `corbera-debre` | ❌ Pending |
