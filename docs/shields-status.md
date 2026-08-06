@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **192**
-Pending: **755**
-Progress: **20.3%**
+Downloaded: **197**
+Pending: **750**
+Progress: **20.8%**
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 20.3%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 20.8%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (68/311 - 21.9%)</b></summary>
+<summary><b>Barcelona (70/311 - 22.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -84,8 +84,8 @@ Progress: **20.3%**
 | Cervelló | `cervello` | ✅ Downloaded |
 | Collbató | `collbato` | ✅ Downloaded |
 | Collsuspina | `collsuspina` | ✅ Downloaded |
-| Copons | `copons` | ❌ Pending |
-| Corbera de Llobregat | `corbera-de-llobregat` | ❌ Pending |
+| Copons | `copons` | ✅ Downloaded |
+| Corbera de Llobregat | `corbera-de-llobregat` | ✅ Downloaded |
 | Cornellà de Llobregat | `cornella-de-llobregat` | ✅ Downloaded |
 | Cubelles | `cubelles` | ❌ Pending |
 | Dosrius | `dosrius` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **20.3%**
 </details>
 
 <details>
-<summary><b>Tarragona (27/184 - 14.7%)</b></summary>
+<summary><b>Tarragona (30/184 - 16.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -837,9 +837,9 @@ Progress: **20.3%**
 | Caseres | `caseres` | ✅ Downloaded |
 | Castellvell del Camp | `castellvell-del-camp` | ❌ Pending |
 | Colldejou | `colldejou` | ✅ Downloaded |
-| Conesa | `conesa` | ❌ Pending |
-| Constantí | `constanti` | ❌ Pending |
-| Corbera d'Ebre | `corbera-debre` | ❌ Pending |
+| Conesa | `conesa` | ✅ Downloaded |
+| Constantí | `constanti` | ✅ Downloaded |
+| Corbera d'Ebre | `corbera-debre` | ✅ Downloaded |
 | Cornudella de Montsant | `cornudella-de-montsant` | ❌ Pending |
 | Creixell | `creixell` | ❌ Pending |
 | Cunit | `cunit` | ❌ Pending |
