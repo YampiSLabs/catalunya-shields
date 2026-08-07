@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **197**
-Pending: **750**
-Progress: **20.8%**
+Downloaded: **202**
+Pending: **745**
+Progress: **21.3%**
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 20.8%`
+`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 21.3%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **20.8%**
 </details>
 
 <details>
-<summary><b>Girona (41/221 - 18.6%)</b></summary>
+<summary><b>Girona (43/221 - 19.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -380,8 +380,8 @@ Progress: **20.8%**
 | Cistella | `cistella` | ✅ Downloaded |
 | Colera | `colera` | ✅ Downloaded |
 | Colomers | `colomers` | ✅ Downloaded |
-| Corçà | `corca` | ❌ Pending |
-| Cornellà del Terri | `cornella-del-terri` | ❌ Pending |
+| Corçà | `corca` | ✅ Downloaded |
+| Cornellà del Terri | `cornella-del-terri` | ✅ Downloaded |
 | Crespià | `crespia` | ❌ Pending |
 | Cruïlles, Monells i Sant Sadurní de l'Heura | `cruilles-monells-i-sant-sadurni-de-lheura` | ❌ Pending |
 | Darnius | `darnius` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **20.8%**
 </details>
 
 <details>
-<summary><b>Lleida (56/231 - 24.2%)</b></summary>
+<summary><b>Lleida (57/231 - 24.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -624,7 +624,7 @@ Progress: **20.8%**
 | Clariana de Cardener | `clariana-de-cardener` | ✅ Downloaded |
 | Coll de Nargó | `coll-de-nargo` | ✅ Downloaded |
 | Conca de Dalt | `conca-de-dalt` | ✅ Downloaded |
-| Corbins | `corbins` | ❌ Pending |
+| Corbins | `corbins` | ✅ Downloaded |
 | Cubells | `cubells` | ❌ Pending |
 | el Cogul | `el-cogul` | ❌ Pending |
 | el Palau d'Anglesola | `el-palau-danglesola` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **20.8%**
 </details>
 
 <details>
-<summary><b>Tarragona (30/184 - 16.3%)</b></summary>
+<summary><b>Tarragona (32/184 - 17.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -840,8 +840,8 @@ Progress: **20.8%**
 | Conesa | `conesa` | ✅ Downloaded |
 | Constantí | `constanti` | ✅ Downloaded |
 | Corbera d'Ebre | `corbera-debre` | ✅ Downloaded |
-| Cornudella de Montsant | `cornudella-de-montsant` | ❌ Pending |
-| Creixell | `creixell` | ❌ Pending |
+| Cornudella de Montsant | `cornudella-de-montsant` | ✅ Downloaded |
+| Creixell | `creixell` | ✅ Downloaded |
 | Cunit | `cunit` | ❌ Pending |
 | Deltebre | `deltebre` | ❌ Pending |
 | Duesaigües | `duesaigues` | ❌ Pending |
