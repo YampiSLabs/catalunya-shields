@@ -132,6 +132,7 @@ export { default as Camprodon } from "../assets/svg/camprodon.svg";
 export { default as Canejan } from "../assets/svg/canejan.svg";
 export { default as CanetDAdri } from "../assets/svg/canet-dadri.svg";
 export { default as Canovelles } from "../assets/svg/canovelles.svg";
+export { default as CànovesISamalús } from "../assets/svg/canoves-i-samalus.svg";
 export { default as Cantallops } from "../assets/svg/cantallops.svg";
 export { default as Canyelles } from "../assets/svg/canyelles.svg";
 export { default as Capellades } from "../assets/svg/capellades.svg";
@@ -193,6 +194,10 @@ export { default as CornellàDeLlobregat } from "../assets/svg/cornella-de-llobr
 export { default as CornellàDelTerri } from "../assets/svg/cornella-del-terri.svg";
 export { default as CornudellaDeMontsant } from "../assets/svg/cornudella-de-montsant.svg";
 export { default as Creixell } from "../assets/svg/creixell.svg";
+export { default as Cubelles } from "../assets/svg/cubelles.svg";
+export { default as Cunit } from "../assets/svg/cunit.svg";
+export { default as Darnius } from "../assets/svg/darnius.svg";
+export { default as Deltebre } from "../assets/svg/deltebre.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";
 export { default as Reus } from "../assets/svg/reus.svg";
