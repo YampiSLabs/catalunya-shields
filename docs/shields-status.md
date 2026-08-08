@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **202**
-Pending: **745**
-Progress: **21.3%**
+Downloaded: **207**
+Pending: **740**
+Progress: **21.9%**
 
-`[██████░░░░░░░░░░░░░░░░░░░░░░░░] 21.3%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░] 21.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (70/311 - 22.5%)</b></summary>
+<summary><b>Barcelona (72/311 - 23.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -53,7 +53,7 @@ Progress: **21.3%**
 | Campins | `campins` | ✅ Downloaded |
 | Canet de Mar | `canet-de-mar` | ❌ Pending |
 | Canovelles | `canovelles` | ✅ Downloaded |
-| Cànoves i Samalús | `canoves-i-samalus` | ❌ Pending |
+| Cànoves i Samalús | `canoves-i-samalus` | ✅ Downloaded |
 | Canyelles | `canyelles` | ✅ Downloaded |
 | Capellades | `capellades` | ✅ Downloaded |
 | Capolat | `capolat` | ❌ Pending |
@@ -87,7 +87,7 @@ Progress: **21.3%**
 | Copons | `copons` | ✅ Downloaded |
 | Corbera de Llobregat | `corbera-de-llobregat` | ✅ Downloaded |
 | Cornellà de Llobregat | `cornella-de-llobregat` | ✅ Downloaded |
-| Cubelles | `cubelles` | ❌ Pending |
+| Cubelles | `cubelles` | ✅ Downloaded |
 | Dosrius | `dosrius` | ❌ Pending |
 | el Bruc | `el-bruc` | ❌ Pending |
 | el Brull | `el-brull` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **21.3%**
 </details>
 
 <details>
-<summary><b>Girona (43/221 - 19.5%)</b></summary>
+<summary><b>Girona (44/221 - 19.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -384,7 +384,7 @@ Progress: **21.3%**
 | Cornellà del Terri | `cornella-del-terri` | ✅ Downloaded |
 | Crespià | `crespia` | ❌ Pending |
 | Cruïlles, Monells i Sant Sadurní de l'Heura | `cruilles-monells-i-sant-sadurni-de-lheura` | ❌ Pending |
-| Darnius | `darnius` | ❌ Pending |
+| Darnius | `darnius` | ✅ Downloaded |
 | Das | `das` | ❌ Pending |
 | el Far d'Empordà | `el-far-demporda` | ❌ Pending |
 | el Port de la Selva | `el-port-de-la-selva` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **21.3%**
 </details>
 
 <details>
-<summary><b>Tarragona (32/184 - 17.4%)</b></summary>
+<summary><b>Tarragona (34/184 - 18.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -842,8 +842,8 @@ Progress: **21.3%**
 | Corbera d'Ebre | `corbera-debre` | ✅ Downloaded |
 | Cornudella de Montsant | `cornudella-de-montsant` | ✅ Downloaded |
 | Creixell | `creixell` | ✅ Downloaded |
-| Cunit | `cunit` | ❌ Pending |
-| Deltebre | `deltebre` | ❌ Pending |
+| Cunit | `cunit` | ✅ Downloaded |
+| Deltebre | `deltebre` | ✅ Downloaded |
 | Duesaigües | `duesaigues` | ❌ Pending |
 | el Catllar | `el-catllar` | ❌ Pending |
 | el Lloar | `el-lloar` | ❌ Pending |
