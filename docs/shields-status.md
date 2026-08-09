@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **207**
-Pending: **740**
-Progress: **21.9%**
+Downloaded: **212**
+Pending: **735**
+Progress: **22.4%**
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░] 21.9%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░] 22.4%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (72/311 - 23.2%)</b></summary>
+<summary><b>Barcelona (75/311 - 24.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -88,7 +88,7 @@ Progress: **21.9%**
 | Corbera de Llobregat | `corbera-de-llobregat` | ✅ Downloaded |
 | Cornellà de Llobregat | `cornella-de-llobregat` | ✅ Downloaded |
 | Cubelles | `cubelles` | ✅ Downloaded |
-| Dosrius | `dosrius` | ❌ Pending |
+| Dosrius | `dosrius` | ✅ Downloaded |
 | el Bruc | `el-bruc` | ❌ Pending |
 | el Brull | `el-brull` | ❌ Pending |
 | el Figaró-Montmany | `el-figaro-montmany` | ❌ Pending |
@@ -99,8 +99,8 @@ Progress: **21.9%**
 | el Prat de Llobregat | `el-prat-de-llobregat` | ❌ Pending |
 | els Hostalets de Pierola | `els-hostalets-de-pierola` | ❌ Pending |
 | els Prats de Rei | `els-prats-de-rei` | ❌ Pending |
-| Esparreguera | `esparreguera` | ❌ Pending |
-| Esplugues de Llobregat | `esplugues-de-llobregat` | ❌ Pending |
+| Esparreguera | `esparreguera` | ✅ Downloaded |
+| Esplugues de Llobregat | `esplugues-de-llobregat` | ✅ Downloaded |
 | Fígols | `figols` | ❌ Pending |
 | Fogars de la Selva | `fogars-de-la-selva` | ❌ Pending |
 | Fogars de Montclús | `fogars-de-montclus` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **21.9%**
 </details>
 
 <details>
-<summary><b>Girona (44/221 - 19.9%)</b></summary>
+<summary><b>Girona (45/221 - 20.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -388,7 +388,7 @@ Progress: **21.9%**
 | Das | `das` | ❌ Pending |
 | el Far d'Empordà | `el-far-demporda` | ❌ Pending |
 | el Port de la Selva | `el-port-de-la-selva` | ❌ Pending |
-| Espinelves | `espinelves` | ❌ Pending |
+| Espinelves | `espinelves` | ✅ Downloaded |
 | Espolla | `espolla` | ❌ Pending |
 | Esponellà | `esponella` | ❌ Pending |
 | Figueres | `figueres` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **21.9%**
 </details>
 
 <details>
-<summary><b>Lleida (57/231 - 24.7%)</b></summary>
+<summary><b>Lleida (58/231 - 25.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -638,7 +638,7 @@ Progress: **21.9%**
 | els Omells de na Gaia | `els-omells-de-na-gaia` | ❌ Pending |
 | els Plans de Sió | `els-plans-de-sio` | ❌ Pending |
 | els Torms | `els-torms` | ❌ Pending |
-| Es Bòrdes | `es-bordes` | ❌ Pending |
+| Es Bòrdes | `es-bordes` | ✅ Downloaded |
 | Espot | `espot` | ❌ Pending |
 | Estamariu | `estamariu` | ❌ Pending |
 | Estaràs | `estaras` | ❌ Pending |
