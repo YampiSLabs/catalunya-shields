@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **212**
-Pending: **735**
-Progress: **22.4%**
+Downloaded: **217**
+Pending: **730**
+Progress: **22.9%**
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░] 22.4%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░] 22.9%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **22.4%**
 </details>
 
 <details>
-<summary><b>Girona (45/221 - 20.4%)</b></summary>
+<summary><b>Girona (47/221 - 21.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -389,8 +389,8 @@ Progress: **22.4%**
 | el Far d'Empordà | `el-far-demporda` | ❌ Pending |
 | el Port de la Selva | `el-port-de-la-selva` | ❌ Pending |
 | Espinelves | `espinelves` | ✅ Downloaded |
-| Espolla | `espolla` | ❌ Pending |
-| Esponellà | `esponella` | ❌ Pending |
+| Espolla | `espolla` | ✅ Downloaded |
+| Esponellà | `esponella` | ✅ Downloaded |
 | Figueres | `figueres` | ❌ Pending |
 | Flaçà | `flaca` | ❌ Pending |
 | Foixà | `foixa` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **22.4%**
 </details>
 
 <details>
-<summary><b>Lleida (58/231 - 25.1%)</b></summary>
+<summary><b>Lleida (61/231 - 26.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -639,9 +639,9 @@ Progress: **22.4%**
 | els Plans de Sió | `els-plans-de-sio` | ❌ Pending |
 | els Torms | `els-torms` | ❌ Pending |
 | Es Bòrdes | `es-bordes` | ✅ Downloaded |
-| Espot | `espot` | ❌ Pending |
-| Estamariu | `estamariu` | ❌ Pending |
-| Estaràs | `estaras` | ❌ Pending |
+| Espot | `espot` | ✅ Downloaded |
+| Estamariu | `estamariu` | ✅ Downloaded |
+| Estaràs | `estaras` | ✅ Downloaded |
 | Esterri d'Àneu | `esterri-daneu` | ❌ Pending |
 | Esterri de Cardós | `esterri-de-cardos` | ❌ Pending |
 | Farrera | `farrera` | ❌ Pending |
