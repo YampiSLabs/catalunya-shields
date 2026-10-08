@@ -40,12 +40,12 @@ echo "Normalizing municipality data..."
 pnpm normalize
 
 # 4. Dry-run first so the job logs candidates without mutating tracked data
-echo "Dry-running Commons candidate review (limit 10)..."
-pnpm download:commons -- --dry-run --limit=10
+echo "Dry-running rotating Commons candidate review (limit 10)..."
+pnpm download:commons -- --dry-run --review-limit=10 --download-limit=10
 
 # 5. Download up to 10 missing shields
-echo "Downloading up to 10 new shields..."
-pnpm download:commons -- --limit=10
+echo "Downloading up to 10 reviewed high-confidence shields..."
+pnpm download:commons -- --review-limit=10 --download-limit=10
 
 # 6. Optimize shields
 echo "Optimizing newly downloaded shields..."
@@ -72,7 +72,7 @@ if [[ -n "$(git status --porcelain -- raw/svg assets/svg src/index.ts docs/shiel
   git push origin main
   echo "Successfully pushed auto-updates to GitHub!"
 else
-  echo "No new shields downloaded or modified. Everything is up to date."
+  echo "No new shields downloaded in this batch. Check pending count in docs/shields-status.md."
 fi
 
 echo "=== Cron Update Completed Successfully - $(date) ==="
