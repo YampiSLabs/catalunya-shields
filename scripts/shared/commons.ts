@@ -30,8 +30,64 @@ type DownloadFileOptions = {
 
 const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
+const normalizeSearchQuery = (query: string) =>
+  query
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+
+export const buildCommonsSearchQueries = (municipalityName: string) => {
+  const name = municipalityName.trim();
+  const catalanQueries: string[] = [];
+
+  if (/^el\s+/i.test(name)) {
+    const rest = name.replace(/^el\s+/i, "");
+    catalanQueries.push(`Escut del ${rest}`, `Escut de ${name}`);
+  } else if (/^els\s+/i.test(name)) {
+    const rest = name.replace(/^els\s+/i, "");
+    catalanQueries.push(`Escut dels ${rest}`, `Escut de ${name}`);
+  } else if (/^es\s+/i.test(name)) {
+    const rest = name.replace(/^es\s+/i, "");
+    catalanQueries.push(
+      `Escut d'es ${rest}`,
+      `Escut de les ${rest}`,
+      `Escut de ${name}`,
+    );
+  } else if (/^l['’]/i.test(name)) {
+    catalanQueries.push(`Escut de ${name}`, `Escut d'${name.slice(2)}`);
+  } else if (/^[aeiouàèéíïòóúü]/i.test(name)) {
+    catalanQueries.push(`Escut d'${name}`, `Escut de ${name}`);
+  } else {
+    catalanQueries.push(`Escut de ${name}`);
+  }
+
+  const queries = [
+    ...catalanQueries,
+    `Escudo de ${name}`,
+    `coat of arms of ${name}`,
+  ];
+  const seen = new Set<string>();
+
+  return queries.filter((query) => {
+    const normalized = normalizeSearchQuery(query);
+    if (seen.has(normalized)) return false;
+    seen.add(normalized);
+    return true;
+  });
+};
+
 export const searchCommonsFiles = async (query: string) => {
-  const url = `https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(query)}&srnamespace=6&srlimit=5`;
+  const params = new URLSearchParams({
+    action: "query",
+    format: "json",
+    list: "search",
+    srsearch: `intitle:${query}`,
+    srnamespace: "6",
+    srlimit: "20",
+  });
+  const url = `https://commons.wikimedia.org/w/api.php?${params.toString()}`;
   const response = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
   const text = await response.text();
   const data = parseCommonsJson(text);
@@ -41,7 +97,7 @@ export const searchCommonsFiles = async (query: string) => {
     throw new Error("API returned error");
   }
 
-  return data.query.search;
+  return data.query?.search ?? [];
 };
 
 export const getImageUrl = async (title: string) => {
