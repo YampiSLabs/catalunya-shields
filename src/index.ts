@@ -208,6 +208,8 @@ export { default as Esponellà } from "../assets/svg/esponella.svg";
 export { default as Espot } from "../assets/svg/espot.svg";
 export { default as Estamariu } from "../assets/svg/estamariu.svg";
 export { default as Estaràs } from "../assets/svg/estaras.svg";
+export { default as EsterriDÀneu } from "../assets/svg/esterri-daneu.svg";
+export { default as EsterriDeCardós } from "../assets/svg/esterri-de-cardos.svg";
 export { default as LHospitaletDeLlobregat } from "../assets/svg/lhospitalet-de-llobregat.svg";
 export { default as Mataró } from "../assets/svg/mataro.svg";
 export { default as Reus } from "../assets/svg/reus.svg";

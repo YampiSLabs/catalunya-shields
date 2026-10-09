@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **217**
-Pending: **730**
-Progress: **22.9%**
+Downloaded: **219**
+Pending: **728**
+Progress: **23.1%**
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░] 22.9%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░] 23.1%`
 
 ## Provinces Overview
 
@@ -383,9 +383,9 @@ Progress: **22.9%**
 | Corçà | `corca` | ✅ Downloaded |
 | Cornellà del Terri | `cornella-del-terri` | ✅ Downloaded |
 | Crespià | `crespia` | ❌ Pending |
-| Cruïlles, Monells i Sant Sadurní de l'Heura | `cruilles-monells-i-sant-sadurni-de-lheura` | ❌ Pending |
+| Cruïlles, Monells i Sant Sadurní de l'Heura | `cruilles-monells-i-sant-sadurni-de-lheura` | 🔍 Has Candidate |
 | Darnius | `darnius` | ✅ Downloaded |
-| Das | `das` | ❌ Pending |
+| Das | `das` | 🔍 Has Candidate |
 | el Far d'Empordà | `el-far-demporda` | ❌ Pending |
 | el Port de la Selva | `el-port-de-la-selva` | ❌ Pending |
 | Espinelves | `espinelves` | ✅ Downloaded |
@@ -558,7 +558,7 @@ Progress: **22.9%**
 </details>
 
 <details>
-<summary><b>Lleida (61/231 - 26.4%)</b></summary>
+<summary><b>Lleida (63/231 - 27.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -642,8 +642,8 @@ Progress: **22.9%**
 | Espot | `espot` | ✅ Downloaded |
 | Estamariu | `estamariu` | ✅ Downloaded |
 | Estaràs | `estaras` | ✅ Downloaded |
-| Esterri d'Àneu | `esterri-daneu` | ❌ Pending |
-| Esterri de Cardós | `esterri-de-cardos` | ❌ Pending |
+| Esterri d'Àneu | `esterri-daneu` | ✅ Downloaded |
+| Esterri de Cardós | `esterri-de-cardos` | ✅ Downloaded |
 | Farrera | `farrera` | ❌ Pending |
 | Fígols i Alinyà | `figols-i-alinya` | ❌ Pending |
 | Fondarella | `fondarella` | ❌ Pending |
@@ -844,7 +844,7 @@ Progress: **22.9%**
 | Creixell | `creixell` | ✅ Downloaded |
 | Cunit | `cunit` | ✅ Downloaded |
 | Deltebre | `deltebre` | ✅ Downloaded |
-| Duesaigües | `duesaigues` | ❌ Pending |
+| Duesaigües | `duesaigues` | 🔍 Has Candidate |
 | el Catllar | `el-catllar` | ❌ Pending |
 | el Lloar | `el-lloar` | ❌ Pending |
 | el Masroig | `el-masroig` | ❌ Pending |
