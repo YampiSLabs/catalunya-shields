@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **219**
-Pending: **728**
-Progress: **23.1%**
+Downloaded: **226**
+Pending: **721**
+Progress: **23.9%**
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░] 23.1%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░] 23.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (75/311 - 24.1%)</b></summary>
+<summary><b>Barcelona (77/311 - 24.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -93,8 +93,8 @@ Progress: **23.1%**
 | el Brull | `el-brull` | ❌ Pending |
 | el Figaró-Montmany | `el-figaro-montmany` | ❌ Pending |
 | el Masnou | `el-masnou` | ❌ Pending |
-| el Papiol | `el-papiol` | ❌ Pending |
-| el Pla del Penedès | `el-pla-del-penedes` | ❌ Pending |
+| el Papiol | `el-papiol` | ✅ Downloaded |
+| el Pla del Penedès | `el-pla-del-penedes` | ✅ Downloaded |
 | el Pont de Vilomara i Rocafort | `el-pont-de-vilomara-i-rocafort` | ❌ Pending |
 | el Prat de Llobregat | `el-prat-de-llobregat` | ❌ Pending |
 | els Hostalets de Pierola | `els-hostalets-de-pierola` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **23.1%**
 </details>
 
 <details>
-<summary><b>Lleida (63/231 - 27.3%)</b></summary>
+<summary><b>Lleida (65/231 - 28.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -628,9 +628,9 @@ Progress: **23.1%**
 | Cubells | `cubells` | ❌ Pending |
 | el Cogul | `el-cogul` | ❌ Pending |
 | el Palau d'Anglesola | `el-palau-danglesola` | ❌ Pending |
-| el Poal | `el-poal` | ❌ Pending |
-| el Pont de Bar | `el-pont-de-bar` | ❌ Pending |
-| el Pont de Suert | `el-pont-de-suert` | ❌ Pending |
+| el Poal | `el-poal` | ✅ Downloaded |
+| el Pont de Bar | `el-pont-de-bar` | ✅ Downloaded |
+| el Pont de Suert | `el-pont-de-suert` | 🔍 Has Candidate |
 | el Soleràs | `el-soleras` | ❌ Pending |
 | el Vilosell | `el-vilosell` | ❌ Pending |
 | els Alamús | `els-alamus` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **23.1%**
 </details>
 
 <details>
-<summary><b>Tarragona (34/184 - 18.5%)</b></summary>
+<summary><b>Tarragona (37/184 - 20.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -852,10 +852,10 @@ Progress: **23.1%**
 | el Molar | `el-molar` | ❌ Pending |
 | el Montmell | `el-montmell` | ❌ Pending |
 | el Morell | `el-morell` | ❌ Pending |
-| el Perelló | `el-perello` | ❌ Pending |
-| el Pinell de Brai | `el-pinell-de-brai` | ❌ Pending |
-| el Pla de Santa Maria | `el-pla-de-santa-maria` | ❌ Pending |
-| el Pont d'Armentera | `el-pont-darmentera` | ❌ Pending |
+| el Perelló | `el-perello` | ✅ Downloaded |
+| el Pinell de Brai | `el-pinell-de-brai` | ✅ Downloaded |
+| el Pla de Santa Maria | `el-pla-de-santa-maria` | ✅ Downloaded |
+| el Pont d'Armentera | `el-pont-darmentera` | 🔍 Has Candidate |
 | el Rourell | `el-rourell` | ❌ Pending |
 | el Vendrell | `el-vendrell` | ❌ Pending |
 | els Garidells | `els-garidells` | ❌ Pending |
