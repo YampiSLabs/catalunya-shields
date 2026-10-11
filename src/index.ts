@@ -223,4 +223,7 @@ export { default as Reus } from "../assets/svg/reus.svg";
 export { default as Sabadell } from "../assets/svg/sabadell.svg";
 export { default as SantaColomaDeGramenet } from "../assets/svg/santa-coloma-de-gramenet.svg";
 export { default as SantCugatDelVallès } from "../assets/svg/sant-cugat-del-valles.svg";
+export { default as Serinyà } from "../assets/svg/serinya.svg";
+export { default as Seròs } from "../assets/svg/seros.svg";
+export { default as SerraDeDaró } from "../assets/svg/serra-de-daro.svg";
 export { default as Terrassa } from "../assets/svg/terrassa.svg";

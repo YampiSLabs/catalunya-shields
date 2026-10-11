@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **226**
-Pending: **721**
-Progress: **23.9%**
+Downloaded: **229**
+Pending: **718**
+Progress: **24.2%**
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░] 23.9%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░] 24.2%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **23.9%**
 </details>
 
 <details>
-<summary><b>Girona (47/221 - 21.3%)</b></summary>
+<summary><b>Girona (49/221 - 22.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -513,9 +513,9 @@ Progress: **23.9%**
 | Santa Pau | `santa-pau` | ❌ Pending |
 | Sarrià de Ter | `sarria-de-ter` | ❌ Pending |
 | Saus, Camallera i Llampaies | `saus-camallera-i-llampaies` | ❌ Pending |
-| Serinyà | `serinya` | ❌ Pending |
-| Serra de Daró | `serra-de-daro` | ❌ Pending |
-| Setcases | `setcases` | ❌ Pending |
+| Serinyà | `serinya` | ✅ Downloaded |
+| Serra de Daró | `serra-de-daro` | ✅ Downloaded |
+| Setcases | `setcases` | 🔍 Has Candidate |
 | Sils | `sils` | ❌ Pending |
 | Siurana | `siurana` | ❌ Pending |
 | Susqueda | `susqueda` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **23.9%**
 </details>
 
 <details>
-<summary><b>Lleida (65/231 - 28.1%)</b></summary>
+<summary><b>Lleida (66/231 - 28.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -752,7 +752,7 @@ Progress: **23.9%**
 | Sarroca de Bellera | `sarroca-de-bellera` | ❌ Pending |
 | Sarroca de Lleida | `sarroca-de-lleida` | ❌ Pending |
 | Senterada | `senterada` | ❌ Pending |
-| Seròs | `seros` | ❌ Pending |
+| Seròs | `seros` | ✅ Downloaded |
 | Sidamon | `sidamon` | ❌ Pending |
 | Solsona | `solsona` | ❌ Pending |
 | Soriguera | `soriguera` | ❌ Pending |
