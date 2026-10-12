@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 230,
-  "missingCount": 717,
+  "downloadedCount": 237,
+  "missingCount": 710,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1673,76 +1673,6 @@
       "rawSvgPath": "raw/svg/mollo.svg",
       "assetSvgPath": "assets/svg/mollo.svg",
       "candidatePath": "data/commons-candidates/mollo.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "monistrol-de-calders": {
-      "slug": "monistrol-de-calders",
-      "name": "Monistrol de Calders",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/monistrol-de-calders.svg",
-      "assetSvgPath": "assets/svg/monistrol-de-calders.svg",
-      "candidatePath": "data/commons-candidates/monistrol-de-calders.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "monistrol-de-montserrat": {
-      "slug": "monistrol-de-montserrat",
-      "name": "Monistrol de Montserrat",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/monistrol-de-montserrat.svg",
-      "assetSvgPath": "assets/svg/monistrol-de-montserrat.svg",
-      "candidatePath": "data/commons-candidates/monistrol-de-montserrat.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "mont-ral": {
-      "slug": "mont-ral",
-      "name": "Mont-ral",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/mont-ral.svg",
-      "assetSvgPath": "assets/svg/mont-ral.svg",
-      "candidatePath": "data/commons-candidates/mont-ral.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "mont-ras": {
-      "slug": "mont-ras",
-      "name": "Mont-ras",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/mont-ras.svg",
-      "assetSvgPath": "assets/svg/mont-ras.svg",
-      "candidatePath": "data/commons-candidates/mont-ras.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "mont-roig-del-camp": {
-      "slug": "mont-roig-del-camp",
-      "name": "Mont-roig del Camp",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/mont-roig-del-camp.svg",
-      "assetSvgPath": "assets/svg/mont-roig-del-camp.svg",
-      "candidatePath": "data/commons-candidates/mont-roig-del-camp.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montagut-i-oix": {
-      "slug": "montagut-i-oix",
-      "name": "Montagut i Oix",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/montagut-i-oix.svg",
-      "assetSvgPath": "assets/svg/montagut-i-oix.svg",
-      "candidatePath": "data/commons-candidates/montagut-i-oix.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montblanc": {
-      "slug": "montblanc",
-      "name": "Montblanc",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/montblanc.svg",
-      "assetSvgPath": "assets/svg/montblanc.svg",
-      "candidatePath": "data/commons-candidates/montblanc.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

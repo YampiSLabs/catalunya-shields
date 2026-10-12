@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **230**
-Pending: **717**
-Progress: **24.3%**
+Downloaded: **237**
+Pending: **710**
+Progress: **25.0%**
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░] 24.3%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░] 25.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (78/311 - 25.1%)</b></summary>
+<summary><b>Barcelona (80/311 - 25.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -158,8 +158,8 @@ Progress: **24.3%**
 | Moià | `moia` | ❌ Pending |
 | Molins de Rei | `molins-de-rei` | ❌ Pending |
 | Mollet del Vallès | `mollet-del-valles` | ❌ Pending |
-| Monistrol de Calders | `monistrol-de-calders` | ❌ Pending |
-| Monistrol de Montserrat | `monistrol-de-montserrat` | ❌ Pending |
+| Monistrol de Calders | `monistrol-de-calders` | ✅ Downloaded |
+| Monistrol de Montserrat | `monistrol-de-montserrat` | ✅ Downloaded |
 | Montcada i Reixac | `montcada-i-reixac` | ❌ Pending |
 | Montclar | `montclar` | ❌ Pending |
 | Montesquiu | `montesquiu` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **24.3%**
 </details>
 
 <details>
-<summary><b>Girona (49/221 - 22.2%)</b></summary>
+<summary><b>Girona (51/221 - 23.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -443,8 +443,8 @@ Progress: **24.3%**
 | Mieres | `mieres` | ❌ Pending |
 | Mollet de Peralada | `mollet-de-peralada` | ❌ Pending |
 | Molló | `mollo` | ❌ Pending |
-| Mont-ras | `mont-ras` | ❌ Pending |
-| Montagut i Oix | `montagut-i-oix` | ❌ Pending |
+| Mont-ras | `mont-ras` | ✅ Downloaded |
+| Montagut i Oix | `montagut-i-oix` | ✅ Downloaded |
 | Navata | `navata` | ❌ Pending |
 | Ogassa | `ogassa` | ❌ Pending |
 | Olot | `olot` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **24.3%**
 </details>
 
 <details>
-<summary><b>Tarragona (37/184 - 20.1%)</b></summary>
+<summary><b>Tarragona (40/184 - 21.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -915,9 +915,9 @@ Progress: **24.3%**
 | Masllorenç | `masllorenc` | ❌ Pending |
 | Maspujols | `maspujols` | ❌ Pending |
 | Miravet | `miravet` | ❌ Pending |
-| Mont-ral | `mont-ral` | ❌ Pending |
-| Mont-roig del Camp | `mont-roig-del-camp` | ❌ Pending |
-| Montblanc | `montblanc` | ❌ Pending |
+| Mont-ral | `mont-ral` | ✅ Downloaded |
+| Mont-roig del Camp | `mont-roig-del-camp` | ✅ Downloaded |
+| Montblanc | `montblanc` | ✅ Downloaded |
 | Montbrió del Camp | `montbrio-del-camp` | ❌ Pending |
 | Montferri | `montferri` | ❌ Pending |
 | Móra d'Ebre | `mora-debre` | ❌ Pending |
