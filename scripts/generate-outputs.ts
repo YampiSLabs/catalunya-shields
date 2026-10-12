@@ -1,22 +1,42 @@
 import { existsSync, readdirSync, writeFileSync, mkdirSync } from "fs";
-import { join } from "path";
 import { readJson } from "./shared/fs.js";
 import { createComponentName } from "./shared/text.js";
+import { hasSafeCandidate } from "./shared/candidates.js";
+import { buildMissingShieldDictionary } from "./shared/missing-shields.js";
+import { getShieldPaths } from "./shared/shield-paths.js";
 
-const municipalities = readJson<any[]>("data/municipalities.json");
-const assetsDir = "assets/svg";
-const candidatesDir = "data/commons-candidates";
+type Municipality = {
+  name: string;
+  slug: string;
+  province?: string;
+  componentName: string;
+};
+
+const municipalities = readJson<Municipality[]>("data/municipalities.json");
+const rawSlugs = new Set(
+  readdirSync("raw/svg")
+    .filter((file) => file.endsWith(".svg"))
+    .map((file) => file.slice(0, -".svg".length)),
+);
 
 // 1. Gather status of all municipalities
 const downloadedList: any[] = [];
 const pendingList: any[] = [];
 
 for (const m of municipalities) {
-  const svgPath = join(assetsDir, `${m.slug}.svg`);
-  const hasSvg = existsSync(svgPath);
-
-  const candidatePath = join(candidatesDir, `${m.slug}.json`);
-  const hasCandidate = existsSync(candidatePath);
+  const paths = getShieldPaths(m.slug);
+  const hasSvg = existsSync(paths.optimizedSvg);
+  let hasCandidate = false;
+  if (existsSync(paths.candidateJson)) {
+    try {
+      hasCandidate = hasSafeCandidate(
+        readJson<unknown>(paths.candidateJson),
+        m.name,
+      );
+    } catch {
+      hasCandidate = false;
+    }
+  }
 
   const statusInfo = {
     ...m,
@@ -30,6 +50,20 @@ for (const m of municipalities) {
     pendingList.push(statusInfo);
   }
 }
+
+const missingDictionary = buildMissingShieldDictionary(
+  municipalities,
+  new Set(downloadedList.map((municipality) => municipality.slug)),
+  rawSlugs,
+);
+writeFileSync(
+  "data/missing-shields.json",
+  JSON.stringify(missingDictionary, null, 2) + "\n",
+  "utf8",
+);
+console.log(
+  `Generated data/missing-shields.json with ${missingDictionary.missingCount} missing slugs.`,
+);
 
 // 2. Generate src/index.ts exports
 downloadedList.sort((a, b) => a.componentName.localeCompare(b.componentName));

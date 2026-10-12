@@ -108,6 +108,7 @@ jobs:
           add-paths: |
             assets/svg/**
             data/commons-candidates/**
+            data/missing-shields.json
             docs/shields-status.md
             raw/svg/**
             src/index.ts

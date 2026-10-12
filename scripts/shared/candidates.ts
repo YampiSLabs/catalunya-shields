@@ -87,3 +87,17 @@ export const scoreCandidate = (
     matchesMunicipality,
   };
 };
+
+export const hasSafeCandidate = (
+  candidates: unknown,
+  municipalityName: string,
+): boolean => {
+  if (!Array.isArray(candidates)) return false;
+
+  return candidates.some((candidate) => {
+    if (!candidate || typeof candidate !== "object") return false;
+    const title = (candidate as { title?: unknown }).title;
+    if (typeof title !== "string") return false;
+    return scoreCandidate({ title }, municipalityName).confidence === "high";
+  });
+};

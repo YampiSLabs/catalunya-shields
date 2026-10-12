@@ -383,9 +383,9 @@ Progress: **24.3%**
 | Corçà | `corca` | ✅ Downloaded |
 | Cornellà del Terri | `cornella-del-terri` | ✅ Downloaded |
 | Crespià | `crespia` | ❌ Pending |
-| Cruïlles, Monells i Sant Sadurní de l'Heura | `cruilles-monells-i-sant-sadurni-de-lheura` | 🔍 Has Candidate |
+| Cruïlles, Monells i Sant Sadurní de l'Heura | `cruilles-monells-i-sant-sadurni-de-lheura` | ❌ Pending |
 | Darnius | `darnius` | ✅ Downloaded |
-| Das | `das` | 🔍 Has Candidate |
+| Das | `das` | ❌ Pending |
 | el Far d'Empordà | `el-far-demporda` | ❌ Pending |
 | el Port de la Selva | `el-port-de-la-selva` | ❌ Pending |
 | Espinelves | `espinelves` | ✅ Downloaded |
@@ -515,7 +515,7 @@ Progress: **24.3%**
 | Saus, Camallera i Llampaies | `saus-camallera-i-llampaies` | ❌ Pending |
 | Serinyà | `serinya` | ✅ Downloaded |
 | Serra de Daró | `serra-de-daro` | ✅ Downloaded |
-| Setcases | `setcases` | 🔍 Has Candidate |
+| Setcases | `setcases` | ❌ Pending |
 | Sils | `sils` | ❌ Pending |
 | Siurana | `siurana` | ❌ Pending |
 | Susqueda | `susqueda` | ❌ Pending |
@@ -630,7 +630,7 @@ Progress: **24.3%**
 | el Palau d'Anglesola | `el-palau-danglesola` | ❌ Pending |
 | el Poal | `el-poal` | ✅ Downloaded |
 | el Pont de Bar | `el-pont-de-bar` | ✅ Downloaded |
-| el Pont de Suert | `el-pont-de-suert` | 🔍 Has Candidate |
+| el Pont de Suert | `el-pont-de-suert` | ❌ Pending |
 | el Soleràs | `el-soleras` | ❌ Pending |
 | el Vilosell | `el-vilosell` | ❌ Pending |
 | els Alamús | `els-alamus` | ❌ Pending |
@@ -844,9 +844,9 @@ Progress: **24.3%**
 | Creixell | `creixell` | ✅ Downloaded |
 | Cunit | `cunit` | ✅ Downloaded |
 | Deltebre | `deltebre` | ✅ Downloaded |
-| Duesaigües | `duesaigues` | 🔍 Has Candidate |
+| Duesaigües | `duesaigues` | ❌ Pending |
 | el Catllar | `el-catllar` | ❌ Pending |
-| el Lloar | `el-lloar` | 🔍 Has Candidate |
+| el Lloar | `el-lloar` | ❌ Pending |
 | el Masroig | `el-masroig` | ❌ Pending |
 | el Milà | `el-mila` | ❌ Pending |
 | el Molar | `el-molar` | ❌ Pending |
@@ -855,7 +855,7 @@ Progress: **24.3%**
 | el Perelló | `el-perello` | ✅ Downloaded |
 | el Pinell de Brai | `el-pinell-de-brai` | ✅ Downloaded |
 | el Pla de Santa Maria | `el-pla-de-santa-maria` | ✅ Downloaded |
-| el Pont d'Armentera | `el-pont-darmentera` | 🔍 Has Candidate |
+| el Pont d'Armentera | `el-pont-darmentera` | ❌ Pending |
 | el Rourell | `el-rourell` | ❌ Pending |
 | el Vendrell | `el-vendrell` | ❌ Pending |
 | els Garidells | `els-garidells` | ❌ Pending |

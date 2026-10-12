@@ -5,8 +5,8 @@ import {
   existsSync,
   mkdirSync,
 } from "fs";
-import { join } from "path";
-import { optimize } from "svgo";
+import { getShieldPaths } from "./shared/shield-paths.js";
+import { optimizeShieldSvg } from "./shared/svg-optimization.js";
 
 const rawDir = "raw/svg";
 const assetsDir = "assets/svg";
@@ -19,21 +19,10 @@ const files = readdirSync(rawDir).filter((f) => f.endsWith(".svg"));
 
 for (const file of files) {
   console.log(`Optimizing: ${file}`);
-  const content = readFileSync(join(rawDir, file), "utf8");
+  const paths = getShieldPaths(file.slice(0, -".svg".length));
+  const content = readFileSync(paths.rawSvg, "utf8");
+  const optimized = optimizeShieldSvg(content, paths.rawSvg);
 
-  const result = optimize(content, {
-    path: join(rawDir, file),
-    multipass: true,
-    plugins: [
-      "preset-default",
-      "removeDimensions", // This ensures it scales
-      {
-        name: "addAttributesToSVGElement",
-        params: { attributes: [{ xmlns: "http://www.w3.org/2000/svg" }] },
-      },
-    ],
-  });
-
-  writeFileSync(join(assetsDir, file), result.data);
+  writeFileSync(paths.optimizedSvg, optimized);
   console.log(`Optimized ${file}`);
 }

@@ -64,9 +64,9 @@ echo "Running test suite..."
 pnpm test run
 
 # 10. Check for generated shield changes and commit/push
-if [[ -n "$(git status --porcelain -- raw/svg assets/svg src/index.ts docs/shields-status.md)" ]]; then
+if [[ -n "$(git status --porcelain -- raw/svg assets/svg src/index.ts docs/shields-status.md data/missing-shields.json)" ]]; then
   echo "Changes detected. Preparing commit..."
-  git add raw/svg assets/svg src/index.ts docs/shields-status.md
+  git add raw/svg assets/svg src/index.ts docs/shields-status.md data/missing-shields.json
   
   # Standardized commit message with date
   COMMIT_MSG="feat(auto): download and optimize new municipal shields - $(date +'%Y-%m-%d')"

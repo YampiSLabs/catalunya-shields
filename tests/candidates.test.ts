@@ -1,5 +1,8 @@
 import { expect, test } from "vitest";
-import { scoreCandidate } from "../scripts/shared/candidates.js";
+import {
+  hasSafeCandidate,
+  scoreCandidate,
+} from "../scripts/shared/candidates.js";
 
 test("candidate scoring", () => {
   const file1 = { title: "Escut de Barcelona.svg", mime: "image/svg+xml" };
@@ -67,4 +70,30 @@ test("historic and provincial variants are not auto-approved", () => {
       "Girona",
     ).confidence,
   ).not.toBe("high");
+});
+
+test("legacy candidate scores are revalidated against the exact municipality", () => {
+  const legacyAgramuntCandidates = [
+    {
+      title: "File:Escut de Puigverd d'Agramunt.svg",
+      score: 160,
+      confidence: "high",
+    },
+    {
+      title: "File:Escut de la Fuliola.svg",
+      score: 120,
+      confidence: "high",
+    },
+  ];
+  expect(hasSafeCandidate(legacyAgramuntCandidates, "Agramunt")).toBe(false);
+  expect(
+    hasSafeCandidate(
+      [
+        ...legacyAgramuntCandidates,
+        { title: "File:Escut d'Agramunt.svg", confidence: "low" },
+      ],
+      "Agramunt",
+    ),
+  ).toBe(true);
+  expect(hasSafeCandidate(legacyAgramuntCandidates, "Artés")).toBe(false);
 });
