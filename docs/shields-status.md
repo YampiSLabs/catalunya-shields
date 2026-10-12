@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **237**
-Pending: **710**
-Progress: **25.0%**
+Downloaded: **245**
+Pending: **702**
+Progress: **25.9%**
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░] 25.0%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░] 25.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (80/311 - 25.7%)</b></summary>
+<summary><b>Barcelona (82/311 - 26.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -109,8 +109,8 @@ Progress: **25.0%**
 | Font-rubí | `font-rubi` | ❌ Pending |
 | Gaià | `gaia` | ❌ Pending |
 | Gallifa | `gallifa` | ❌ Pending |
-| Gavà | `gava` | ❌ Pending |
-| Gelida | `gelida` | ❌ Pending |
+| Gavà | `gava` | ✅ Downloaded |
+| Gelida | `gelida` | ✅ Downloaded |
 | Gironella | `gironella` | ❌ Pending |
 | Gisclareny | `gisclareny` | ❌ Pending |
 | Granera | `granera` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **25.0%**
 </details>
 
 <details>
-<summary><b>Girona (51/221 - 23.1%)</b></summary>
+<summary><b>Girona (54/221 - 24.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -399,10 +399,10 @@ Progress: **25.0%**
 | Fontcoberta | `fontcoberta` | ❌ Pending |
 | Fornells de la Selva | `fornells-de-la-selva` | ❌ Pending |
 | Fortià | `fortia` | ❌ Pending |
-| Garrigàs | `garrigas` | ❌ Pending |
+| Garrigàs | `garrigas` | ✅ Downloaded |
 | Garrigoles | `garrigoles` | ❌ Pending |
-| Garriguella | `garriguella` | ❌ Pending |
-| Ger | `ger` | ❌ Pending |
+| Garriguella | `garriguella` | ✅ Downloaded |
+| Ger | `ger` | ✅ Downloaded |
 | Girona | `girona` | ❌ Pending |
 | Gombrèn | `gombren` | ❌ Pending |
 | Gualta | `gualta` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **25.0%**
 </details>
 
 <details>
-<summary><b>Lleida (66/231 - 28.6%)</b></summary>
+<summary><b>Lleida (67/231 - 29.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -649,7 +649,7 @@ Progress: **25.0%**
 | Fondarella | `fondarella` | ❌ Pending |
 | Foradada | `foradada` | ❌ Pending |
 | Fulleda | `fulleda` | ❌ Pending |
-| Gavet de la Conca | `gavet-de-la-conca` | ❌ Pending |
+| Gavet de la Conca | `gavet-de-la-conca` | ✅ Downloaded |
 | Gimenells i el Pla de la Font | `gimenells-i-el-pla-de-la-font` | ❌ Pending |
 | Golmés | `golmes` | ❌ Pending |
 | Gósol | `gosol` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **25.0%**
 </details>
 
 <details>
-<summary><b>Tarragona (40/184 - 21.7%)</b></summary>
+<summary><b>Tarragona (42/184 - 22.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -866,8 +866,8 @@ Progress: **25.0%**
 | Flix | `flix` | ❌ Pending |
 | Forès | `fores` | ❌ Pending |
 | Freginals | `freginals` | ❌ Pending |
-| Gandesa | `gandesa` | ❌ Pending |
-| Garcia | `garcia` | ❌ Pending |
+| Gandesa | `gandesa` | ✅ Downloaded |
+| Garcia | `garcia` | ✅ Downloaded |
 | Ginestar | `ginestar` | ❌ Pending |
 | Godall | `godall` | ❌ Pending |
 | Gratallops | `gratallops` | ❌ Pending |

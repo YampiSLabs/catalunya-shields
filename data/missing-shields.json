@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 237,
-  "missingCount": 710,
+  "downloadedCount": 245,
+  "missingCount": 702,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -606,26 +606,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "gandesa": {
-      "slug": "gandesa",
-      "name": "Gandesa",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/gandesa.svg",
-      "assetSvgPath": "assets/svg/gandesa.svg",
-      "candidatePath": "data/commons-candidates/gandesa.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "garcia": {
-      "slug": "garcia",
-      "name": "Garcia",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/garcia.svg",
-      "assetSvgPath": "assets/svg/garcia.svg",
-      "candidatePath": "data/commons-candidates/garcia.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "garrigoles": {
       "slug": "garrigoles",
       "name": "Garrigoles",
@@ -633,66 +613,6 @@
       "rawSvgPath": "raw/svg/garrigoles.svg",
       "assetSvgPath": "assets/svg/garrigoles.svg",
       "candidatePath": "data/commons-candidates/garrigoles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "garriguella": {
-      "slug": "garriguella",
-      "name": "Garriguella",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/garriguella.svg",
-      "assetSvgPath": "assets/svg/garriguella.svg",
-      "candidatePath": "data/commons-candidates/garriguella.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "garrigas": {
-      "slug": "garrigas",
-      "name": "Garrigàs",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/garrigas.svg",
-      "assetSvgPath": "assets/svg/garrigas.svg",
-      "candidatePath": "data/commons-candidates/garrigas.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gavet-de-la-conca": {
-      "slug": "gavet-de-la-conca",
-      "name": "Gavet de la Conca",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/gavet-de-la-conca.svg",
-      "assetSvgPath": "assets/svg/gavet-de-la-conca.svg",
-      "candidatePath": "data/commons-candidates/gavet-de-la-conca.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gava": {
-      "slug": "gava",
-      "name": "Gavà",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/gava.svg",
-      "assetSvgPath": "assets/svg/gava.svg",
-      "candidatePath": "data/commons-candidates/gava.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gelida": {
-      "slug": "gelida",
-      "name": "Gelida",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/gelida.svg",
-      "assetSvgPath": "assets/svg/gelida.svg",
-      "candidatePath": "data/commons-candidates/gelida.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "ger": {
-      "slug": "ger",
-      "name": "Ger",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/ger.svg",
-      "assetSvgPath": "assets/svg/ger.svg",
-      "candidatePath": "data/commons-candidates/ger.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
