@@ -26,6 +26,7 @@ on:
       - "package.json"
       - "pnpm-lock.yaml"
       - "pnpm-workspace.yaml"
+      - "Dockerfile"
       - ".github/workflows/update-shields.yml"
 
 permissions:
@@ -59,6 +60,9 @@ jobs:
       - run: pnpm typecheck
 
       - run: pnpm test run
+
+      - name: Build Docker image
+        run: docker build --tag catalunya-shields:ci .
 
   update:
     if: github.event_name != 'pull_request'
