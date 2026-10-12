@@ -12,6 +12,7 @@
     "healthcheck": "npx tsx scripts/vps-scheduler.ts",
     "prepare:assets": "pnpm normalize && pnpm download:commons -- --dry-run --limit=5 && pnpm optimize:shields && pnpm generate:outputs",
     "test": "vitest",
+    "typecheck": "tsc --noEmit",
     "format": "prettier --write .",
     "start": "npx tsx scripts/vps-scheduler.ts"
   },

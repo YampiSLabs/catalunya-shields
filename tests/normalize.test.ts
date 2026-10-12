@@ -17,6 +17,9 @@ test("component name", () => {
   expect(createComponentName("L'Hospitalet de Llobregat")).toBe(
     "LHospitaletDeLlobregat",
   );
+  expect(createComponentName("Castell d'Aro, Platja d'Aro i s'Agaró")).toBe(
+    "CastellDAroPlatjaDAroISAgaró",
+  );
 });
 
 test("search key", () => {

@@ -1,6 +1,7 @@
 import { existsSync, readdirSync, writeFileSync, mkdirSync } from "fs";
 import { join } from "path";
 import { readJson } from "./shared/fs.js";
+import { createComponentName } from "./shared/text.js";
 
 const municipalities = readJson<any[]>("data/municipalities.json");
 const assetsDir = "assets/svg";
@@ -33,8 +34,27 @@ for (const m of municipalities) {
 // 2. Generate src/index.ts exports
 downloadedList.sort((a, b) => a.componentName.localeCompare(b.componentName));
 let indexContent = "";
+const exportedNames = new Map<string, string>();
 for (const m of downloadedList) {
-  indexContent += `export { default as ${m.componentName} } from "../assets/svg/${m.slug}.svg";\n`;
+  const componentName = createComponentName(m.name);
+  const previousSlug = exportedNames.get(componentName);
+  if (previousSlug) {
+    throw new Error(
+      "Duplicate generated export name " +
+        componentName +
+        " for " +
+        previousSlug +
+        " and " +
+        m.slug,
+    );
+  }
+  exportedNames.set(componentName, m.slug);
+  indexContent +=
+    "export { default as " +
+    componentName +
+    " } from \"../assets/svg/" +
+    m.slug +
+    ".svg\";\n";
 }
 
 if (!existsSync("src")) {

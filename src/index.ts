@@ -149,7 +149,7 @@ export { default as CastellbellIElVilar } from "../assets/svg/castellbell-i-el-v
 export { default as Castellbisbal } from "../assets/svg/castellbisbal.svg";
 export { default as Castellcir } from "../assets/svg/castellcir.svg";
 export { default as Castelldans } from "../assets/svg/castelldans.svg";
-export { default as CastellDAro,PlatjaDAroISAgaró } from "../assets/svg/castell-daro-platja-daro-i-sagaro.svg";
+export { default as CastellDAroPlatjaDAroISAgaró } from "../assets/svg/castell-daro-platja-daro-i-sagaro.svg";
 export { default as Castelldefels } from "../assets/svg/castelldefels.svg";
 export { default as CastellDeLAreny } from "../assets/svg/castell-de-lareny.svg";
 export { default as CastellDeMur } from "../assets/svg/castell-de-mur.svg";

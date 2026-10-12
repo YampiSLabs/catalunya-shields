@@ -14,7 +14,7 @@ export const createSlug = (value: string): string =>
     .replace(/^-|-$/g, "");
 
 export const createComponentName = (value: string): string => {
-  const parts = value.split(/[\s'-]+/);
+  const parts = value.match(/[\p{L}\p{N}_$]+/gu) ?? [];
   return parts
     .map((part) => part.charAt(0).toUpperCase() + part.slice(1).toLowerCase())
     .join("");

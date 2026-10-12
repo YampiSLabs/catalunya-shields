@@ -56,6 +56,8 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      - run: pnpm typecheck
+
       - run: pnpm test run
 
   update:
@@ -92,6 +94,8 @@ jobs:
         run: |
           pnpm optimize:shields
           pnpm generate:outputs
+
+      - run: pnpm typecheck
 
       - run: pnpm test run
 
