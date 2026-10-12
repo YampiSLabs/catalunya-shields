@@ -199,6 +199,7 @@ export { default as Cunit } from "../assets/svg/cunit.svg";
 export { default as Darnius } from "../assets/svg/darnius.svg";
 export { default as Deltebre } from "../assets/svg/deltebre.svg";
 export { default as Dosrius } from "../assets/svg/dosrius.svg";
+export { default as ElFigaróMontmany } from "../assets/svg/el-figaro-montmany.svg";
 export { default as ElPapiol } from "../assets/svg/el-papiol.svg";
 export { default as ElPerelló } from "../assets/svg/el-perello.svg";
 export { default as ElPinellDeBrai } from "../assets/svg/el-pinell-de-brai.svg";

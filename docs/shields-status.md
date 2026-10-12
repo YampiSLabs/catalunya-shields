@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **229**
-Pending: **718**
-Progress: **24.2%**
+Downloaded: **230**
+Pending: **717**
+Progress: **24.3%**
 
-`[███████░░░░░░░░░░░░░░░░░░░░░░░] 24.2%`
+`[███████░░░░░░░░░░░░░░░░░░░░░░░] 24.3%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (77/311 - 24.8%)</b></summary>
+<summary><b>Barcelona (78/311 - 25.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -91,7 +91,7 @@ Progress: **24.2%**
 | Dosrius | `dosrius` | ✅ Downloaded |
 | el Bruc | `el-bruc` | ❌ Pending |
 | el Brull | `el-brull` | ❌ Pending |
-| el Figaró-Montmany | `el-figaro-montmany` | ❌ Pending |
+| el Figaró-Montmany | `el-figaro-montmany` | ✅ Downloaded |
 | el Masnou | `el-masnou` | ❌ Pending |
 | el Papiol | `el-papiol` | ✅ Downloaded |
 | el Pla del Penedès | `el-pla-del-penedes` | ✅ Downloaded |
@@ -846,7 +846,7 @@ Progress: **24.2%**
 | Deltebre | `deltebre` | ✅ Downloaded |
 | Duesaigües | `duesaigues` | 🔍 Has Candidate |
 | el Catllar | `el-catllar` | ❌ Pending |
-| el Lloar | `el-lloar` | ❌ Pending |
+| el Lloar | `el-lloar` | 🔍 Has Candidate |
 | el Masroig | `el-masroig` | ❌ Pending |
 | el Milà | `el-mila` | ❌ Pending |
 | el Molar | `el-molar` | ❌ Pending |
