@@ -11,8 +11,8 @@ import {
   type ScoredCandidate,
 } from "./shared/candidates.js";
 import { selectRotatingBatch } from "./shared/progression.js";
-import { join } from "path";
 import { existsSync } from "fs";
+import { getShieldPaths } from "./shared/shield-paths.js";
 
 type Municipality = {
   name: string;
@@ -53,7 +53,7 @@ async function run() {
   let reviewed = 0;
   let downloaded = 0;
   const pending = filtered.filter(
-    (m) => !existsSync(join("raw/svg", `${m.slug}.svg`)),
+    (m) => !existsSync(getShieldPaths(m.slug).rawSvg),
   );
   const { items: reviewBatch, startIndex } = selectRotatingBatch(
     pending,
@@ -72,7 +72,8 @@ async function run() {
       break;
     }
 
-    const outputPath = join("raw/svg", `${m.slug}.svg`);
+    const paths = getShieldPaths(m.slug);
+    const outputPath = paths.rawSvg;
     reviewed += 1;
     await delay(requestDelayMs);
 
@@ -125,7 +126,7 @@ async function run() {
     );
 
     if (!dryRun && candidates.length > 0) {
-      writeJson(`data/commons-candidates/${m.slug}.json`, candidates);
+      writeJson(paths.candidateJson, candidates);
     }
 
     if (best) {

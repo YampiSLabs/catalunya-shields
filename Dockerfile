@@ -1,7 +1,7 @@
 FROM node:20-alpine
 
 # Install git, openssh-client and bash (needed for git operations and push)
-RUN apk add --no-cache git openssh-client bash
+RUN apk add --no-cache git openssh-client bash tini
 
 WORKDIR /app
 
@@ -22,4 +22,5 @@ COPY . .
 EXPOSE 3000
 
 # Keep the app container healthy without running the updater on restart.
+ENTRYPOINT ["/sbin/tini", "--"]
 CMD ["pnpm", "healthcheck"]
