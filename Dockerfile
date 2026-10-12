@@ -6,10 +6,10 @@ RUN apk add --no-cache git openssh-client bash tini
 WORKDIR /app
 
 # Enable pnpm
-RUN npm install -g pnpm
+RUN npm install -g pnpm@10.30.3
 
 # Copy dependency definitions
-COPY package.json pnpm-lock.yaml ./
+COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
 
 # Install all dependencies (including devDependencies like tsx, vitest, etc.)
 RUN pnpm install --frozen-lockfile
