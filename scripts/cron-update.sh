@@ -55,11 +55,15 @@ pnpm optimize:shields
 echo "Updating exports and status documentation..."
 pnpm generate:outputs
 
-# 8. Run test suite to verify changes
+# 8. Typecheck generated package exports
+echo "Typechecking generated exports..."
+pnpm typecheck
+
+# 9. Run test suite to verify changes
 echo "Running test suite..."
 pnpm test run
 
-# 9. Check for generated shield changes and commit/push
+# 10. Check for generated shield changes and commit/push
 if [[ -n "$(git status --porcelain -- raw/svg assets/svg src/index.ts docs/shields-status.md)" ]]; then
   echo "Changes detected. Preparing commit..."
   git add raw/svg assets/svg src/index.ts docs/shields-status.md
