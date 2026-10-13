@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 245,
-  "missingCount": 702,
+  "downloadedCount": 246,
+  "missingCount": 701,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3813,16 +3813,6 @@
       "rawSvgPath": "raw/svg/sant-pere-de-torello.svg",
       "assetSvgPath": "assets/svg/sant-pere-de-torello.svg",
       "candidatePath": "data/commons-candidates/sant-pere-de-torello.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-pere-de-vilamajor": {
-      "slug": "sant-pere-de-vilamajor",
-      "name": "Sant Pere de Vilamajor",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-pere-de-vilamajor.svg",
-      "assetSvgPath": "assets/svg/sant-pere-de-vilamajor.svg",
-      "candidatePath": "data/commons-candidates/sant-pere-de-vilamajor.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
