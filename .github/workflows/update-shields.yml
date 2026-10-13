@@ -31,7 +31,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency:
   group: update-municipal-shields
@@ -103,38 +102,12 @@ jobs:
 
       - run: pnpm test run
 
-      - uses: peter-evans/create-pull-request@v7
-        id: cpr
-        with:
-          token: ${{ github.token }}
-          branch: beatriz/update-municipal-shields
-          delete-branch: true
-          add-paths: |
-            assets/svg/**
-            data/commons-candidates/**
-            data/missing-shields.json
-            docs/shields-status.md
-            raw/svg/**
-            src/index.ts
-          commit-message: "feat(auto): update municipal shields"
-          committer: "BeatrizAgent <beatrizagent@users.noreply.github.com>"
-          author: "BeatrizAgent <beatrizagent@users.noreply.github.com>"
-          title: "feat(auto): update municipal shields"
-          body: |
-            Automated update from Wikimedia Commons.
-
-            The workflow uses a dry-run first, downloads a limited batch of high-confidence real SVG shield candidates, optimizes the SVG assets, regenerates package exports, and runs tests before creating this PR.
-
-      - name: Merge generated shield update
-        if: steps.cpr.outputs.pull-request-number
-        env:
-          GH_TOKEN: ${{ github.token }}
-          PR_NUMBER: ${{ steps.cpr.outputs.pull-request-number }}
-          PR_HEAD_SHA: ${{ steps.cpr.outputs.pull-request-head-sha }}
+      - name: Commit generated shield update
         run: |
-          CURRENT_SHA=$(gh pr view "$PR_NUMBER" --json headRefOid -q '.headRefOid')
-          if [ "$CURRENT_SHA" = "$PR_HEAD_SHA" ]; then
-            gh pr merge "$PR_NUMBER" --squash --delete-branch
-          else
-            echo "PR head changed ($CURRENT_SHA != $PR_HEAD_SHA), skipping merge"
+          git add -- assets/svg data/commons-candidates data/missing-shields.json docs/shields-status.md raw/svg src/index.ts
+          if git diff --cached --quiet; then
+            echo "No generated shield changes to commit"
+            exit 0
           fi
+          git -c user.name="BeatrizAgent" -c user.email="beatrizagent@users.noreply.github.com" commit -m "feat(auto): update municipal shields"
+          git push origin HEAD:main
