@@ -106,7 +106,7 @@ jobs:
       - uses: peter-evans/create-pull-request@v7
         id: cpr
         with:
-          token: ${{ secrets.BEATRIZ_AGENT_PAT || github.token }}
+          token: ${{ github.token }}
           branch: beatriz/update-municipal-shields
           delete-branch: true
           add-paths: |
@@ -128,7 +128,7 @@ jobs:
       - name: Merge generated shield update
         if: steps.cpr.outputs.pull-request-number
         env:
-          GH_TOKEN: ${{ secrets.BEATRIZ_AGENT_PAT || github.token }}
+          GH_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ steps.cpr.outputs.pull-request-number }}
           PR_HEAD_SHA: ${{ steps.cpr.outputs.pull-request-head-sha }}
         run: |
