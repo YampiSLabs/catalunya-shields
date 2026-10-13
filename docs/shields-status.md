@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **246**
-Pending: **701**
-Progress: **26.0%**
+Downloaded: **248**
+Pending: **699**
+Progress: **26.2%**
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░] 26.0%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░] 26.2%`
 
 ## Provinces Overview
 
@@ -558,7 +558,7 @@ Progress: **26.0%**
 </details>
 
 <details>
-<summary><b>Lleida (67/231 - 29.0%)</b></summary>
+<summary><b>Lleida (68/231 - 29.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -632,7 +632,7 @@ Progress: **26.0%**
 | el Pont de Bar | `el-pont-de-bar` | ✅ Downloaded |
 | el Pont de Suert | `el-pont-de-suert` | ❌ Pending |
 | el Soleràs | `el-soleras` | ❌ Pending |
-| el Vilosell | `el-vilosell` | ❌ Pending |
+| el Vilosell | `el-vilosell` | ✅ Downloaded |
 | els Alamús | `els-alamus` | ❌ Pending |
 | els Omellons | `els-omellons` | ❌ Pending |
 | els Omells de na Gaia | `els-omells-de-na-gaia` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **26.0%**
 </details>
 
 <details>
-<summary><b>Tarragona (42/184 - 22.8%)</b></summary>
+<summary><b>Tarragona (43/184 - 23.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -857,7 +857,7 @@ Progress: **26.0%**
 | el Pla de Santa Maria | `el-pla-de-santa-maria` | ✅ Downloaded |
 | el Pont d'Armentera | `el-pont-darmentera` | ❌ Pending |
 | el Rourell | `el-rourell` | ❌ Pending |
-| el Vendrell | `el-vendrell` | ❌ Pending |
+| el Vendrell | `el-vendrell` | ✅ Downloaded |
 | els Garidells | `els-garidells` | ❌ Pending |
 | els Guiamets | `els-guiamets` | ❌ Pending |
 | els Pallaresos | `els-pallaresos` | ❌ Pending |

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 246,
-  "missingCount": 701,
+  "downloadedCount": 248,
+  "missingCount": 699,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -5953,26 +5953,6 @@
       "rawSvgPath": "raw/svg/el-soleras.svg",
       "assetSvgPath": "assets/svg/el-soleras.svg",
       "candidatePath": "data/commons-candidates/el-soleras.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-vendrell": {
-      "slug": "el-vendrell",
-      "name": "el Vendrell",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/el-vendrell.svg",
-      "assetSvgPath": "assets/svg/el-vendrell.svg",
-      "candidatePath": "data/commons-candidates/el-vendrell.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-vilosell": {
-      "slug": "el-vilosell",
-      "name": "el Vilosell",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/el-vilosell.svg",
-      "assetSvgPath": "assets/svg/el-vilosell.svg",
-      "candidatePath": "data/commons-candidates/el-vilosell.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

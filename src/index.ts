@@ -207,6 +207,8 @@ export { default as ElPlaDelPenedès } from "../assets/svg/el-pla-del-penedes.sv
 export { default as ElPlaDeSantaMaria } from "../assets/svg/el-pla-de-santa-maria.svg";
 export { default as ElPoal } from "../assets/svg/el-poal.svg";
 export { default as ElPontDeBar } from "../assets/svg/el-pont-de-bar.svg";
+export { default as ElVendrell } from "../assets/svg/el-vendrell.svg";
+export { default as ElVilosell } from "../assets/svg/el-vilosell.svg";
 export { default as EsBòrdes } from "../assets/svg/es-bordes.svg";
 export { default as Esparreguera } from "../assets/svg/esparreguera.svg";
 export { default as Espinelves } from "../assets/svg/espinelves.svg";
