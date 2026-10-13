@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **245**
-Pending: **702**
-Progress: **25.9%**
+Downloaded: **246**
+Pending: **701**
+Progress: **26.0%**
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░] 25.9%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░] 26.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (82/311 - 26.4%)</b></summary>
+<summary><b>Barcelona (83/311 - 26.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -250,7 +250,7 @@ Progress: **25.9%**
 | Sant Pere de Ribes | `sant-pere-de-ribes` | ❌ Pending |
 | Sant Pere de Riudebitlles | `sant-pere-de-riudebitlles` | ❌ Pending |
 | Sant Pere de Torelló | `sant-pere-de-torello` | ❌ Pending |
-| Sant Pere de Vilamajor | `sant-pere-de-vilamajor` | ❌ Pending |
+| Sant Pere de Vilamajor | `sant-pere-de-vilamajor` | ✅ Downloaded |
 | Sant Pere Sallavinera | `sant-pere-sallavinera` | ❌ Pending |
 | Sant Pol de Mar | `sant-pol-de-mar` | ❌ Pending |
 | Sant Quintí de Mediona | `sant-quinti-de-mediona` | ❌ Pending |
