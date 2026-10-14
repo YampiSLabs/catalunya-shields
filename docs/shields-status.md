@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **248**
-Pending: **699**
-Progress: **26.2%**
+Downloaded: **252**
+Pending: **695**
+Progress: **26.6%**
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░] 26.2%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░] 26.6%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (83/311 - 26.7%)</b></summary>
+<summary><b>Barcelona (87/311 - 28.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -254,10 +254,10 @@ Progress: **26.2%**
 | Sant Pere Sallavinera | `sant-pere-sallavinera` | ❌ Pending |
 | Sant Pol de Mar | `sant-pol-de-mar` | ❌ Pending |
 | Sant Quintí de Mediona | `sant-quinti-de-mediona` | ❌ Pending |
-| Sant Quirze de Besora | `sant-quirze-de-besora` | ❌ Pending |
-| Sant Quirze del Vallès | `sant-quirze-del-valles` | ❌ Pending |
-| Sant Quirze Safaja | `sant-quirze-safaja` | ❌ Pending |
-| Sant Sadurní d'Anoia | `sant-sadurni-danoia` | ❌ Pending |
+| Sant Quirze de Besora | `sant-quirze-de-besora` | ✅ Downloaded |
+| Sant Quirze del Vallès | `sant-quirze-del-valles` | ✅ Downloaded |
+| Sant Quirze Safaja | `sant-quirze-safaja` | ✅ Downloaded |
+| Sant Sadurní d'Anoia | `sant-sadurni-danoia` | ✅ Downloaded |
 | Sant Sadurní d'Osormort | `sant-sadurni-dosormort` | ❌ Pending |
 | Sant Salvador de Guardiola | `sant-salvador-de-guardiola` | ❌ Pending |
 | Sant Vicenç de Castellet | `sant-vicenc-de-castellet` | ❌ Pending |

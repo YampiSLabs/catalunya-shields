@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 248,
-  "missingCount": 699,
+  "downloadedCount": 252,
+  "missingCount": 695,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3836,36 +3836,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "sant-quirze-safaja": {
-      "slug": "sant-quirze-safaja",
-      "name": "Sant Quirze Safaja",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-quirze-safaja.svg",
-      "assetSvgPath": "assets/svg/sant-quirze-safaja.svg",
-      "candidatePath": "data/commons-candidates/sant-quirze-safaja.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-quirze-de-besora": {
-      "slug": "sant-quirze-de-besora",
-      "name": "Sant Quirze de Besora",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-quirze-de-besora.svg",
-      "assetSvgPath": "assets/svg/sant-quirze-de-besora.svg",
-      "candidatePath": "data/commons-candidates/sant-quirze-de-besora.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-quirze-del-valles": {
-      "slug": "sant-quirze-del-valles",
-      "name": "Sant Quirze del Vallès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-quirze-del-valles.svg",
-      "assetSvgPath": "assets/svg/sant-quirze-del-valles.svg",
-      "candidatePath": "data/commons-candidates/sant-quirze-del-valles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "sant-ramon": {
       "slug": "sant-ramon",
       "name": "Sant Ramon",
@@ -3873,16 +3843,6 @@
       "rawSvgPath": "raw/svg/sant-ramon.svg",
       "assetSvgPath": "assets/svg/sant-ramon.svg",
       "candidatePath": "data/commons-candidates/sant-ramon.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-sadurni-danoia": {
-      "slug": "sant-sadurni-danoia",
-      "name": "Sant Sadurní d'Anoia",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-sadurni-danoia.svg",
-      "assetSvgPath": "assets/svg/sant-sadurni-danoia.svg",
-      "candidatePath": "data/commons-candidates/sant-sadurni-danoia.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

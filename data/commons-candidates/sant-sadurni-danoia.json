@@ -1,0 +1,16 @@
+[
+  {
+    "title": "File:Escut de Sant Sadurní d'Anoia.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:106 Rectoria de Sant Sadurní, pl. Mossèn Salvans (Sant Sadurní d'Anoia), escut.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]
