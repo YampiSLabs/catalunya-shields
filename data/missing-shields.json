@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 252,
-  "missingCount": 695,
+  "downloadedCount": 260,
+  "missingCount": 687,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2906,26 +2906,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "riumors": {
-      "slug": "riumors",
-      "name": "Riumors",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/riumors.svg",
-      "assetSvgPath": "assets/svg/riumors.svg",
-      "candidatePath": "data/commons-candidates/riumors.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "rocafort-de-queralt": {
-      "slug": "rocafort-de-queralt",
-      "name": "Rocafort de Queralt",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/rocafort-de-queralt.svg",
-      "assetSvgPath": "assets/svg/rocafort-de-queralt.svg",
-      "candidatePath": "data/commons-candidates/rocafort-de-queralt.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "roda-de-bera": {
       "slug": "roda-de-bera",
       "name": "Roda de Berà",
@@ -2933,66 +2913,6 @@
       "rawSvgPath": "raw/svg/roda-de-bera.svg",
       "assetSvgPath": "assets/svg/roda-de-bera.svg",
       "candidatePath": "data/commons-candidates/roda-de-bera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "roda-de-ter": {
-      "slug": "roda-de-ter",
-      "name": "Roda de Ter",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/roda-de-ter.svg",
-      "assetSvgPath": "assets/svg/roda-de-ter.svg",
-      "candidatePath": "data/commons-candidates/roda-de-ter.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "rodonya": {
-      "slug": "rodonya",
-      "name": "Rodonyà",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/rodonya.svg",
-      "assetSvgPath": "assets/svg/rodonya.svg",
-      "candidatePath": "data/commons-candidates/rodonya.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "roquetes": {
-      "slug": "roquetes",
-      "name": "Roquetes",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/roquetes.svg",
-      "assetSvgPath": "assets/svg/roquetes.svg",
-      "candidatePath": "data/commons-candidates/roquetes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "roses": {
-      "slug": "roses",
-      "name": "Roses",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/roses.svg",
-      "assetSvgPath": "assets/svg/roses.svg",
-      "candidatePath": "data/commons-candidates/roses.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "rossello": {
-      "slug": "rossello",
-      "name": "Rosselló",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/rossello.svg",
-      "assetSvgPath": "assets/svg/rossello.svg",
-      "candidatePath": "data/commons-candidates/rossello.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "rubio": {
-      "slug": "rubio",
-      "name": "Rubió",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/rubio.svg",
-      "assetSvgPath": "assets/svg/rubio.svg",
-      "candidatePath": "data/commons-candidates/rubio.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **252**
-Pending: **695**
-Progress: **26.6%**
+Downloaded: **260**
+Pending: **687**
+Progress: **27.5%**
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░] 26.6%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░] 27.5%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (87/311 - 28.0%)</b></summary>
+<summary><b>Barcelona (89/311 - 28.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -203,9 +203,9 @@ Progress: **26.6%**
 | Rajadell | `rajadell` | ❌ Pending |
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
-| Roda de Ter | `roda-de-ter` | ❌ Pending |
+| Roda de Ter | `roda-de-ter` | ✅ Downloaded |
 | Rubí | `rubi` | ❌ Pending |
-| Rubió | `rubio` | ❌ Pending |
+| Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
 | Sagàs | `sagas` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **26.6%**
 </details>
 
 <details>
-<summary><b>Girona (54/221 - 24.4%)</b></summary>
+<summary><b>Girona (56/221 - 25.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -478,8 +478,8 @@ Progress: **26.6%**
 | Riudarenes | `riudarenes` | ❌ Pending |
 | Riudaura | `riudaura` | ❌ Pending |
 | Riudellots de la Selva | `riudellots-de-la-selva` | ❌ Pending |
-| Riumors | `riumors` | ❌ Pending |
-| Roses | `roses` | ❌ Pending |
+| Riumors | `riumors` | ✅ Downloaded |
+| Roses | `roses` | ✅ Downloaded |
 | Rupià | `rupia` | ❌ Pending |
 | Sales de Llierca | `sales-de-llierca` | ❌ Pending |
 | Salt | `salt` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **26.6%**
 </details>
 
 <details>
-<summary><b>Lleida (68/231 - 29.4%)</b></summary>
+<summary><b>Lleida (69/231 - 29.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -740,7 +740,7 @@ Progress: **26.6%**
 | Ribera d'Urgellet | `ribera-durgellet` | ❌ Pending |
 | Riner | `riner` | ❌ Pending |
 | Riu de Cerdanya | `riu-de-cerdanya` | ❌ Pending |
-| Rosselló | `rossello` | ❌ Pending |
+| Rosselló | `rossello` | ✅ Downloaded |
 | Salàs de Pallars | `salas-de-pallars` | ❌ Pending |
 | Sanaüja | `sanauja` | ❌ Pending |
 | Sant Esteve de la Sarga | `sant-esteve-de-la-sarga` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **26.6%**
 </details>
 
 <details>
-<summary><b>Tarragona (43/184 - 23.4%)</b></summary>
+<summary><b>Tarragona (46/184 - 25.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -943,10 +943,10 @@ Progress: **26.6%**
 | Riudecanyes | `riudecanyes` | ❌ Pending |
 | Riudecols | `riudecols` | ❌ Pending |
 | Riudoms | `riudoms` | ❌ Pending |
-| Rocafort de Queralt | `rocafort-de-queralt` | ❌ Pending |
+| Rocafort de Queralt | `rocafort-de-queralt` | ✅ Downloaded |
 | Roda de Berà | `roda-de-bera` | ❌ Pending |
-| Rodonyà | `rodonya` | ❌ Pending |
-| Roquetes | `roquetes` | ❌ Pending |
+| Rodonyà | `rodonya` | ✅ Downloaded |
+| Roquetes | `roquetes` | ✅ Downloaded |
 | Salomó | `salomo` | ❌ Pending |
 | Salou | `salou` | ❌ Pending |
 | Sant Jaume d'Enveja | `sant-jaume-denveja` | ❌ Pending |
