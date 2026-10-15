@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 265,
-  "missingCount": 682,
+  "downloadedCount": 269,
+  "missingCount": 678,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -823,46 +823,6 @@
       "rawSvgPath": "raw/svg/guixers.svg",
       "assetSvgPath": "assets/svg/guixers.svg",
       "candidatePath": "data/commons-candidates/guixers.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gurb": {
-      "slug": "gurb",
-      "name": "Gurb",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/gurb.svg",
-      "assetSvgPath": "assets/svg/gurb.svg",
-      "candidatePath": "data/commons-candidates/gurb.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gosol": {
-      "slug": "gosol",
-      "name": "Gósol",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/gosol.svg",
-      "assetSvgPath": "assets/svg/gosol.svg",
-      "candidatePath": "data/commons-candidates/gosol.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "horta-de-sant-joan": {
-      "slug": "horta-de-sant-joan",
-      "name": "Horta de Sant Joan",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/horta-de-sant-joan.svg",
-      "assetSvgPath": "assets/svg/horta-de-sant-joan.svg",
-      "candidatePath": "data/commons-candidates/horta-de-sant-joan.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "hostalric": {
-      "slug": "hostalric",
-      "name": "Hostalric",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/hostalric.svg",
-      "assetSvgPath": "assets/svg/hostalric.svg",
-      "candidatePath": "data/commons-candidates/hostalric.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

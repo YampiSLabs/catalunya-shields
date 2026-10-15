@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **265**
-Pending: **682**
-Progress: **28.0%**
+Downloaded: **269**
+Pending: **678**
+Progress: **28.4%**
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░] 28.0%`
+`[█████████░░░░░░░░░░░░░░░░░░░░░] 28.4%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (92/311 - 29.6%)</b></summary>
+<summary><b>Barcelona (93/311 - 29.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -117,8 +117,8 @@ Progress: **28.0%**
 | Granollers | `granollers` | ❌ Pending |
 | Gualba | `gualba` | ❌ Pending |
 | Guardiola de Berguedà | `guardiola-de-bergueda` | ❌ Pending |
-| Gurb | `gurb` | ❌ Pending |
-| Igualada | `igualada` | ❌ Pending |
+| Gurb | `gurb` | ✅ Downloaded |
+| Igualada | `igualada` | 🔍 Has Candidate |
 | Jorba | `jorba` | ❌ Pending |
 | l'Ametlla del Vallès | `lametlla-del-valles` | ❌ Pending |
 | l'Espunyola | `lespunyola` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **28.0%**
 </details>
 
 <details>
-<summary><b>Girona (58/221 - 26.2%)</b></summary>
+<summary><b>Girona (59/221 - 26.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -407,7 +407,7 @@ Progress: **28.0%**
 | Gombrèn | `gombren` | ❌ Pending |
 | Gualta | `gualta` | ❌ Pending |
 | Guils de Cerdanya | `guils-de-cerdanya` | ❌ Pending |
-| Hostalric | `hostalric` | ❌ Pending |
+| Hostalric | `hostalric` | ✅ Downloaded |
 | Isòvol | `isovol` | ❌ Pending |
 | Jafre | `jafre` | ❌ Pending |
 | Juià | `juia` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **28.0%**
 </details>
 
 <details>
-<summary><b>Lleida (69/231 - 29.9%)</b></summary>
+<summary><b>Lleida (70/231 - 30.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -652,7 +652,7 @@ Progress: **28.0%**
 | Gavet de la Conca | `gavet-de-la-conca` | ✅ Downloaded |
 | Gimenells i el Pla de la Font | `gimenells-i-el-pla-de-la-font` | ❌ Pending |
 | Golmés | `golmes` | ❌ Pending |
-| Gósol | `gosol` | ❌ Pending |
+| Gósol | `gosol` | ✅ Downloaded |
 | Granyanella | `granyanella` | ❌ Pending |
 | Granyena de les Garrigues | `granyena-de-les-garrigues` | ❌ Pending |
 | Granyena de Segarra | `granyena-de-segarra` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **28.0%**
 </details>
 
 <details>
-<summary><b>Tarragona (46/184 - 25.0%)</b></summary>
+<summary><b>Tarragona (47/184 - 25.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -871,7 +871,7 @@ Progress: **28.0%**
 | Ginestar | `ginestar` | ❌ Pending |
 | Godall | `godall` | ❌ Pending |
 | Gratallops | `gratallops` | ❌ Pending |
-| Horta de Sant Joan | `horta-de-sant-joan` | ❌ Pending |
+| Horta de Sant Joan | `horta-de-sant-joan` | ✅ Downloaded |
 | l'Albiol | `lalbiol` | ❌ Pending |
 | l'Aldea | `laldea` | ❌ Pending |
 | l'Aleixar | `laleixar` | ❌ Pending |
