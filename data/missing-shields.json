@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 260,
-  "missingCount": 687,
+  "downloadedCount": 265,
+  "missingCount": 682,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3673,56 +3673,6 @@
       "rawSvgPath": "raw/svg/sant-mori.svg",
       "assetSvgPath": "assets/svg/sant-mori.svg",
       "candidatePath": "data/commons-candidates/sant-mori.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-pau-de-seguries": {
-      "slug": "sant-pau-de-seguries",
-      "name": "Sant Pau de Segúries",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/sant-pau-de-seguries.svg",
-      "assetSvgPath": "assets/svg/sant-pau-de-seguries.svg",
-      "candidatePath": "data/commons-candidates/sant-pau-de-seguries.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-pere-pescador": {
-      "slug": "sant-pere-pescador",
-      "name": "Sant Pere Pescador",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/sant-pere-pescador.svg",
-      "assetSvgPath": "assets/svg/sant-pere-pescador.svg",
-      "candidatePath": "data/commons-candidates/sant-pere-pescador.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-pere-sallavinera": {
-      "slug": "sant-pere-sallavinera",
-      "name": "Sant Pere Sallavinera",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-pere-sallavinera.svg",
-      "assetSvgPath": "assets/svg/sant-pere-sallavinera.svg",
-      "candidatePath": "data/commons-candidates/sant-pere-sallavinera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-pere-de-ribes": {
-      "slug": "sant-pere-de-ribes",
-      "name": "Sant Pere de Ribes",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-pere-de-ribes.svg",
-      "assetSvgPath": "assets/svg/sant-pere-de-ribes.svg",
-      "candidatePath": "data/commons-candidates/sant-pere-de-ribes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-pere-de-riudebitlles": {
-      "slug": "sant-pere-de-riudebitlles",
-      "name": "Sant Pere de Riudebitlles",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-pere-de-riudebitlles.svg",
-      "assetSvgPath": "assets/svg/sant-pere-de-riudebitlles.svg",
-      "candidatePath": "data/commons-candidates/sant-pere-de-riudebitlles.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "File:Escut de Sant Pere de Riudebitlles.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Bigues i Riells.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:P. de Llió (detall dels escuts).jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

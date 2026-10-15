@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **260**
-Pending: **687**
-Progress: **27.5%**
+Downloaded: **265**
+Pending: **682**
+Progress: **28.0%**
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░] 27.5%`
+`[████████░░░░░░░░░░░░░░░░░░░░░░] 28.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (89/311 - 28.6%)</b></summary>
+<summary><b>Barcelona (92/311 - 29.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -247,11 +247,11 @@ Progress: **27.5%**
 | Sant Martí Sarroca | `sant-marti-sarroca` | ❌ Pending |
 | Sant Martí Sesgueioles | `sant-marti-sesgueioles` | ❌ Pending |
 | Sant Mateu de Bages | `sant-mateu-de-bages` | ❌ Pending |
-| Sant Pere de Ribes | `sant-pere-de-ribes` | ❌ Pending |
-| Sant Pere de Riudebitlles | `sant-pere-de-riudebitlles` | ❌ Pending |
+| Sant Pere de Ribes | `sant-pere-de-ribes` | ✅ Downloaded |
+| Sant Pere de Riudebitlles | `sant-pere-de-riudebitlles` | ✅ Downloaded |
 | Sant Pere de Torelló | `sant-pere-de-torello` | ❌ Pending |
 | Sant Pere de Vilamajor | `sant-pere-de-vilamajor` | ✅ Downloaded |
-| Sant Pere Sallavinera | `sant-pere-sallavinera` | ❌ Pending |
+| Sant Pere Sallavinera | `sant-pere-sallavinera` | ✅ Downloaded |
 | Sant Pol de Mar | `sant-pol-de-mar` | ❌ Pending |
 | Sant Quintí de Mediona | `sant-quinti-de-mediona` | ❌ Pending |
 | Sant Quirze de Besora | `sant-quirze-de-besora` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **27.5%**
 </details>
 
 <details>
-<summary><b>Girona (56/221 - 25.3%)</b></summary>
+<summary><b>Girona (58/221 - 26.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -505,8 +505,8 @@ Progress: **27.5%**
 | Sant Miquel de Campmajor | `sant-miquel-de-campmajor` | ❌ Pending |
 | Sant Miquel de Fluvià | `sant-miquel-de-fluvia` | ❌ Pending |
 | Sant Mori | `sant-mori` | ❌ Pending |
-| Sant Pau de Segúries | `sant-pau-de-seguries` | ❌ Pending |
-| Sant Pere Pescador | `sant-pere-pescador` | ❌ Pending |
+| Sant Pau de Segúries | `sant-pau-de-seguries` | ✅ Downloaded |
+| Sant Pere Pescador | `sant-pere-pescador` | ✅ Downloaded |
 | Santa Coloma de Farners | `santa-coloma-de-farners` | ❌ Pending |
 | Santa Cristina d'Aro | `santa-cristina-daro` | ❌ Pending |
 | Santa Llogaia d'Àlguema | `santa-llogaia-dalguema` | ❌ Pending |
