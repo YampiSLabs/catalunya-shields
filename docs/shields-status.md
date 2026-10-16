@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **273**
-Pending: **674**
-Progress: **28.8%**
+Downloaded: **281**
+Pending: **666**
+Progress: **29.7%**
 
-`[█████████░░░░░░░░░░░░░░░░░░░░░] 28.8%`
+`[█████████░░░░░░░░░░░░░░░░░░░░░] 29.7%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (94/311 - 30.2%)</b></summary>
+<summary><b>Barcelona (97/311 - 31.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ Progress: **28.8%**
 | Gualba | `gualba` | ❌ Pending |
 | Guardiola de Berguedà | `guardiola-de-bergueda` | ❌ Pending |
 | Gurb | `gurb` | ✅ Downloaded |
-| Igualada | `igualada` | ❌ Pending |
+| Igualada | `igualada` | 🔍 Has Candidate |
 | Jorba | `jorba` | ❌ Pending |
 | l'Ametlla del Vallès | `lametlla-del-valles` | ❌ Pending |
 | l'Espunyola | `lespunyola` | ❌ Pending |
@@ -312,9 +312,9 @@ Progress: **28.8%**
 | Vallromanes | `vallromanes` | ❌ Pending |
 | Veciana | `veciana` | ❌ Pending |
 | Vic | `vic` | ❌ Pending |
-| Vilada | `vilada` | ❌ Pending |
-| Viladecans | `viladecans` | ❌ Pending |
-| Viladecavalls | `viladecavalls` | ❌ Pending |
+| Vilada | `vilada` | ✅ Downloaded |
+| Viladecans | `viladecans` | ✅ Downloaded |
+| Viladecavalls | `viladecavalls` | ✅ Downloaded |
 | Vilafranca del Penedès | `vilafranca-del-penedes` | ❌ Pending |
 | Vilalba Sasserra | `vilalba-sasserra` | ❌ Pending |
 | Vilanova de Sau | `vilanova-de-sau` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **28.8%**
 </details>
 
 <details>
-<summary><b>Girona (59/221 - 26.7%)</b></summary>
+<summary><b>Girona (64/221 - 29.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -538,12 +538,12 @@ Progress: **28.8%**
 | Vidreres | `vidreres` | ❌ Pending |
 | Vila-sacra | `vila-sacra` | ❌ Pending |
 | Vilabertran | `vilabertran` | ❌ Pending |
-| Vilablareix | `vilablareix` | ❌ Pending |
-| Viladamat | `viladamat` | ❌ Pending |
-| Viladasens | `viladasens` | ❌ Pending |
-| Vilademuls | `vilademuls` | ❌ Pending |
-| Viladrau | `viladrau` | ❌ Pending |
-| Vilafant | `vilafant` | ❌ Pending |
+| Vilablareix | `vilablareix` | ✅ Downloaded |
+| Viladamat | `viladamat` | ✅ Downloaded |
+| Viladasens | `viladasens` | ✅ Downloaded |
+| Vilademuls | `vilademuls` | ✅ Downloaded |
+| Viladrau | `viladrau` | ✅ Downloaded |
+| Vilafant | `vilafant` | 🔍 Has Candidate |
 | Vilajuïga | `vilajuiga` | ❌ Pending |
 | Vilallonga de Ter | `vilallonga-de-ter` | ❌ Pending |
 | Vilamacolum | `vilamacolum` | ❌ Pending |

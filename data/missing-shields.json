@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 273,
-  "missingCount": 674,
+  "downloadedCount": 281,
+  "missingCount": 666,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -5023,86 +5023,6 @@
       "rawSvgPath": "raw/svg/vilabertran.svg",
       "assetSvgPath": "assets/svg/vilabertran.svg",
       "candidatePath": "data/commons-candidates/vilabertran.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vilablareix": {
-      "slug": "vilablareix",
-      "name": "Vilablareix",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/vilablareix.svg",
-      "assetSvgPath": "assets/svg/vilablareix.svg",
-      "candidatePath": "data/commons-candidates/vilablareix.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vilada": {
-      "slug": "vilada",
-      "name": "Vilada",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/vilada.svg",
-      "assetSvgPath": "assets/svg/vilada.svg",
-      "candidatePath": "data/commons-candidates/vilada.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "viladamat": {
-      "slug": "viladamat",
-      "name": "Viladamat",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/viladamat.svg",
-      "assetSvgPath": "assets/svg/viladamat.svg",
-      "candidatePath": "data/commons-candidates/viladamat.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "viladasens": {
-      "slug": "viladasens",
-      "name": "Viladasens",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/viladasens.svg",
-      "assetSvgPath": "assets/svg/viladasens.svg",
-      "candidatePath": "data/commons-candidates/viladasens.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "viladecans": {
-      "slug": "viladecans",
-      "name": "Viladecans",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/viladecans.svg",
-      "assetSvgPath": "assets/svg/viladecans.svg",
-      "candidatePath": "data/commons-candidates/viladecans.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "viladecavalls": {
-      "slug": "viladecavalls",
-      "name": "Viladecavalls",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/viladecavalls.svg",
-      "assetSvgPath": "assets/svg/viladecavalls.svg",
-      "candidatePath": "data/commons-candidates/viladecavalls.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vilademuls": {
-      "slug": "vilademuls",
-      "name": "Vilademuls",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/vilademuls.svg",
-      "assetSvgPath": "assets/svg/vilademuls.svg",
-      "candidatePath": "data/commons-candidates/vilademuls.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "viladrau": {
-      "slug": "viladrau",
-      "name": "Viladrau",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/viladrau.svg",
-      "assetSvgPath": "assets/svg/viladrau.svg",
-      "candidatePath": "data/commons-candidates/viladrau.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
