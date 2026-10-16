@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **269**
-Pending: **678**
-Progress: **28.4%**
+Downloaded: **273**
+Pending: **674**
+Progress: **28.8%**
 
-`[█████████░░░░░░░░░░░░░░░░░░░░░] 28.4%`
+`[█████████░░░░░░░░░░░░░░░░░░░░░] 28.8%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (93/311 - 29.9%)</b></summary>
+<summary><b>Barcelona (94/311 - 30.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ Progress: **28.4%**
 | Gualba | `gualba` | ❌ Pending |
 | Guardiola de Berguedà | `guardiola-de-bergueda` | ❌ Pending |
 | Gurb | `gurb` | ✅ Downloaded |
-| Igualada | `igualada` | 🔍 Has Candidate |
+| Igualada | `igualada` | ❌ Pending |
 | Jorba | `jorba` | ❌ Pending |
 | l'Ametlla del Vallès | `lametlla-del-valles` | ❌ Pending |
 | l'Espunyola | `lespunyola` | ❌ Pending |
@@ -298,8 +298,8 @@ Progress: **28.4%**
 | Terrassa | `terrassa` | ✅ Downloaded |
 | Terrassola i Lavit | `terrassola-i-lavit` | ❌ Pending |
 | Tiana | `tiana` | ❌ Pending |
-| Tona | `tona` | ❌ Pending |
-| Tordera | `tordera` | ❌ Pending |
+| Tona | `tona` | ✅ Downloaded |
+| Tordera | `tordera` | 🔍 Has Candidate |
 | Torelló | `torello` | ❌ Pending |
 | Torrelles de Foix | `torrelles-de-foix` | ❌ Pending |
 | Torrelles de Llobregat | `torrelles-de-llobregat` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **28.4%**
 </details>
 
 <details>
-<summary><b>Lleida (70/231 - 30.3%)</b></summary>
+<summary><b>Lleida (71/231 - 30.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -767,7 +767,7 @@ Progress: **28.4%**
 | Tarroja de Segarra | `tarroja-de-segarra` | ❌ Pending |
 | Térmens | `termens` | ❌ Pending |
 | Tírvia | `tirvia` | ❌ Pending |
-| Tiurana | `tiurana` | ❌ Pending |
+| Tiurana | `tiurana` | ✅ Downloaded |
 | Torà | `tora` | ❌ Pending |
 | Tornabous | `tornabous` | ❌ Pending |
 | Torre-serona | `torre-serona` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **28.4%**
 </details>
 
 <details>
-<summary><b>Tarragona (47/184 - 25.5%)</b></summary>
+<summary><b>Tarragona (49/184 - 26.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -959,8 +959,8 @@ Progress: **28.4%**
 | Senan | `senan` | ❌ Pending |
 | Solivella | `solivella` | ❌ Pending |
 | Tarragona | `tarragona` | ❌ Pending |
-| Tivenys | `tivenys` | ❌ Pending |
-| Tivissa | `tivissa` | ❌ Pending |
+| Tivenys | `tivenys` | ✅ Downloaded |
+| Tivissa | `tivissa` | ✅ Downloaded |
 | Torredembarra | `torredembarra` | ❌ Pending |
 | Torroja del Priorat | `torroja-del-priorat` | ❌ Pending |
 | Tortosa | `tortosa` | ❌ Pending |

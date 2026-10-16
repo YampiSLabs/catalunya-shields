@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 269,
-  "missingCount": 678,
+  "downloadedCount": 273,
+  "missingCount": 674,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4383,46 +4383,6 @@
       "rawSvgPath": "raw/svg/tiana.svg",
       "assetSvgPath": "assets/svg/tiana.svg",
       "candidatePath": "data/commons-candidates/tiana.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tiurana": {
-      "slug": "tiurana",
-      "name": "Tiurana",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/tiurana.svg",
-      "assetSvgPath": "assets/svg/tiurana.svg",
-      "candidatePath": "data/commons-candidates/tiurana.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tivenys": {
-      "slug": "tivenys",
-      "name": "Tivenys",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/tivenys.svg",
-      "assetSvgPath": "assets/svg/tivenys.svg",
-      "candidatePath": "data/commons-candidates/tivenys.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tivissa": {
-      "slug": "tivissa",
-      "name": "Tivissa",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/tivissa.svg",
-      "assetSvgPath": "assets/svg/tivissa.svg",
-      "candidatePath": "data/commons-candidates/tivissa.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tona": {
-      "slug": "tona",
-      "name": "Tona",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/tona.svg",
-      "assetSvgPath": "assets/svg/tona.svg",
-      "candidatePath": "data/commons-candidates/tona.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

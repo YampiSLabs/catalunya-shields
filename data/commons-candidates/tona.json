@@ -1,0 +1,37 @@
+[
+  {
+    "title": "File:Escut de Tona.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de la Penya Blaugrana de Tona al Camp Nou. (7936954406).jpg",
+    "score": 50,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:139 Can Codina, c. Barcelona 23 (Tona), escut de la confraria de Sant Joan.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:140 Can Codina, c. Barcelona 23 (Tona), escut datat.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:145 Casa al carrer de Barcelona, 7 (Tona), escut datat.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

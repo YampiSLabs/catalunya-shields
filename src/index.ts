@@ -267,3 +267,7 @@ export { default as Serinyà } from "../assets/svg/serinya.svg";
 export { default as Seròs } from "../assets/svg/seros.svg";
 export { default as SerraDeDaró } from "../assets/svg/serra-de-daro.svg";
 export { default as Terrassa } from "../assets/svg/terrassa.svg";
+export { default as Tiurana } from "../assets/svg/tiurana.svg";
+export { default as Tivenys } from "../assets/svg/tivenys.svg";
+export { default as Tivissa } from "../assets/svg/tivissa.svg";
+export { default as Tona } from "../assets/svg/tona.svg";
