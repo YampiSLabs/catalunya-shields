@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 284,
-  "missingCount": 663,
+  "downloadedCount": 290,
+  "missingCount": 657,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -5746,46 +5746,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "lametlla-de-mar": {
-      "slug": "lametlla-de-mar",
-      "name": "l'Ametlla de Mar",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/lametlla-de-mar.svg",
-      "assetSvgPath": "assets/svg/lametlla-de-mar.svg",
-      "candidatePath": "data/commons-candidates/lametlla-de-mar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "lametlla-del-valles": {
-      "slug": "lametlla-del-valles",
-      "name": "l'Ametlla del Vallès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/lametlla-del-valles.svg",
-      "assetSvgPath": "assets/svg/lametlla-del-valles.svg",
-      "candidatePath": "data/commons-candidates/lametlla-del-valles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "lampolla": {
-      "slug": "lampolla",
-      "name": "l'Ampolla",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/lampolla.svg",
-      "assetSvgPath": "assets/svg/lampolla.svg",
-      "candidatePath": "data/commons-candidates/lampolla.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "larboc": {
-      "slug": "larboc",
-      "name": "l'Arboç",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/larboc.svg",
-      "assetSvgPath": "assets/svg/larboc.svg",
-      "candidatePath": "data/commons-candidates/larboc.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "largentera": {
       "slug": "largentera",
       "name": "l'Argentera",
@@ -5793,26 +5753,6 @@
       "rawSvgPath": "raw/svg/largentera.svg",
       "assetSvgPath": "assets/svg/largentera.svg",
       "candidatePath": "data/commons-candidates/largentera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "larmentera": {
-      "slug": "larmentera",
-      "name": "l'Armentera",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/larmentera.svg",
-      "assetSvgPath": "assets/svg/larmentera.svg",
-      "candidatePath": "data/commons-candidates/larmentera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "lescala": {
-      "slug": "lescala",
-      "name": "l'Escala",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/lescala.svg",
-      "assetSvgPath": "assets/svg/lescala.svg",
-      "candidatePath": "data/commons-candidates/lescala.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

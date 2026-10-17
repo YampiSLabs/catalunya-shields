@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **284**
-Pending: **663**
-Progress: **30.0%**
+Downloaded: **290**
+Pending: **657**
+Progress: **30.6%**
 
-`[█████████░░░░░░░░░░░░░░░░░░░░░] 30.0%`
+`[█████████░░░░░░░░░░░░░░░░░░░░░] 30.6%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (98/311 - 31.5%)</b></summary>
+<summary><b>Barcelona (99/311 - 31.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -120,7 +120,7 @@ Progress: **30.0%**
 | Gurb | `gurb` | ✅ Downloaded |
 | Igualada | `igualada` | ❌ Pending |
 | Jorba | `jorba` | ❌ Pending |
-| l'Ametlla del Vallès | `lametlla-del-valles` | ❌ Pending |
+| l'Ametlla del Vallès | `lametlla-del-valles` | ✅ Downloaded |
 | l'Espunyola | `lespunyola` | ❌ Pending |
 | l'Esquirol | `lesquirol` | ❌ Pending |
 | l'Estany | `lestany` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **30.0%**
 </details>
 
 <details>
-<summary><b>Girona (64/221 - 29.0%)</b></summary>
+<summary><b>Girona (66/221 - 29.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -411,8 +411,8 @@ Progress: **30.0%**
 | Isòvol | `isovol` | ❌ Pending |
 | Jafre | `jafre` | ❌ Pending |
 | Juià | `juia` | ❌ Pending |
-| l'Armentera | `larmentera` | ❌ Pending |
-| l'Escala | `lescala` | ❌ Pending |
+| l'Armentera | `larmentera` | ✅ Downloaded |
+| l'Escala | `lescala` | ✅ Downloaded |
 | la Bisbal d'Empordà | `la-bisbal-demporda` | ❌ Pending |
 | la Cellera de Ter | `la-cellera-de-ter` | ❌ Pending |
 | la Jonquera | `la-jonquera` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **30.0%**
 </details>
 
 <details>
-<summary><b>Tarragona (49/184 - 26.6%)</b></summary>
+<summary><b>Tarragona (52/184 - 28.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -875,9 +875,9 @@ Progress: **30.0%**
 | l'Albiol | `lalbiol` | ❌ Pending |
 | l'Aldea | `laldea` | ❌ Pending |
 | l'Aleixar | `laleixar` | ❌ Pending |
-| l'Ametlla de Mar | `lametlla-de-mar` | ❌ Pending |
-| l'Ampolla | `lampolla` | ❌ Pending |
-| l'Arboç | `larboc` | ❌ Pending |
+| l'Ametlla de Mar | `lametlla-de-mar` | ✅ Downloaded |
+| l'Ampolla | `lampolla` | ✅ Downloaded |
+| l'Arboç | `larboc` | ✅ Downloaded |
 | l'Argentera | `largentera` | ❌ Pending |
 | l'Espluga de Francolí | `lespluga-de-francoli` | ❌ Pending |
 | la Bisbal de Montsant | `la-bisbal-de-montsant` | ❌ Pending |
