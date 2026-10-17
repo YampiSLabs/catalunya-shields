@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **281**
-Pending: **666**
-Progress: **29.7%**
+Downloaded: **284**
+Pending: **663**
+Progress: **30.0%**
 
-`[█████████░░░░░░░░░░░░░░░░░░░░░] 29.7%`
+`[█████████░░░░░░░░░░░░░░░░░░░░░] 30.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (97/311 - 31.2%)</b></summary>
+<summary><b>Barcelona (98/311 - 31.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ Progress: **29.7%**
 | Gualba | `gualba` | ❌ Pending |
 | Guardiola de Berguedà | `guardiola-de-bergueda` | ❌ Pending |
 | Gurb | `gurb` | ✅ Downloaded |
-| Igualada | `igualada` | 🔍 Has Candidate |
+| Igualada | `igualada` | ❌ Pending |
 | Jorba | `jorba` | ❌ Pending |
 | l'Ametlla del Vallès | `lametlla-del-valles` | ❌ Pending |
 | l'Espunyola | `lespunyola` | ❌ Pending |
@@ -177,8 +177,8 @@ Progress: **29.7%**
 | Olèrdola | `olerdola` | ❌ Pending |
 | Olesa de Bonesvalls | `olesa-de-bonesvalls` | ❌ Pending |
 | Olesa de Montserrat | `olesa-de-montserrat` | ❌ Pending |
-| Olivella | `olivella` | ❌ Pending |
-| Olost | `olost` | ❌ Pending |
+| Olivella | `olivella` | ✅ Downloaded |
+| Olost | `olost` | 🔍 Has Candidate |
 | Olvan | `olvan` | ❌ Pending |
 | Orís | `oris` | ❌ Pending |
 | Oristà | `orista` | ❌ Pending |
@@ -543,7 +543,7 @@ Progress: **29.7%**
 | Viladasens | `viladasens` | ✅ Downloaded |
 | Vilademuls | `vilademuls` | ✅ Downloaded |
 | Viladrau | `viladrau` | ✅ Downloaded |
-| Vilafant | `vilafant` | 🔍 Has Candidate |
+| Vilafant | `vilafant` | ❌ Pending |
 | Vilajuïga | `vilajuiga` | ❌ Pending |
 | Vilallonga de Ter | `vilallonga-de-ter` | ❌ Pending |
 | Vilamacolum | `vilamacolum` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **29.7%**
 </details>
 
 <details>
-<summary><b>Lleida (71/231 - 30.7%)</b></summary>
+<summary><b>Lleida (73/231 - 31.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -718,8 +718,8 @@ Progress: **29.7%**
 | Navès | `naves` | ❌ Pending |
 | Odèn | `oden` | ❌ Pending |
 | Oliana | `oliana` | ❌ Pending |
-| Oliola | `oliola` | ❌ Pending |
-| Olius | `olius` | ❌ Pending |
+| Oliola | `oliola` | ✅ Downloaded |
+| Olius | `olius` | ✅ Downloaded |
 | Organyà | `organya` | ❌ Pending |
 | Os de Balaguer | `os-de-balaguer` | ❌ Pending |
 | Ossó de Sió | `osso-de-sio` | ❌ Pending |

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 281,
-  "missingCount": 666,
+  "downloadedCount": 284,
+  "missingCount": 663,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1883,36 +1883,6 @@
       "rawSvgPath": "raw/svg/oliana.svg",
       "assetSvgPath": "assets/svg/oliana.svg",
       "candidatePath": "data/commons-candidates/oliana.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "oliola": {
-      "slug": "oliola",
-      "name": "Oliola",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/oliola.svg",
-      "assetSvgPath": "assets/svg/oliola.svg",
-      "candidatePath": "data/commons-candidates/oliola.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "olius": {
-      "slug": "olius",
-      "name": "Olius",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/olius.svg",
-      "assetSvgPath": "assets/svg/olius.svg",
-      "candidatePath": "data/commons-candidates/olius.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "olivella": {
-      "slug": "olivella",
-      "name": "Olivella",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/olivella.svg",
-      "assetSvgPath": "assets/svg/olivella.svg",
-      "candidatePath": "data/commons-candidates/olivella.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
