@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 295,
-  "missingCount": 652,
+  "downloadedCount": 303,
+  "missingCount": 644,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1053,86 +1053,6 @@
       "rawSvgPath": "raw/svg/lledo.svg",
       "assetSvgPath": "assets/svg/lledo.svg",
       "candidatePath": "data/commons-candidates/lledo.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "lleida": {
-      "slug": "lleida",
-      "name": "Lleida",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/lleida.svg",
-      "assetSvgPath": "assets/svg/lleida.svg",
-      "candidatePath": "data/commons-candidates/lleida.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llers": {
-      "slug": "llers",
-      "name": "Llers",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/llers.svg",
-      "assetSvgPath": "assets/svg/llers.svg",
-      "candidatePath": "data/commons-candidates/llers.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "lles-de-cerdanya": {
-      "slug": "lles-de-cerdanya",
-      "name": "Lles de Cerdanya",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/lles-de-cerdanya.svg",
-      "assetSvgPath": "assets/svg/lles-de-cerdanya.svg",
-      "candidatePath": "data/commons-candidates/lles-de-cerdanya.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llimiana": {
-      "slug": "llimiana",
-      "name": "Llimiana",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/llimiana.svg",
-      "assetSvgPath": "assets/svg/llimiana.svg",
-      "candidatePath": "data/commons-candidates/llimiana.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llinars-del-valles": {
-      "slug": "llinars-del-valles",
-      "name": "Llinars del Vallès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/llinars-del-valles.svg",
-      "assetSvgPath": "assets/svg/llinars-del-valles.svg",
-      "candidatePath": "data/commons-candidates/llinars-del-valles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llica-damunt": {
-      "slug": "llica-damunt",
-      "name": "Lliçà d'Amunt",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/llica-damunt.svg",
-      "assetSvgPath": "assets/svg/llica-damunt.svg",
-      "candidatePath": "data/commons-candidates/llica-damunt.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llica-de-vall": {
-      "slug": "llica-de-vall",
-      "name": "Lliçà de Vall",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/llica-de-vall.svg",
-      "assetSvgPath": "assets/svg/llica-de-vall.svg",
-      "candidatePath": "data/commons-candidates/llica-de-vall.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llobera": {
-      "slug": "llobera",
-      "name": "Llobera",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/llobera.svg",
-      "assetSvgPath": "assets/svg/llobera.svg",
-      "candidatePath": "data/commons-candidates/llobera.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

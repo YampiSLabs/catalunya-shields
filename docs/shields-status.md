@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **295**
-Pending: **652**
-Progress: **31.2%**
+Downloaded: **303**
+Pending: **644**
+Progress: **32.0%**
 
-`[█████████░░░░░░░░░░░░░░░░░░░░░] 31.2%`
+`[██████████░░░░░░░░░░░░░░░░░░░░] 32.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (99/311 - 31.8%)</b></summary>
+<summary><b>Barcelona (102/311 - 32.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -140,9 +140,9 @@ Progress: **31.2%**
 | les Franqueses del Vallès | `les-franqueses-del-valles` | ❌ Pending |
 | les Masies de Roda | `les-masies-de-roda` | ❌ Pending |
 | les Masies de Voltregà | `les-masies-de-voltrega` | ❌ Pending |
-| Lliçà d'Amunt | `llica-damunt` | ❌ Pending |
-| Lliçà de Vall | `llica-de-vall` | ❌ Pending |
-| Llinars del Vallès | `llinars-del-valles` | ❌ Pending |
+| Lliçà d'Amunt | `llica-damunt` | ✅ Downloaded |
+| Lliçà de Vall | `llica-de-vall` | ✅ Downloaded |
+| Llinars del Vallès | `llinars-del-valles` | ✅ Downloaded |
 | Lluçà | `lluca` | ❌ Pending |
 | Malgrat de Mar | `malgrat-de-mar` | ❌ Pending |
 | Malla | `malla` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **31.2%**
 </details>
 
 <details>
-<summary><b>Girona (68/221 - 30.8%)</b></summary>
+<summary><b>Girona (69/221 - 31.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -430,7 +430,7 @@ Progress: **31.2%**
 | Llanars | `llanars` | ❌ Pending |
 | Llançà | `llanca` | ❌ Pending |
 | Lledó | `lledo` | ❌ Pending |
-| Llers | `llers` | ❌ Pending |
+| Llers | `llers` | ✅ Downloaded |
 | Llívia | `llivia` | ❌ Pending |
 | Lloret de Mar | `lloret-de-mar` | ❌ Pending |
 | Maçanes | `macanes` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **31.2%**
 </details>
 
 <details>
-<summary><b>Lleida (76/231 - 32.9%)</b></summary>
+<summary><b>Lleida (80/231 - 34.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -696,10 +696,10 @@ Progress: **31.2%**
 | Lladurs | `lladurs` | ❌ Pending |
 | Llardecans | `llardecans` | ❌ Pending |
 | Llavorsí | `llavorsi` | ❌ Pending |
-| Lleida | `lleida` | ❌ Pending |
-| Lles de Cerdanya | `lles-de-cerdanya` | ❌ Pending |
-| Llimiana | `llimiana` | ❌ Pending |
-| Llobera | `llobera` | ❌ Pending |
+| Lleida | `lleida` | ✅ Downloaded |
+| Lles de Cerdanya | `lles-de-cerdanya` | ✅ Downloaded |
+| Llimiana | `llimiana` | ✅ Downloaded |
+| Llobera | `llobera` | ✅ Downloaded |
 | Maials | `maials` | ❌ Pending |
 | Maldà | `malda` | ❌ Pending |
 | Massalcoreig | `massalcoreig` | ❌ Pending |
