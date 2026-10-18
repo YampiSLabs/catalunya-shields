@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 290,
-  "missingCount": 657,
+  "downloadedCount": 295,
+  "missingCount": 652,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4553,56 +4553,6 @@
       "rawSvgPath": "raw/svg/tora.svg",
       "assetSvgPath": "assets/svg/tora.svg",
       "candidatePath": "data/commons-candidates/tora.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "toses": {
-      "slug": "toses",
-      "name": "Toses",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/toses.svg",
-      "assetSvgPath": "assets/svg/toses.svg",
-      "candidatePath": "data/commons-candidates/toses.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tossa-de-mar": {
-      "slug": "tossa-de-mar",
-      "name": "Tossa de Mar",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/tossa-de-mar.svg",
-      "assetSvgPath": "assets/svg/tossa-de-mar.svg",
-      "candidatePath": "data/commons-candidates/tossa-de-mar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tremp": {
-      "slug": "tremp",
-      "name": "Tremp",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/tremp.svg",
-      "assetSvgPath": "assets/svg/tremp.svg",
-      "candidatePath": "data/commons-candidates/tremp.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tarrega": {
-      "slug": "tarrega",
-      "name": "Tàrrega",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/tarrega.svg",
-      "assetSvgPath": "assets/svg/tarrega.svg",
-      "candidatePath": "data/commons-candidates/tarrega.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "termens": {
-      "slug": "termens",
-      "name": "Térmens",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/termens.svg",
-      "assetSvgPath": "assets/svg/termens.svg",
-      "candidatePath": "data/commons-candidates/termens.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

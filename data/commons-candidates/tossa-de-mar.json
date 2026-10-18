@@ -1,0 +1,23 @@
+[
+  {
+    "title": "File:Escut de Tossa de Mar.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:022 Can Ferrer, c. Mare de Déu del Socors 12 (Tossa de Mar), balcó i escut.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:118 Església de Sant Vicenç (Tossa de Mar), escut.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

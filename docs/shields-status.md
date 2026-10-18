@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **290**
-Pending: **657**
-Progress: **30.6%**
+Downloaded: **295**
+Pending: **652**
+Progress: **31.2%**
 
-`[█████████░░░░░░░░░░░░░░░░░░░░░] 30.6%`
+`[█████████░░░░░░░░░░░░░░░░░░░░░] 31.2%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **30.6%**
 </details>
 
 <details>
-<summary><b>Girona (66/221 - 29.9%)</b></summary>
+<summary><b>Girona (68/221 - 30.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -524,8 +524,8 @@ Progress: **30.6%**
 | Torroella de Fluvià | `torroella-de-fluvia` | ❌ Pending |
 | Torroella de Montgrí | `torroella-de-montgri` | ❌ Pending |
 | Tortellà | `tortella` | ❌ Pending |
-| Toses | `toses` | ❌ Pending |
-| Tossa de Mar | `tossa-de-mar` | ❌ Pending |
+| Toses | `toses` | ✅ Downloaded |
+| Tossa de Mar | `tossa-de-mar` | ✅ Downloaded |
 | Ullà | `ulla` | ❌ Pending |
 | Ullastret | `ullastret` | ❌ Pending |
 | Ultramort | `ultramort` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **30.6%**
 </details>
 
 <details>
-<summary><b>Lleida (73/231 - 31.6%)</b></summary>
+<summary><b>Lleida (76/231 - 32.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -762,10 +762,10 @@ Progress: **30.6%**
 | Sunyer | `sunyer` | ❌ Pending |
 | Talarn | `talarn` | ❌ Pending |
 | Talavera | `talavera` | ❌ Pending |
-| Tàrrega | `tarrega` | ❌ Pending |
+| Tàrrega | `tarrega` | ✅ Downloaded |
 | Tarrés | `tarres` | ❌ Pending |
 | Tarroja de Segarra | `tarroja-de-segarra` | ❌ Pending |
-| Térmens | `termens` | ❌ Pending |
+| Térmens | `termens` | ✅ Downloaded |
 | Tírvia | `tirvia` | ❌ Pending |
 | Tiurana | `tiurana` | ✅ Downloaded |
 | Torà | `tora` | ❌ Pending |
@@ -777,7 +777,7 @@ Progress: **30.6%**
 | Torregrossa | `torregrossa` | ❌ Pending |
 | Torrelameu | `torrelameu` | ❌ Pending |
 | Torres de Segre | `torres-de-segre` | ❌ Pending |
-| Tremp | `tremp` | ❌ Pending |
+| Tremp | `tremp` | ✅ Downloaded |
 | Vall de Cardós | `vall-de-cardos` | ❌ Pending |
 | Vallbona de les Monges | `vallbona-de-les-monges` | ❌ Pending |
 | Vallfogona de Balaguer | `vallfogona-de-balaguer` | ❌ Pending |
