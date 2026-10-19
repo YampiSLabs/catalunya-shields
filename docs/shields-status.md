@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **303**
-Pending: **644**
-Progress: **32.0%**
+Downloaded: **307**
+Pending: **640**
+Progress: **32.4%**
 
-`[██████████░░░░░░░░░░░░░░░░░░░░] 32.0%`
+`[██████████░░░░░░░░░░░░░░░░░░░░] 32.4%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (102/311 - 32.8%)</b></summary>
+<summary><b>Barcelona (103/311 - 33.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ Progress: **32.0%**
 | Gualba | `gualba` | ❌ Pending |
 | Guardiola de Berguedà | `guardiola-de-bergueda` | ❌ Pending |
 | Gurb | `gurb` | ✅ Downloaded |
-| Igualada | `igualada` | ❌ Pending |
+| Igualada | `igualada` | ✅ Downloaded |
 | Jorba | `jorba` | ❌ Pending |
 | l'Ametlla del Vallès | `lametlla-del-valles` | ✅ Downloaded |
 | l'Espunyola | `lespunyola` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **32.0%**
 </details>
 
 <details>
-<summary><b>Girona (69/221 - 31.2%)</b></summary>
+<summary><b>Girona (70/221 - 31.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -408,7 +408,7 @@ Progress: **32.0%**
 | Gualta | `gualta` | ❌ Pending |
 | Guils de Cerdanya | `guils-de-cerdanya` | ❌ Pending |
 | Hostalric | `hostalric` | ✅ Downloaded |
-| Isòvol | `isovol` | ❌ Pending |
+| Isòvol | `isovol` | ✅ Downloaded |
 | Jafre | `jafre` | ❌ Pending |
 | Juià | `juia` | ❌ Pending |
 | l'Armentera | `larmentera` | ✅ Downloaded |
@@ -558,7 +558,7 @@ Progress: **32.0%**
 </details>
 
 <details>
-<summary><b>Lleida (80/231 - 34.6%)</b></summary>
+<summary><b>Lleida (82/231 - 35.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -659,9 +659,9 @@ Progress: **32.0%**
 | Guimerà | `guimera` | ❌ Pending |
 | Guissona | `guissona` | ❌ Pending |
 | Guixers | `guixers` | ❌ Pending |
-| Isona i Conca Dellà | `isona-i-conca-della` | ❌ Pending |
-| Ivars d'Urgell | `ivars-durgell` | ❌ Pending |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
+| Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 303,
-  "missingCount": 644,
+  "downloadedCount": 307,
+  "missingCount": 640,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -823,46 +823,6 @@
       "rawSvgPath": "raw/svg/guixers.svg",
       "assetSvgPath": "assets/svg/guixers.svg",
       "candidatePath": "data/commons-candidates/guixers.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "igualada": {
-      "slug": "igualada",
-      "name": "Igualada",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/igualada.svg",
-      "assetSvgPath": "assets/svg/igualada.svg",
-      "candidatePath": "data/commons-candidates/igualada.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "isona-i-conca-della": {
-      "slug": "isona-i-conca-della",
-      "name": "Isona i Conca Dellà",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/isona-i-conca-della.svg",
-      "assetSvgPath": "assets/svg/isona-i-conca-della.svg",
-      "candidatePath": "data/commons-candidates/isona-i-conca-della.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "isovol": {
-      "slug": "isovol",
-      "name": "Isòvol",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/isovol.svg",
-      "assetSvgPath": "assets/svg/isovol.svg",
-      "candidatePath": "data/commons-candidates/isovol.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "ivars-durgell": {
-      "slug": "ivars-durgell",
-      "name": "Ivars d'Urgell",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/ivars-durgell.svg",
-      "assetSvgPath": "assets/svg/ivars-durgell.svg",
-      "candidatePath": "data/commons-candidates/ivars-durgell.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
