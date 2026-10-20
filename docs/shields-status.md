@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **310**
-Pending: **637**
-Progress: **32.7%**
+Downloaded: **316**
+Pending: **631**
+Progress: **33.4%**
 
-`[██████████░░░░░░░░░░░░░░░░░░░░] 32.7%`
+`[██████████░░░░░░░░░░░░░░░░░░░░] 33.4%`
 
 ## Provinces Overview
 
@@ -329,7 +329,7 @@ Progress: **32.7%**
 </details>
 
 <details>
-<summary><b>Girona (70/221 - 31.7%)</b></summary>
+<summary><b>Girona (74/221 - 33.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -520,10 +520,10 @@ Progress: **32.7%**
 | Siurana | `siurana` | ❌ Pending |
 | Susqueda | `susqueda` | ❌ Pending |
 | Terrades | `terrades` | ❌ Pending |
-| Torrent | `torrent` | ❌ Pending |
-| Torroella de Fluvià | `torroella-de-fluvia` | ❌ Pending |
-| Torroella de Montgrí | `torroella-de-montgri` | ❌ Pending |
-| Tortellà | `tortella` | ❌ Pending |
+| Torrent | `torrent` | ✅ Downloaded |
+| Torroella de Fluvià | `torroella-de-fluvia` | ✅ Downloaded |
+| Torroella de Montgrí | `torroella-de-montgri` | ✅ Downloaded |
+| Tortellà | `tortella` | ✅ Downloaded |
 | Toses | `toses` | ✅ Downloaded |
 | Tossa de Mar | `tossa-de-mar` | ✅ Downloaded |
 | Ullà | `ulla` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **32.7%**
 </details>
 
 <details>
-<summary><b>Lleida (84/231 - 36.4%)</b></summary>
+<summary><b>Lleida (85/231 - 36.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **32.7%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -776,7 +776,7 @@ Progress: **32.7%**
 | Torrefeta i Florejacs | `torrefeta-i-florejacs` | ❌ Pending |
 | Torregrossa | `torregrossa` | ❌ Pending |
 | Torrelameu | `torrelameu` | ❌ Pending |
-| Torres de Segre | `torres-de-segre` | ❌ Pending |
+| Torres de Segre | `torres-de-segre` | ✅ Downloaded |
 | Tremp | `tremp` | ✅ Downloaded |
 | Vall de Cardós | `vall-de-cardos` | ❌ Pending |
 | Vallbona de les Monges | `vallbona-de-les-monges` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **32.7%**
 </details>
 
 <details>
-<summary><b>Tarragona (52/184 - 28.3%)</b></summary>
+<summary><b>Tarragona (53/184 - 28.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -963,7 +963,7 @@ Progress: **32.7%**
 | Tivissa | `tivissa` | ✅ Downloaded |
 | Torredembarra | `torredembarra` | ❌ Pending |
 | Torroja del Priorat | `torroja-del-priorat` | ❌ Pending |
-| Tortosa | `tortosa` | ❌ Pending |
+| Tortosa | `tortosa` | ✅ Downloaded |
 | Ulldecona | `ulldecona` | ❌ Pending |
 | Ulldemolins | `ulldemolins` | ❌ Pending |
 | Vallclara | `vallclara` | ❌ Pending |

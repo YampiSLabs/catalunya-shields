@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 310,
-  "missingCount": 637,
+  "downloadedCount": 316,
+  "missingCount": 631,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4356,46 +4356,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "torrent": {
-      "slug": "torrent",
-      "name": "Torrent",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/torrent.svg",
-      "assetSvgPath": "assets/svg/torrent.svg",
-      "candidatePath": "data/commons-candidates/torrent.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torres-de-segre": {
-      "slug": "torres-de-segre",
-      "name": "Torres de Segre",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/torres-de-segre.svg",
-      "assetSvgPath": "assets/svg/torres-de-segre.svg",
-      "candidatePath": "data/commons-candidates/torres-de-segre.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torroella-de-fluvia": {
-      "slug": "torroella-de-fluvia",
-      "name": "Torroella de Fluvià",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/torroella-de-fluvia.svg",
-      "assetSvgPath": "assets/svg/torroella-de-fluvia.svg",
-      "candidatePath": "data/commons-candidates/torroella-de-fluvia.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torroella-de-montgri": {
-      "slug": "torroella-de-montgri",
-      "name": "Torroella de Montgrí",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/torroella-de-montgri.svg",
-      "assetSvgPath": "assets/svg/torroella-de-montgri.svg",
-      "candidatePath": "data/commons-candidates/torroella-de-montgri.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "torroja-del-priorat": {
       "slug": "torroja-del-priorat",
       "name": "Torroja del Priorat",
@@ -4403,26 +4363,6 @@
       "rawSvgPath": "raw/svg/torroja-del-priorat.svg",
       "assetSvgPath": "assets/svg/torroja-del-priorat.svg",
       "candidatePath": "data/commons-candidates/torroja-del-priorat.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tortella": {
-      "slug": "tortella",
-      "name": "Tortellà",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/tortella.svg",
-      "assetSvgPath": "assets/svg/tortella.svg",
-      "candidatePath": "data/commons-candidates/tortella.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tortosa": {
-      "slug": "tortosa",
-      "name": "Tortosa",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/tortosa.svg",
-      "assetSvgPath": "assets/svg/tortosa.svg",
-      "candidatePath": "data/commons-candidates/tortosa.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
