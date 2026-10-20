@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **307**
-Pending: **640**
-Progress: **32.4%**
+Downloaded: **310**
+Pending: **637**
+Progress: **32.7%**
 
-`[██████████░░░░░░░░░░░░░░░░░░░░] 32.4%`
+`[██████████░░░░░░░░░░░░░░░░░░░░] 32.7%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (103/311 - 33.1%)</b></summary>
+<summary><b>Barcelona (104/311 - 33.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -317,8 +317,8 @@ Progress: **32.4%**
 | Viladecavalls | `viladecavalls` | ✅ Downloaded |
 | Vilafranca del Penedès | `vilafranca-del-penedes` | ❌ Pending |
 | Vilalba Sasserra | `vilalba-sasserra` | ❌ Pending |
-| Vilanova de Sau | `vilanova-de-sau` | ❌ Pending |
-| Vilanova del Camí | `vilanova-del-cami` | ❌ Pending |
+| Vilanova de Sau | `vilanova-de-sau` | ✅ Downloaded |
+| Vilanova del Camí | `vilanova-del-cami` | 🔍 Has Candidate |
 | Vilanova del Vallès | `vilanova-del-valles` | ❌ Pending |
 | Vilanova i la Geltrú | `vilanova-i-la-geltru` | ❌ Pending |
 | Vilassar de Dalt | `vilassar-de-dalt` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **32.4%**
 </details>
 
 <details>
-<summary><b>Lleida (82/231 - 35.5%)</b></summary>
+<summary><b>Lleida (84/231 - 36.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **32.4%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -789,9 +789,9 @@ Progress: **32.4%**
 | Vilamòs | `vilamos` | ❌ Pending |
 | Vilanova de Bellpuig | `vilanova-de-bellpuig` | ❌ Pending |
 | Vilanova de l'Aguda | `vilanova-de-laguda` | ❌ Pending |
-| Vilanova de la Barca | `vilanova-de-la-barca` | ❌ Pending |
+| Vilanova de la Barca | `vilanova-de-la-barca` | ✅ Downloaded |
 | Vilanova de Meià | `vilanova-de-meia` | ❌ Pending |
-| Vilanova de Segrià | `vilanova-de-segria` | ❌ Pending |
+| Vilanova de Segrià | `vilanova-de-segria` | ✅ Downloaded |
 | Vinaixa | `vinaixa` | ❌ Pending |
 
 </details>

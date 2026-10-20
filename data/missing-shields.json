@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 307,
-  "missingCount": 640,
+  "downloadedCount": 310,
+  "missingCount": 637,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -5006,26 +5006,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "vilanova-de-sau": {
-      "slug": "vilanova-de-sau",
-      "name": "Vilanova de Sau",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/vilanova-de-sau.svg",
-      "assetSvgPath": "assets/svg/vilanova-de-sau.svg",
-      "candidatePath": "data/commons-candidates/vilanova-de-sau.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vilanova-de-segria": {
-      "slug": "vilanova-de-segria",
-      "name": "Vilanova de Segrià",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/vilanova-de-segria.svg",
-      "assetSvgPath": "assets/svg/vilanova-de-segria.svg",
-      "candidatePath": "data/commons-candidates/vilanova-de-segria.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "vilanova-de-laguda": {
       "slug": "vilanova-de-laguda",
       "name": "Vilanova de l'Aguda",
@@ -5033,16 +5013,6 @@
       "rawSvgPath": "raw/svg/vilanova-de-laguda.svg",
       "assetSvgPath": "assets/svg/vilanova-de-laguda.svg",
       "candidatePath": "data/commons-candidates/vilanova-de-laguda.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vilanova-de-la-barca": {
-      "slug": "vilanova-de-la-barca",
-      "name": "Vilanova de la Barca",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/vilanova-de-la-barca.svg",
-      "assetSvgPath": "assets/svg/vilanova-de-la-barca.svg",
-      "candidatePath": "data/commons-candidates/vilanova-de-la-barca.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

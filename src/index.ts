@@ -305,3 +305,6 @@ export { default as Viladecans } from "../assets/svg/viladecans.svg";
 export { default as Viladecavalls } from "../assets/svg/viladecavalls.svg";
 export { default as Vilademuls } from "../assets/svg/vilademuls.svg";
 export { default as Viladrau } from "../assets/svg/viladrau.svg";
+export { default as VilanovaDeLaBarca } from "../assets/svg/vilanova-de-la-barca.svg";
+export { default as VilanovaDeSau } from "../assets/svg/vilanova-de-sau.svg";
+export { default as VilanovaDeSegrià } from "../assets/svg/vilanova-de-segria.svg";
