@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **316**
-Pending: **631**
-Progress: **33.4%**
+Downloaded: **321**
+Pending: **626**
+Progress: **33.9%**
 
-`[██████████░░░░░░░░░░░░░░░░░░░░] 33.4%`
+`[██████████░░░░░░░░░░░░░░░░░░░░] 33.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (104/311 - 33.4%)</b></summary>
+<summary><b>Barcelona (108/311 - 34.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -136,10 +136,10 @@ Progress: **33.4%**
 | la Quar | `la-quar` | ❌ Pending |
 | la Roca del Vallès | `la-roca-del-valles` | ❌ Pending |
 | la Torre de Claramunt | `la-torre-de-claramunt` | ❌ Pending |
-| les Cabanyes | `les-cabanyes` | ❌ Pending |
-| les Franqueses del Vallès | `les-franqueses-del-valles` | ❌ Pending |
-| les Masies de Roda | `les-masies-de-roda` | ❌ Pending |
-| les Masies de Voltregà | `les-masies-de-voltrega` | ❌ Pending |
+| les Cabanyes | `les-cabanyes` | ✅ Downloaded |
+| les Franqueses del Vallès | `les-franqueses-del-valles` | ✅ Downloaded |
+| les Masies de Roda | `les-masies-de-roda` | ✅ Downloaded |
+| les Masies de Voltregà | `les-masies-de-voltrega` | ✅ Downloaded |
 | Lliçà d'Amunt | `llica-damunt` | ✅ Downloaded |
 | Lliçà de Vall | `llica-de-vall` | ✅ Downloaded |
 | Llinars del Vallès | `llinars-del-valles` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **33.4%**
 </details>
 
 <details>
-<summary><b>Girona (74/221 - 33.5%)</b></summary>
+<summary><b>Girona (75/221 - 33.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -422,7 +422,7 @@ Progress: **33.4%**
 | la Vajol | `la-vajol` | ❌ Pending |
 | la Vall d'en Bas | `la-vall-den-bas` | ❌ Pending |
 | la Vall de Bianya | `la-vall-de-bianya` | ❌ Pending |
-| les Llosses | `les-llosses` | ❌ Pending |
+| les Llosses | `les-llosses` | ✅ Downloaded |
 | les Planes d'Hostoles | `les-planes-dhostoles` | ❌ Pending |
 | les Preses | `les-preses` | ❌ Pending |
 | Llagostera | `llagostera` | ❌ Pending |
@@ -661,7 +661,7 @@ Progress: **33.4%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |

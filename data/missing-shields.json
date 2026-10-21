@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 316,
-  "missingCount": 631,
+  "downloadedCount": 321,
+  "missingCount": 626,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -6173,56 +6173,6 @@
       "rawSvgPath": "raw/svg/les-borges-del-camp.svg",
       "assetSvgPath": "assets/svg/les-borges-del-camp.svg",
       "candidatePath": "data/commons-candidates/les-borges-del-camp.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "les-cabanyes": {
-      "slug": "les-cabanyes",
-      "name": "les Cabanyes",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/les-cabanyes.svg",
-      "assetSvgPath": "assets/svg/les-cabanyes.svg",
-      "candidatePath": "data/commons-candidates/les-cabanyes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "les-franqueses-del-valles": {
-      "slug": "les-franqueses-del-valles",
-      "name": "les Franqueses del Vallès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/les-franqueses-del-valles.svg",
-      "assetSvgPath": "assets/svg/les-franqueses-del-valles.svg",
-      "candidatePath": "data/commons-candidates/les-franqueses-del-valles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "les-llosses": {
-      "slug": "les-llosses",
-      "name": "les Llosses",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/les-llosses.svg",
-      "assetSvgPath": "assets/svg/les-llosses.svg",
-      "candidatePath": "data/commons-candidates/les-llosses.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "les-masies-de-roda": {
-      "slug": "les-masies-de-roda",
-      "name": "les Masies de Roda",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/les-masies-de-roda.svg",
-      "assetSvgPath": "assets/svg/les-masies-de-roda.svg",
-      "candidatePath": "data/commons-candidates/les-masies-de-roda.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "les-masies-de-voltrega": {
-      "slug": "les-masies-de-voltrega",
-      "name": "les Masies de Voltregà",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/les-masies-de-voltrega.svg",
-      "assetSvgPath": "assets/svg/les-masies-de-voltrega.svg",
-      "candidatePath": "data/commons-candidates/les-masies-de-voltrega.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

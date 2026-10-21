@@ -1,0 +1,23 @@
+[
+  {
+    "title": "File:Escut de les Masies de Voltregà.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Gavet de la Conca THV-ES.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:19 Casa Diocesana d'Espiritualitat (la Gleva), escut.JPG",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]
