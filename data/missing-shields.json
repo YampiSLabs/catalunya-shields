@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 321,
-  "missingCount": 626,
+  "downloadedCount": 327,
+  "missingCount": 620,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2653,66 +2653,6 @@
       "rawSvgPath": "raw/svg/riu-de-cerdanya.svg",
       "assetSvgPath": "assets/svg/riu-de-cerdanya.svg",
       "candidatePath": "data/commons-candidates/riu-de-cerdanya.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "riudarenes": {
-      "slug": "riudarenes",
-      "name": "Riudarenes",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/riudarenes.svg",
-      "assetSvgPath": "assets/svg/riudarenes.svg",
-      "candidatePath": "data/commons-candidates/riudarenes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "riudaura": {
-      "slug": "riudaura",
-      "name": "Riudaura",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/riudaura.svg",
-      "assetSvgPath": "assets/svg/riudaura.svg",
-      "candidatePath": "data/commons-candidates/riudaura.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "riudecanyes": {
-      "slug": "riudecanyes",
-      "name": "Riudecanyes",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/riudecanyes.svg",
-      "assetSvgPath": "assets/svg/riudecanyes.svg",
-      "candidatePath": "data/commons-candidates/riudecanyes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "riudecols": {
-      "slug": "riudecols",
-      "name": "Riudecols",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/riudecols.svg",
-      "assetSvgPath": "assets/svg/riudecols.svg",
-      "candidatePath": "data/commons-candidates/riudecols.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "riudellots-de-la-selva": {
-      "slug": "riudellots-de-la-selva",
-      "name": "Riudellots de la Selva",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/riudellots-de-la-selva.svg",
-      "assetSvgPath": "assets/svg/riudellots-de-la-selva.svg",
-      "candidatePath": "data/commons-candidates/riudellots-de-la-selva.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "riudoms": {
-      "slug": "riudoms",
-      "name": "Riudoms",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/riudoms.svg",
-      "assetSvgPath": "assets/svg/riudoms.svg",
-      "candidatePath": "data/commons-candidates/riudoms.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

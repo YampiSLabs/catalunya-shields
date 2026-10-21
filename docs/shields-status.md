@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **321**
-Pending: **626**
-Progress: **33.9%**
+Downloaded: **327**
+Pending: **620**
+Progress: **34.5%**
 
-`[██████████░░░░░░░░░░░░░░░░░░░░] 33.9%`
+`[██████████░░░░░░░░░░░░░░░░░░░░] 34.5%`
 
 ## Provinces Overview
 
@@ -204,7 +204,7 @@ Progress: **33.9%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **33.9%**
 </details>
 
 <details>
-<summary><b>Girona (75/221 - 33.9%)</b></summary>
+<summary><b>Girona (78/221 - 35.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -475,9 +475,9 @@ Progress: **33.9%**
 | Ribes de Freser | `ribes-de-freser` | ❌ Pending |
 | Riells i Viabrea | `riells-i-viabrea` | ❌ Pending |
 | Ripoll | `ripoll` | ❌ Pending |
-| Riudarenes | `riudarenes` | ❌ Pending |
-| Riudaura | `riudaura` | ❌ Pending |
-| Riudellots de la Selva | `riudellots-de-la-selva` | ❌ Pending |
+| Riudarenes | `riudarenes` | ✅ Downloaded |
+| Riudaura | `riudaura` | ✅ Downloaded |
+| Riudellots de la Selva | `riudellots-de-la-selva` | ✅ Downloaded |
 | Riumors | `riumors` | ✅ Downloaded |
 | Roses | `roses` | ✅ Downloaded |
 | Rupià | `rupia` | ❌ Pending |
@@ -661,7 +661,7 @@ Progress: **33.9%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **33.9%**
 </details>
 
 <details>
-<summary><b>Tarragona (53/184 - 28.8%)</b></summary>
+<summary><b>Tarragona (56/184 - 30.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -940,9 +940,9 @@ Progress: **33.9%**
 | Renau | `renau` | ❌ Pending |
 | Reus | `reus` | ✅ Downloaded |
 | Riba-roja d'Ebre | `riba-roja-debre` | ❌ Pending |
-| Riudecanyes | `riudecanyes` | ❌ Pending |
-| Riudecols | `riudecols` | ❌ Pending |
-| Riudoms | `riudoms` | ❌ Pending |
+| Riudecanyes | `riudecanyes` | ✅ Downloaded |
+| Riudecols | `riudecols` | ✅ Downloaded |
+| Riudoms | `riudoms` | ✅ Downloaded |
 | Rocafort de Queralt | `rocafort-de-queralt` | ✅ Downloaded |
 | Roda de Berà | `roda-de-bera` | ❌ Pending |
 | Rodonyà | `rodonya` | ✅ Downloaded |
