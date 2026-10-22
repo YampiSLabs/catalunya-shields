@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 332,
-  "missingCount": 615,
+  "downloadedCount": 339,
+  "missingCount": 608,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2256,56 +2256,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "pratdip": {
-      "slug": "pratdip",
-      "name": "Pratdip",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/pratdip.svg",
-      "assetSvgPath": "assets/svg/pratdip.svg",
-      "candidatePath": "data/commons-candidates/pratdip.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "prats-de-llucanes": {
-      "slug": "prats-de-llucanes",
-      "name": "Prats de Lluçanès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/prats-de-llucanes.svg",
-      "assetSvgPath": "assets/svg/prats-de-llucanes.svg",
-      "candidatePath": "data/commons-candidates/prats-de-llucanes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "prats-i-sansor": {
-      "slug": "prats-i-sansor",
-      "name": "Prats i Sansor",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/prats-i-sansor.svg",
-      "assetSvgPath": "assets/svg/prats-i-sansor.svg",
-      "candidatePath": "data/commons-candidates/prats-i-sansor.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "preixana": {
-      "slug": "preixana",
-      "name": "Preixana",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/preixana.svg",
-      "assetSvgPath": "assets/svg/preixana.svg",
-      "candidatePath": "data/commons-candidates/preixana.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "preixens": {
-      "slug": "preixens",
-      "name": "Preixens",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/preixens.svg",
-      "assetSvgPath": "assets/svg/preixens.svg",
-      "candidatePath": "data/commons-candidates/preixens.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "premia-de-dalt": {
       "slug": "premia-de-dalt",
       "name": "Premià de Dalt",
@@ -2313,26 +2263,6 @@
       "rawSvgPath": "raw/svg/premia-de-dalt.svg",
       "assetSvgPath": "assets/svg/premia-de-dalt.svg",
       "candidatePath": "data/commons-candidates/premia-de-dalt.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "premia-de-mar": {
-      "slug": "premia-de-mar",
-      "name": "Premià de Mar",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/premia-de-mar.svg",
-      "assetSvgPath": "assets/svg/premia-de-mar.svg",
-      "candidatePath": "data/commons-candidates/premia-de-mar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "prullans": {
-      "slug": "prullans",
-      "name": "Prullans",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/prullans.svg",
-      "assetSvgPath": "assets/svg/prullans.svg",
-      "candidatePath": "data/commons-candidates/prullans.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

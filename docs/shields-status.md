@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **332**
-Pending: **615**
-Progress: **35.1%**
+Downloaded: **339**
+Pending: **608**
+Progress: **35.8%**
 
-`[███████████░░░░░░░░░░░░░░░░░░░] 35.1%`
+`[███████████░░░░░░░░░░░░░░░░░░░] 35.8%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (111/311 - 35.7%)</b></summary>
+<summary><b>Barcelona (113/311 - 36.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -194,9 +194,9 @@ Progress: **35.1%**
 | Pineda de Mar | `pineda-de-mar` | ❌ Pending |
 | Polinyà | `polinya` | ❌ Pending |
 | Pontons | `pontons` | ❌ Pending |
-| Prats de Lluçanès | `prats-de-llucanes` | ❌ Pending |
+| Prats de Lluçanès | `prats-de-llucanes` | ✅ Downloaded |
 | Premià de Dalt | `premia-de-dalt` | ❌ Pending |
-| Premià de Mar | `premia-de-mar` | ❌ Pending |
+| Premià de Mar | `premia-de-mar` | ✅ Downloaded |
 | Puig-reig | `puig-reig` | ❌ Pending |
 | Puigdàlber | `puigdalber` | ❌ Pending |
 | Pujalt | `pujalt` | ❌ Pending |
@@ -204,7 +204,7 @@ Progress: **35.1%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -558,7 +558,7 @@ Progress: **35.1%**
 </details>
 
 <details>
-<summary><b>Lleida (86/231 - 37.2%)</b></summary>
+<summary><b>Lleida (90/231 - 39.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **35.1%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -728,10 +728,10 @@ Progress: **35.1%**
 | Pinell de Solsonès | `pinell-de-solsones` | ❌ Pending |
 | Pinós | `pinos` | ❌ Pending |
 | Ponts | `ponts` | ❌ Pending |
-| Prats i Sansor | `prats-i-sansor` | ❌ Pending |
-| Preixana | `preixana` | ❌ Pending |
-| Preixens | `preixens` | ❌ Pending |
-| Prullans | `prullans` | ❌ Pending |
+| Prats i Sansor | `prats-i-sansor` | ✅ Downloaded |
+| Preixana | `preixana` | ✅ Downloaded |
+| Preixens | `preixens` | ✅ Downloaded |
+| Prullans | `prullans` | ✅ Downloaded |
 | Puiggròs | `puiggros` | ❌ Pending |
 | Puigverd d'Agramunt | `puigverd-dagramunt` | ❌ Pending |
 | Puigverd de Lleida | `puigverd-de-lleida` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **35.1%**
 </details>
 
 <details>
-<summary><b>Tarragona (56/184 - 30.4%)</b></summary>
+<summary><b>Tarragona (57/184 - 31.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -933,7 +933,7 @@ Progress: **35.1%**
 | Pradell de la Teixeta | `pradell-de-la-teixeta` | ❌ Pending |
 | Prades | `prades` | ❌ Pending |
 | Prat de Comte | `prat-de-comte` | ❌ Pending |
-| Pratdip | `pratdip` | ❌ Pending |
+| Pratdip | `pratdip` | ✅ Downloaded |
 | Puigpelat | `puigpelat` | ❌ Pending |
 | Querol | `querol` | ❌ Pending |
 | Rasquera | `rasquera` | ❌ Pending |

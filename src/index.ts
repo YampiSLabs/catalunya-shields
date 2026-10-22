@@ -272,6 +272,13 @@ export { default as MontRoigDelCamp } from "../assets/svg/mont-roig-del-camp.svg
 export { default as Oliola } from "../assets/svg/oliola.svg";
 export { default as Olius } from "../assets/svg/olius.svg";
 export { default as Olivella } from "../assets/svg/olivella.svg";
+export { default as Pratdip } from "../assets/svg/pratdip.svg";
+export { default as PratsDeLluçanès } from "../assets/svg/prats-de-llucanes.svg";
+export { default as PratsISansor } from "../assets/svg/prats-i-sansor.svg";
+export { default as Preixana } from "../assets/svg/preixana.svg";
+export { default as Preixens } from "../assets/svg/preixens.svg";
+export { default as PremiàDeMar } from "../assets/svg/premia-de-mar.svg";
+export { default as Prullans } from "../assets/svg/prullans.svg";
 export { default as Reus } from "../assets/svg/reus.svg";
 export { default as Riudarenes } from "../assets/svg/riudarenes.svg";
 export { default as Riudaura } from "../assets/svg/riudaura.svg";
