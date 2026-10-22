@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **327**
-Pending: **620**
-Progress: **34.5%**
+Downloaded: **332**
+Pending: **615**
+Progress: **35.1%**
 
-`[██████████░░░░░░░░░░░░░░░░░░░░] 34.5%`
+`[███████████░░░░░░░░░░░░░░░░░░░] 35.1%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (108/311 - 34.7%)</b></summary>
+<summary><b>Barcelona (111/311 - 35.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -157,11 +157,11 @@ Progress: **34.5%**
 | Mediona | `mediona` | ❌ Pending |
 | Moià | `moia` | ❌ Pending |
 | Molins de Rei | `molins-de-rei` | ❌ Pending |
-| Mollet del Vallès | `mollet-del-valles` | ❌ Pending |
+| Mollet del Vallès | `mollet-del-valles` | ✅ Downloaded |
 | Monistrol de Calders | `monistrol-de-calders` | ✅ Downloaded |
 | Monistrol de Montserrat | `monistrol-de-montserrat` | ✅ Downloaded |
-| Montcada i Reixac | `montcada-i-reixac` | ❌ Pending |
-| Montclar | `montclar` | ❌ Pending |
+| Montcada i Reixac | `montcada-i-reixac` | ✅ Downloaded |
+| Montclar | `montclar` | ✅ Downloaded |
 | Montesquiu | `montesquiu` | ❌ Pending |
 | Montgat | `montgat` | ❌ Pending |
 | Montmajor | `montmajor` | ❌ Pending |
@@ -204,7 +204,7 @@ Progress: **34.5%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | 🔍 Has Candidate |
+| Rubí | `rubi` | ❌ Pending |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **34.5%**
 </details>
 
 <details>
-<summary><b>Girona (78/221 - 35.3%)</b></summary>
+<summary><b>Girona (79/221 - 35.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -442,7 +442,7 @@ Progress: **34.5%**
 | Meranges | `meranges` | ❌ Pending |
 | Mieres | `mieres` | ❌ Pending |
 | Mollet de Peralada | `mollet-de-peralada` | ❌ Pending |
-| Molló | `mollo` | ❌ Pending |
+| Molló | `mollo` | ✅ Downloaded |
 | Mont-ras | `mont-ras` | ✅ Downloaded |
 | Montagut i Oix | `montagut-i-oix` | ✅ Downloaded |
 | Navata | `navata` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **34.5%**
 </details>
 
 <details>
-<summary><b>Lleida (85/231 - 36.8%)</b></summary>
+<summary><b>Lleida (86/231 - 37.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **34.5%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -707,7 +707,7 @@ Progress: **34.5%**
 | Menàrguens | `menarguens` | ❌ Pending |
 | Miralcamp | `miralcamp` | ❌ Pending |
 | Mollerussa | `mollerussa` | ❌ Pending |
-| Montellà i Martinet | `montella-i-martinet` | ❌ Pending |
+| Montellà i Martinet | `montella-i-martinet` | ✅ Downloaded |
 | Montferrer i Castellbò | `montferrer-i-castellbo` | ❌ Pending |
 | Montgai | `montgai` | ❌ Pending |
 | Montoliu de Lleida | `montoliu-de-lleida` | ❌ Pending |

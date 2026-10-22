@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 327,
-  "missingCount": 620,
+  "downloadedCount": 332,
+  "missingCount": 615,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1416,26 +1416,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "mollet-del-valles": {
-      "slug": "mollet-del-valles",
-      "name": "Mollet del Vallès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/mollet-del-valles.svg",
-      "assetSvgPath": "assets/svg/mollet-del-valles.svg",
-      "candidatePath": "data/commons-candidates/mollet-del-valles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "mollo": {
-      "slug": "mollo",
-      "name": "Molló",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/mollo.svg",
-      "assetSvgPath": "assets/svg/mollo.svg",
-      "candidatePath": "data/commons-candidates/mollo.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "montbrio-del-camp": {
       "slug": "montbrio-del-camp",
       "name": "Montbrió del Camp",
@@ -1443,36 +1423,6 @@
       "rawSvgPath": "raw/svg/montbrio-del-camp.svg",
       "assetSvgPath": "assets/svg/montbrio-del-camp.svg",
       "candidatePath": "data/commons-candidates/montbrio-del-camp.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montcada-i-reixac": {
-      "slug": "montcada-i-reixac",
-      "name": "Montcada i Reixac",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/montcada-i-reixac.svg",
-      "assetSvgPath": "assets/svg/montcada-i-reixac.svg",
-      "candidatePath": "data/commons-candidates/montcada-i-reixac.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montclar": {
-      "slug": "montclar",
-      "name": "Montclar",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/montclar.svg",
-      "assetSvgPath": "assets/svg/montclar.svg",
-      "candidatePath": "data/commons-candidates/montclar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montella-i-martinet": {
-      "slug": "montella-i-martinet",
-      "name": "Montellà i Martinet",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/montella-i-martinet.svg",
-      "assetSvgPath": "assets/svg/montella-i-martinet.svg",
-      "candidatePath": "data/commons-candidates/montella-i-martinet.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
