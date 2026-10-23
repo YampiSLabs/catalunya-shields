@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 340,
-  "missingCount": 607,
+  "downloadedCount": 343,
+  "missingCount": 604,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -5033,36 +5033,6 @@
       "rawSvgPath": "raw/svg/el-mila.svg",
       "assetSvgPath": "assets/svg/el-mila.svg",
       "candidatePath": "data/commons-candidates/el-mila.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-molar": {
-      "slug": "el-molar",
-      "name": "el Molar",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/el-molar.svg",
-      "assetSvgPath": "assets/svg/el-molar.svg",
-      "candidatePath": "data/commons-candidates/el-molar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-montmell": {
-      "slug": "el-montmell",
-      "name": "el Montmell",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/el-montmell.svg",
-      "assetSvgPath": "assets/svg/el-montmell.svg",
-      "candidatePath": "data/commons-candidates/el-montmell.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-morell": {
-      "slug": "el-morell",
-      "name": "el Morell",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/el-morell.svg",
-      "assetSvgPath": "assets/svg/el-morell.svg",
-      "candidatePath": "data/commons-candidates/el-morell.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

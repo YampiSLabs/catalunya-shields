@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **340**
-Pending: **607**
-Progress: **35.9%**
+Downloaded: **343**
+Pending: **604**
+Progress: **36.2%**
 
-`[███████████░░░░░░░░░░░░░░░░░░░] 35.9%`
+`[███████████░░░░░░░░░░░░░░░░░░░] 36.2%`
 
 ## Provinces Overview
 
@@ -204,7 +204,7 @@ Progress: **35.9%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -661,7 +661,7 @@ Progress: **35.9%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **35.9%**
 </details>
 
 <details>
-<summary><b>Tarragona (57/184 - 31.0%)</b></summary>
+<summary><b>Tarragona (60/184 - 32.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -849,9 +849,9 @@ Progress: **35.9%**
 | el Lloar | `el-lloar` | ❌ Pending |
 | el Masroig | `el-masroig` | ❌ Pending |
 | el Milà | `el-mila` | ❌ Pending |
-| el Molar | `el-molar` | ❌ Pending |
-| el Montmell | `el-montmell` | ❌ Pending |
-| el Morell | `el-morell` | ❌ Pending |
+| el Molar | `el-molar` | ✅ Downloaded |
+| el Montmell | `el-montmell` | ✅ Downloaded |
+| el Morell | `el-morell` | ✅ Downloaded |
 | el Perelló | `el-perello` | ✅ Downloaded |
 | el Pinell de Brai | `el-pinell-de-brai` | ✅ Downloaded |
 | el Pla de Santa Maria | `el-pla-de-santa-maria` | ✅ Downloaded |
