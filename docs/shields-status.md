@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **339**
-Pending: **608**
-Progress: **35.8%**
+Downloaded: **340**
+Pending: **607**
+Progress: **35.9%**
 
-`[███████████░░░░░░░░░░░░░░░░░░░] 35.8%`
+`[███████████░░░░░░░░░░░░░░░░░░░] 35.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (113/311 - 36.3%)</b></summary>
+<summary><b>Barcelona (114/311 - 36.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -189,7 +189,7 @@ Progress: **35.8%**
 | Palau-solità i Plegamans | `palau-solita-i-plegamans` | ❌ Pending |
 | Pallejà | `palleja` | ❌ Pending |
 | Parets del Vallès | `parets-del-valles` | ❌ Pending |
-| Perafita | `perafita` | ❌ Pending |
+| Perafita | `perafita` | ✅ Downloaded |
 | Piera | `piera` | ❌ Pending |
 | Pineda de Mar | `pineda-de-mar` | ❌ Pending |
 | Polinyà | `polinya` | ❌ Pending |
@@ -204,7 +204,7 @@ Progress: **35.8%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | 🔍 Has Candidate |
+| Rubí | `rubi` | ❌ Pending |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -461,7 +461,7 @@ Progress: **35.8%**
 | Parlavà | `parlava` | ❌ Pending |
 | Pau | `pau` | ❌ Pending |
 | Pedret i Marzà | `pedret-i-marza` | ❌ Pending |
-| Peralada | `peralada` | ❌ Pending |
+| Peralada | `peralada` | 🔍 Has Candidate |
 | Planoles | `planoles` | ❌ Pending |
 | Pont de Molins | `pont-de-molins` | ❌ Pending |
 | Pontós | `pontos` | ❌ Pending |
@@ -661,7 +661,7 @@ Progress: **35.8%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |

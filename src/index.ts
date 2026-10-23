@@ -272,6 +272,7 @@ export { default as MontRoigDelCamp } from "../assets/svg/mont-roig-del-camp.svg
 export { default as Oliola } from "../assets/svg/oliola.svg";
 export { default as Olius } from "../assets/svg/olius.svg";
 export { default as Olivella } from "../assets/svg/olivella.svg";
+export { default as Perafita } from "../assets/svg/perafita.svg";
 export { default as Pratdip } from "../assets/svg/pratdip.svg";
 export { default as PratsDeLluçanès } from "../assets/svg/prats-de-llucanes.svg";
 export { default as PratsISansor } from "../assets/svg/prats-i-sansor.svg";

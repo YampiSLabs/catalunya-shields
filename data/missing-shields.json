@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 339,
-  "missingCount": 608,
+  "downloadedCount": 340,
+  "missingCount": 607,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2023,16 +2023,6 @@
       "rawSvgPath": "raw/svg/penelles.svg",
       "assetSvgPath": "assets/svg/penelles.svg",
       "candidatePath": "data/commons-candidates/penelles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "perafita": {
-      "slug": "perafita",
-      "name": "Perafita",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/perafita.svg",
-      "assetSvgPath": "assets/svg/perafita.svg",
-      "candidatePath": "data/commons-candidates/perafita.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

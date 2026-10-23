@@ -1,0 +1,37 @@
+[
+  {
+    "title": "File:Escut de Peralada.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:237 Castell palau de Peralada, escut dels Rocabertí.JPG",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:245 Castell palau de Peralada, portal est, escut dels Rocabertí.JPG",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:303 Convent de Sant Bartomeu (Peralada), escut dels Çagarriga.JPG",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Peralada - Escut Rocabertí.JPG",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]
