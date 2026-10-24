@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 348,
-  "missingCount": 599,
+  "downloadedCount": 352,
+  "missingCount": 595,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2463,46 +2463,6 @@
       "rawSvgPath": "raw/svg/ribera-durgellet.svg",
       "assetSvgPath": "assets/svg/ribera-durgellet.svg",
       "candidatePath": "data/commons-candidates/ribera-durgellet.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "ribes-de-freser": {
-      "slug": "ribes-de-freser",
-      "name": "Ribes de Freser",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/ribes-de-freser.svg",
-      "assetSvgPath": "assets/svg/ribes-de-freser.svg",
-      "candidatePath": "data/commons-candidates/ribes-de-freser.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "riells-i-viabrea": {
-      "slug": "riells-i-viabrea",
-      "name": "Riells i Viabrea",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/riells-i-viabrea.svg",
-      "assetSvgPath": "assets/svg/riells-i-viabrea.svg",
-      "candidatePath": "data/commons-candidates/riells-i-viabrea.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "riner": {
-      "slug": "riner",
-      "name": "Riner",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/riner.svg",
-      "assetSvgPath": "assets/svg/riner.svg",
-      "candidatePath": "data/commons-candidates/riner.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "ripoll": {
-      "slug": "ripoll",
-      "name": "Ripoll",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/ripoll.svg",
-      "assetSvgPath": "assets/svg/ripoll.svg",
-      "candidatePath": "data/commons-candidates/ripoll.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

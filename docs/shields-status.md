@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **348**
-Pending: **599**
-Progress: **36.7%**
+Downloaded: **352**
+Pending: **595**
+Progress: **37.2%**
 
-`[███████████░░░░░░░░░░░░░░░░░░░] 36.7%`
+`[███████████░░░░░░░░░░░░░░░░░░░] 37.2%`
 
 ## Provinces Overview
 
@@ -204,7 +204,7 @@ Progress: **36.7%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **36.7%**
 </details>
 
 <details>
-<summary><b>Girona (80/221 - 36.2%)</b></summary>
+<summary><b>Girona (83/221 - 37.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -472,9 +472,9 @@ Progress: **36.7%**
 | Queralbs | `queralbs` | ❌ Pending |
 | Rabós | `rabos` | ❌ Pending |
 | Regencós | `regencos` | ❌ Pending |
-| Ribes de Freser | `ribes-de-freser` | ❌ Pending |
-| Riells i Viabrea | `riells-i-viabrea` | ❌ Pending |
-| Ripoll | `ripoll` | ❌ Pending |
+| Ribes de Freser | `ribes-de-freser` | ✅ Downloaded |
+| Riells i Viabrea | `riells-i-viabrea` | ✅ Downloaded |
+| Ripoll | `ripoll` | ✅ Downloaded |
 | Riudarenes | `riudarenes` | ✅ Downloaded |
 | Riudaura | `riudaura` | ✅ Downloaded |
 | Riudellots de la Selva | `riudellots-de-la-selva` | ✅ Downloaded |
@@ -558,7 +558,7 @@ Progress: **36.7%**
 </details>
 
 <details>
-<summary><b>Lleida (91/231 - 39.4%)</b></summary>
+<summary><b>Lleida (92/231 - 39.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **36.7%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -738,7 +738,7 @@ Progress: **36.7%**
 | Rialb | `rialb` | ❌ Pending |
 | Ribera d'Ondara | `ribera-dondara` | ❌ Pending |
 | Ribera d'Urgellet | `ribera-durgellet` | ❌ Pending |
-| Riner | `riner` | ❌ Pending |
+| Riner | `riner` | ✅ Downloaded |
 | Riu de Cerdanya | `riu-de-cerdanya` | ❌ Pending |
 | Rosselló | `rossello` | ✅ Downloaded |
 | Salàs de Pallars | `salas-de-pallars` | ❌ Pending |
