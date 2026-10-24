@@ -1,0 +1,37 @@
+[
+  {
+    "title": "File:Escut de Vallfogona de Riucorb THV-ES.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Vallfogona de Riucorb.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Fogars de Montclús THV-ES.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de Sant Fost de Campsentelles.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:069 Cal Sastre Vell, c. Portal 5 (Vallfogona de Riucorb), escut nobiliari.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

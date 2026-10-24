@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **343**
-Pending: **604**
-Progress: **36.2%**
+Downloaded: **348**
+Pending: **599**
+Progress: **36.7%**
 
-`[███████████░░░░░░░░░░░░░░░░░░░] 36.2%`
+`[███████████░░░░░░░░░░░░░░░░░░░] 36.7%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (114/311 - 36.7%)</b></summary>
+<summary><b>Barcelona (115/311 - 37.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -204,7 +204,7 @@ Progress: **36.2%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | 🔍 Has Candidate |
+| Rubí | `rubi` | ❌ Pending |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -307,7 +307,7 @@ Progress: **36.2%**
 | Vacarisses | `vacarisses` | ❌ Pending |
 | Vallbona d'Anoia | `vallbona-danoia` | ❌ Pending |
 | Vallcebre | `vallcebre` | ❌ Pending |
-| Vallgorguina | `vallgorguina` | ❌ Pending |
+| Vallgorguina | `vallgorguina` | ✅ Downloaded |
 | Vallirana | `vallirana` | ❌ Pending |
 | Vallromanes | `vallromanes` | ❌ Pending |
 | Veciana | `veciana` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **36.2%**
 </details>
 
 <details>
-<summary><b>Girona (79/221 - 35.7%)</b></summary>
+<summary><b>Girona (80/221 - 36.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -531,7 +531,7 @@ Progress: **36.2%**
 | Ultramort | `ultramort` | ❌ Pending |
 | Urús | `urus` | ❌ Pending |
 | Vall-llobrega | `vall-llobrega` | ❌ Pending |
-| Vallfogona de Ripollès | `vallfogona-de-ripolles` | ❌ Pending |
+| Vallfogona de Ripollès | `vallfogona-de-ripolles` | ✅ Downloaded |
 | Ventalló | `ventallo` | ❌ Pending |
 | Verges | `verges` | ❌ Pending |
 | Vidrà | `vidra` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **36.2%**
 </details>
 
 <details>
-<summary><b>Lleida (90/231 - 39.0%)</b></summary>
+<summary><b>Lleida (91/231 - 39.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **36.2%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -780,7 +780,7 @@ Progress: **36.2%**
 | Tremp | `tremp` | ✅ Downloaded |
 | Vall de Cardós | `vall-de-cardos` | ❌ Pending |
 | Vallbona de les Monges | `vallbona-de-les-monges` | ❌ Pending |
-| Vallfogona de Balaguer | `vallfogona-de-balaguer` | ❌ Pending |
+| Vallfogona de Balaguer | `vallfogona-de-balaguer` | ✅ Downloaded |
 | Verdú | `verdu` | ❌ Pending |
 | Vielha e Mijaran | `vielha-e-mijaran` | ❌ Pending |
 | Vila-sana | `vila-sana` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **36.2%**
 </details>
 
 <details>
-<summary><b>Tarragona (60/184 - 32.6%)</b></summary>
+<summary><b>Tarragona (62/184 - 33.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -966,8 +966,8 @@ Progress: **36.2%**
 | Tortosa | `tortosa` | ✅ Downloaded |
 | Ulldecona | `ulldecona` | ❌ Pending |
 | Ulldemolins | `ulldemolins` | ❌ Pending |
-| Vallclara | `vallclara` | ❌ Pending |
-| Vallfogona de Riucorb | `vallfogona-de-riucorb` | ❌ Pending |
+| Vallclara | `vallclara` | ✅ Downloaded |
+| Vallfogona de Riucorb | `vallfogona-de-riucorb` | ✅ Downloaded |
 | Vallmoll | `vallmoll` | ❌ Pending |
 | Valls | `valls` | ❌ Pending |
 | Vandellòs i l'Hospitalet de l'Infant | `vandellos-i-lhospitalet-de-linfant` | ❌ Pending |

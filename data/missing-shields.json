@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 343,
-  "missingCount": 604,
+  "downloadedCount": 348,
+  "missingCount": 599,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4323,56 +4323,6 @@
       "rawSvgPath": "raw/svg/vallcebre.svg",
       "assetSvgPath": "assets/svg/vallcebre.svg",
       "candidatePath": "data/commons-candidates/vallcebre.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vallclara": {
-      "slug": "vallclara",
-      "name": "Vallclara",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/vallclara.svg",
-      "assetSvgPath": "assets/svg/vallclara.svg",
-      "candidatePath": "data/commons-candidates/vallclara.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vallfogona-de-balaguer": {
-      "slug": "vallfogona-de-balaguer",
-      "name": "Vallfogona de Balaguer",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/vallfogona-de-balaguer.svg",
-      "assetSvgPath": "assets/svg/vallfogona-de-balaguer.svg",
-      "candidatePath": "data/commons-candidates/vallfogona-de-balaguer.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vallfogona-de-ripolles": {
-      "slug": "vallfogona-de-ripolles",
-      "name": "Vallfogona de Ripollès",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/vallfogona-de-ripolles.svg",
-      "assetSvgPath": "assets/svg/vallfogona-de-ripolles.svg",
-      "candidatePath": "data/commons-candidates/vallfogona-de-ripolles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vallfogona-de-riucorb": {
-      "slug": "vallfogona-de-riucorb",
-      "name": "Vallfogona de Riucorb",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/vallfogona-de-riucorb.svg",
-      "assetSvgPath": "assets/svg/vallfogona-de-riucorb.svg",
-      "candidatePath": "data/commons-candidates/vallfogona-de-riucorb.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vallgorguina": {
-      "slug": "vallgorguina",
-      "name": "Vallgorguina",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/vallgorguina.svg",
-      "assetSvgPath": "assets/svg/vallgorguina.svg",
-      "candidatePath": "data/commons-candidates/vallgorguina.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
