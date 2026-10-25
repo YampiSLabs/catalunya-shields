@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **355**
-Pending: **592**
-Progress: **37.5%**
+Downloaded: **362**
+Pending: **585**
+Progress: **38.2%**
 
-`[███████████░░░░░░░░░░░░░░░░░░░] 37.5%`
+`[███████████░░░░░░░░░░░░░░░░░░░] 38.2%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (117/311 - 37.6%)</b></summary>
+<summary><b>Barcelona (121/311 - 38.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -204,7 +204,7 @@ Progress: **37.5%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -239,13 +239,13 @@ Progress: **37.5%**
 | Sant Julià de Cerdanyola | `sant-julia-de-cerdanyola` | ❌ Pending |
 | Sant Julià de Vilatorta | `sant-julia-de-vilatorta` | ❌ Pending |
 | Sant Just Desvern | `sant-just-desvern` | ❌ Pending |
-| Sant Llorenç d'Hortons | `sant-llorenc-dhortons` | ❌ Pending |
+| Sant Llorenç d'Hortons | `sant-llorenc-dhortons` | ✅ Downloaded |
 | Sant Llorenç Savall | `sant-llorenc-savall` | ❌ Pending |
 | Sant Martí d'Albars | `sant-marti-dalbars` | ❌ Pending |
-| Sant Martí de Centelles | `sant-marti-de-centelles` | ❌ Pending |
+| Sant Martí de Centelles | `sant-marti-de-centelles` | ✅ Downloaded |
 | Sant Martí de Tous | `sant-marti-de-tous` | ❌ Pending |
-| Sant Martí Sarroca | `sant-marti-sarroca` | ❌ Pending |
-| Sant Martí Sesgueioles | `sant-marti-sesgueioles` | ❌ Pending |
+| Sant Martí Sarroca | `sant-marti-sarroca` | ✅ Downloaded |
+| Sant Martí Sesgueioles | `sant-marti-sesgueioles` | ✅ Downloaded |
 | Sant Mateu de Bages | `sant-mateu-de-bages` | ❌ Pending |
 | Sant Pere de Ribes | `sant-pere-de-ribes` | ✅ Downloaded |
 | Sant Pere de Riudebitlles | `sant-pere-de-riudebitlles` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **37.5%**
 </details>
 
 <details>
-<summary><b>Girona (83/221 - 37.6%)</b></summary>
+<summary><b>Girona (85/221 - 38.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -499,9 +499,9 @@ Progress: **37.5%**
 | Sant Jordi Desvalls | `sant-jordi-desvalls` | ❌ Pending |
 | Sant Julià de Ramis | `sant-julia-de-ramis` | ❌ Pending |
 | Sant Julià del Llor i Bonmatí | `sant-julia-del-llor-i-bonmati` | ❌ Pending |
-| Sant Llorenç de la Muga | `sant-llorenc-de-la-muga` | ❌ Pending |
-| Sant Martí de Llémena | `sant-marti-de-llemena` | ❌ Pending |
-| Sant Martí Vell | `sant-marti-vell` | ❌ Pending |
+| Sant Llorenç de la Muga | `sant-llorenc-de-la-muga` | ✅ Downloaded |
+| Sant Martí de Llémena | `sant-marti-de-llemena` | 🔍 Has Candidate |
+| Sant Martí Vell | `sant-marti-vell` | ✅ Downloaded |
 | Sant Miquel de Campmajor | `sant-miquel-de-campmajor` | ❌ Pending |
 | Sant Miquel de Fluvià | `sant-miquel-de-fluvia` | ❌ Pending |
 | Sant Mori | `sant-mori` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **37.5%**
 </details>
 
 <details>
-<summary><b>Lleida (92/231 - 39.8%)</b></summary>
+<summary><b>Lleida (93/231 - 40.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **37.5%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -746,7 +746,7 @@ Progress: **37.5%**
 | Sant Esteve de la Sarga | `sant-esteve-de-la-sarga` | ❌ Pending |
 | Sant Guim de Freixenet | `sant-guim-de-freixenet` | ❌ Pending |
 | Sant Guim de la Plana | `sant-guim-de-la-plana` | ❌ Pending |
-| Sant Llorenç de Morunys | `sant-llorenc-de-morunys` | ❌ Pending |
+| Sant Llorenç de Morunys | `sant-llorenc-de-morunys` | ✅ Downloaded |
 | Sant Martí de Riucorb | `sant-marti-de-riucorb` | ❌ Pending |
 | Sant Ramon | `sant-ramon` | ❌ Pending |
 | Sarroca de Bellera | `sarroca-de-bellera` | ❌ Pending |

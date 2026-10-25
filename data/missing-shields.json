@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 355,
-  "missingCount": 592,
+  "downloadedCount": 362,
+  "missingCount": 585,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3106,66 +3106,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "sant-llorenc-dhortons": {
-      "slug": "sant-llorenc-dhortons",
-      "name": "Sant Llorenç d'Hortons",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-llorenc-dhortons.svg",
-      "assetSvgPath": "assets/svg/sant-llorenc-dhortons.svg",
-      "candidatePath": "data/commons-candidates/sant-llorenc-dhortons.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-llorenc-de-morunys": {
-      "slug": "sant-llorenc-de-morunys",
-      "name": "Sant Llorenç de Morunys",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/sant-llorenc-de-morunys.svg",
-      "assetSvgPath": "assets/svg/sant-llorenc-de-morunys.svg",
-      "candidatePath": "data/commons-candidates/sant-llorenc-de-morunys.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-llorenc-de-la-muga": {
-      "slug": "sant-llorenc-de-la-muga",
-      "name": "Sant Llorenç de la Muga",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/sant-llorenc-de-la-muga.svg",
-      "assetSvgPath": "assets/svg/sant-llorenc-de-la-muga.svg",
-      "candidatePath": "data/commons-candidates/sant-llorenc-de-la-muga.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-marti-sarroca": {
-      "slug": "sant-marti-sarroca",
-      "name": "Sant Martí Sarroca",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-marti-sarroca.svg",
-      "assetSvgPath": "assets/svg/sant-marti-sarroca.svg",
-      "candidatePath": "data/commons-candidates/sant-marti-sarroca.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-marti-sesgueioles": {
-      "slug": "sant-marti-sesgueioles",
-      "name": "Sant Martí Sesgueioles",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-marti-sesgueioles.svg",
-      "assetSvgPath": "assets/svg/sant-marti-sesgueioles.svg",
-      "candidatePath": "data/commons-candidates/sant-marti-sesgueioles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-marti-vell": {
-      "slug": "sant-marti-vell",
-      "name": "Sant Martí Vell",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/sant-marti-vell.svg",
-      "assetSvgPath": "assets/svg/sant-marti-vell.svg",
-      "candidatePath": "data/commons-candidates/sant-marti-vell.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "sant-marti-dalbars": {
       "slug": "sant-marti-dalbars",
       "name": "Sant Martí d'Albars",
@@ -3173,16 +3113,6 @@
       "rawSvgPath": "raw/svg/sant-marti-dalbars.svg",
       "assetSvgPath": "assets/svg/sant-marti-dalbars.svg",
       "candidatePath": "data/commons-candidates/sant-marti-dalbars.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-marti-de-centelles": {
-      "slug": "sant-marti-de-centelles",
-      "name": "Sant Martí de Centelles",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-marti-de-centelles.svg",
-      "assetSvgPath": "assets/svg/sant-marti-de-centelles.svg",
-      "candidatePath": "data/commons-candidates/sant-marti-de-centelles.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
