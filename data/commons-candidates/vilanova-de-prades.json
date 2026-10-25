@@ -1,0 +1,30 @@
+[
+  {
+    "title": "File:Escut de Vilanova de Prades (2015).svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Vilanova de Prades.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut amb les tres torres acompanyades de la flor de lis..jpg",
+    "score": 50,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut oficial de Vilanova de Prades.png",
+    "score": 50,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

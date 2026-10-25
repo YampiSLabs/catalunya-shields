@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **352**
-Pending: **595**
-Progress: **37.2%**
+Downloaded: **355**
+Pending: **592**
+Progress: **37.5%**
 
-`[███████████░░░░░░░░░░░░░░░░░░░] 37.2%`
+`[███████████░░░░░░░░░░░░░░░░░░░] 37.5%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (115/311 - 37.0%)</b></summary>
+<summary><b>Barcelona (117/311 - 37.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -204,7 +204,7 @@ Progress: **37.2%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | 🔍 Has Candidate |
+| Rubí | `rubi` | ❌ Pending |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -318,9 +318,9 @@ Progress: **37.2%**
 | Vilafranca del Penedès | `vilafranca-del-penedes` | ❌ Pending |
 | Vilalba Sasserra | `vilalba-sasserra` | ❌ Pending |
 | Vilanova de Sau | `vilanova-de-sau` | ✅ Downloaded |
-| Vilanova del Camí | `vilanova-del-cami` | 🔍 Has Candidate |
-| Vilanova del Vallès | `vilanova-del-valles` | ❌ Pending |
-| Vilanova i la Geltrú | `vilanova-i-la-geltru` | ❌ Pending |
+| Vilanova del Camí | `vilanova-del-cami` | ✅ Downloaded |
+| Vilanova del Vallès | `vilanova-del-valles` | ✅ Downloaded |
+| Vilanova i la Geltrú | `vilanova-i-la-geltru` | 🔍 Has Candidate |
 | Vilassar de Dalt | `vilassar-de-dalt` | ❌ Pending |
 | Vilassar de Mar | `vilassar-de-mar` | ❌ Pending |
 | Vilobí del Penedès | `vilobi-del-penedes` | ❌ Pending |
@@ -661,7 +661,7 @@ Progress: **37.2%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **37.2%**
 </details>
 
 <details>
-<summary><b>Tarragona (62/184 - 33.7%)</b></summary>
+<summary><b>Tarragona (63/184 - 34.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -978,7 +978,7 @@ Progress: **37.2%**
 | Vilalba dels Arcs | `vilalba-dels-arcs` | ❌ Pending |
 | Vilallonga del Camp | `vilallonga-del-camp` | ❌ Pending |
 | Vilanova d'Escornalbou | `vilanova-descornalbou` | ❌ Pending |
-| Vilanova de Prades | `vilanova-de-prades` | ❌ Pending |
+| Vilanova de Prades | `vilanova-de-prades` | ✅ Downloaded |
 | Vilaplana | `vilaplana` | ❌ Pending |
 | Vilaverd | `vilaverd` | ❌ Pending |
 | Vimbodí i Poblet | `vimbodi-i-poblet` | ❌ Pending |

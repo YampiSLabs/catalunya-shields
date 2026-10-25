@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 352,
-  "missingCount": 595,
+  "downloadedCount": 355,
+  "missingCount": 592,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4656,16 +4656,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "vilanova-de-prades": {
-      "slug": "vilanova-de-prades",
-      "name": "Vilanova de Prades",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/vilanova-de-prades.svg",
-      "assetSvgPath": "assets/svg/vilanova-de-prades.svg",
-      "candidatePath": "data/commons-candidates/vilanova-de-prades.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "vilanova-de-laguda": {
       "slug": "vilanova-de-laguda",
       "name": "Vilanova de l'Aguda",
@@ -4673,26 +4663,6 @@
       "rawSvgPath": "raw/svg/vilanova-de-laguda.svg",
       "assetSvgPath": "assets/svg/vilanova-de-laguda.svg",
       "candidatePath": "data/commons-candidates/vilanova-de-laguda.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vilanova-del-cami": {
-      "slug": "vilanova-del-cami",
-      "name": "Vilanova del Camí",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/vilanova-del-cami.svg",
-      "assetSvgPath": "assets/svg/vilanova-del-cami.svg",
-      "candidatePath": "data/commons-candidates/vilanova-del-cami.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vilanova-del-valles": {
-      "slug": "vilanova-del-valles",
-      "name": "Vilanova del Vallès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/vilanova-del-valles.svg",
-      "assetSvgPath": "assets/svg/vilanova-del-valles.svg",
-      "candidatePath": "data/commons-candidates/vilanova-del-valles.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

@@ -348,5 +348,8 @@ export { default as Viladecavalls } from "../assets/svg/viladecavalls.svg";
 export { default as Vilademuls } from "../assets/svg/vilademuls.svg";
 export { default as Viladrau } from "../assets/svg/viladrau.svg";
 export { default as VilanovaDeLaBarca } from "../assets/svg/vilanova-de-la-barca.svg";
+export { default as VilanovaDelCamí } from "../assets/svg/vilanova-del-cami.svg";
+export { default as VilanovaDelVallès } from "../assets/svg/vilanova-del-valles.svg";
+export { default as VilanovaDePrades } from "../assets/svg/vilanova-de-prades.svg";
 export { default as VilanovaDeSau } from "../assets/svg/vilanova-de-sau.svg";
 export { default as VilanovaDeSegrià } from "../assets/svg/vilanova-de-segria.svg";
