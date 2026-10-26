@@ -1,0 +1,23 @@
+[
+  {
+    "title": "File:Escut de Torredembarra.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:064 Antic escut de Torredembarra, c. Joan Güell 19 - c. Forn, vora la torre de la Vila.jpg",
+    "score": -40,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:078 Antic Ajuntament, pl. de la Vila (Torredembarra), escut.jpg",
+    "score": -40,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

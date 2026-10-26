@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **362**
-Pending: **585**
-Progress: **38.2%**
+Downloaded: **365**
+Pending: **582**
+Progress: **38.5%**
 
-`[███████████░░░░░░░░░░░░░░░░░░░] 38.2%`
+`[████████████░░░░░░░░░░░░░░░░░░] 38.5%`
 
 ## Provinces Overview
 
@@ -204,7 +204,7 @@ Progress: **38.2%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | 🔍 Has Candidate |
+| Rubí | `rubi` | ❌ Pending |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -500,7 +500,7 @@ Progress: **38.2%**
 | Sant Julià de Ramis | `sant-julia-de-ramis` | ❌ Pending |
 | Sant Julià del Llor i Bonmatí | `sant-julia-del-llor-i-bonmati` | ❌ Pending |
 | Sant Llorenç de la Muga | `sant-llorenc-de-la-muga` | ✅ Downloaded |
-| Sant Martí de Llémena | `sant-marti-de-llemena` | 🔍 Has Candidate |
+| Sant Martí de Llémena | `sant-marti-de-llemena` | ❌ Pending |
 | Sant Martí Vell | `sant-marti-vell` | ✅ Downloaded |
 | Sant Miquel de Campmajor | `sant-miquel-de-campmajor` | ❌ Pending |
 | Sant Miquel de Fluvià | `sant-miquel-de-fluvia` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **38.2%**
 </details>
 
 <details>
-<summary><b>Lleida (93/231 - 40.3%)</b></summary>
+<summary><b>Lleida (95/231 - 41.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **38.2%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -769,10 +769,10 @@ Progress: **38.2%**
 | Tírvia | `tirvia` | ❌ Pending |
 | Tiurana | `tiurana` | ✅ Downloaded |
 | Torà | `tora` | ❌ Pending |
-| Tornabous | `tornabous` | ❌ Pending |
+| Tornabous | `tornabous` | ✅ Downloaded |
 | Torre-serona | `torre-serona` | ❌ Pending |
-| Torrebesses | `torrebesses` | ❌ Pending |
-| Torrefarrera | `torrefarrera` | ❌ Pending |
+| Torrebesses | `torrebesses` | ✅ Downloaded |
+| Torrefarrera | `torrefarrera` | 🔍 Has Candidate |
 | Torrefeta i Florejacs | `torrefeta-i-florejacs` | ❌ Pending |
 | Torregrossa | `torregrossa` | ❌ Pending |
 | Torrelameu | `torrelameu` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **38.2%**
 </details>
 
 <details>
-<summary><b>Tarragona (63/184 - 34.2%)</b></summary>
+<summary><b>Tarragona (64/184 - 34.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -961,7 +961,7 @@ Progress: **38.2%**
 | Tarragona | `tarragona` | ❌ Pending |
 | Tivenys | `tivenys` | ✅ Downloaded |
 | Tivissa | `tivissa` | ✅ Downloaded |
-| Torredembarra | `torredembarra` | ❌ Pending |
+| Torredembarra | `torredembarra` | ✅ Downloaded |
 | Torroja del Priorat | `torroja-del-priorat` | ❌ Pending |
 | Tortosa | `tortosa` | ✅ Downloaded |
 | Ulldecona | `ulldecona` | ❌ Pending |

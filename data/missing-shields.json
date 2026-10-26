@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 362,
-  "missingCount": 585,
+  "downloadedCount": 365,
+  "missingCount": 582,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3956,16 +3956,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "tornabous": {
-      "slug": "tornabous",
-      "name": "Tornabous",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/tornabous.svg",
-      "assetSvgPath": "assets/svg/tornabous.svg",
-      "candidatePath": "data/commons-candidates/tornabous.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "torre-serona": {
       "slug": "torre-serona",
       "name": "Torre-serona",
@@ -3973,26 +3963,6 @@
       "rawSvgPath": "raw/svg/torre-serona.svg",
       "assetSvgPath": "assets/svg/torre-serona.svg",
       "candidatePath": "data/commons-candidates/torre-serona.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torrebesses": {
-      "slug": "torrebesses",
-      "name": "Torrebesses",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/torrebesses.svg",
-      "assetSvgPath": "assets/svg/torrebesses.svg",
-      "candidatePath": "data/commons-candidates/torrebesses.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torredembarra": {
-      "slug": "torredembarra",
-      "name": "Torredembarra",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/torredembarra.svg",
-      "assetSvgPath": "assets/svg/torredembarra.svg",
-      "candidatePath": "data/commons-candidates/torredembarra.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
