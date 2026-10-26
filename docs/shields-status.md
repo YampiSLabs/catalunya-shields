@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **365**
-Pending: **582**
-Progress: **38.5%**
+Downloaded: **369**
+Pending: **578**
+Progress: **39.0%**
 
-`[████████████░░░░░░░░░░░░░░░░░░] 38.5%`
+`[████████████░░░░░░░░░░░░░░░░░░] 39.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (121/311 - 38.9%)</b></summary>
+<summary><b>Barcelona (123/311 - 39.5%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -204,7 +204,7 @@ Progress: **38.5%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -265,9 +265,9 @@ Progress: **38.5%**
 | Sant Vicenç de Torelló | `sant-vicenc-de-torello` | ❌ Pending |
 | Sant Vicenç dels Horts | `sant-vicenc-dels-horts` | ❌ Pending |
 | Santa Cecília de Voltregà | `santa-cecilia-de-voltrega` | ❌ Pending |
-| Santa Coloma de Cervelló | `santa-coloma-de-cervello` | ❌ Pending |
+| Santa Coloma de Cervelló | `santa-coloma-de-cervello` | ✅ Downloaded |
 | Santa Coloma de Gramenet | `santa-coloma-de-gramenet` | ✅ Downloaded |
-| Santa Eugènia de Berga | `santa-eugenia-de-berga` | ❌ Pending |
+| Santa Eugènia de Berga | `santa-eugenia-de-berga` | ✅ Downloaded |
 | Santa Eulàlia de Riuprimer | `santa-eulalia-de-riuprimer` | ❌ Pending |
 | Santa Eulàlia de Ronçana | `santa-eulalia-de-roncana` | ❌ Pending |
 | Santa Fe del Penedès | `santa-fe-del-penedes` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **38.5%**
 </details>
 
 <details>
-<summary><b>Girona (85/221 - 38.5%)</b></summary>
+<summary><b>Girona (86/221 - 38.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -500,14 +500,14 @@ Progress: **38.5%**
 | Sant Julià de Ramis | `sant-julia-de-ramis` | ❌ Pending |
 | Sant Julià del Llor i Bonmatí | `sant-julia-del-llor-i-bonmati` | ❌ Pending |
 | Sant Llorenç de la Muga | `sant-llorenc-de-la-muga` | ✅ Downloaded |
-| Sant Martí de Llémena | `sant-marti-de-llemena` | ❌ Pending |
+| Sant Martí de Llémena | `sant-marti-de-llemena` | 🔍 Has Candidate |
 | Sant Martí Vell | `sant-marti-vell` | ✅ Downloaded |
 | Sant Miquel de Campmajor | `sant-miquel-de-campmajor` | ❌ Pending |
 | Sant Miquel de Fluvià | `sant-miquel-de-fluvia` | ❌ Pending |
 | Sant Mori | `sant-mori` | ❌ Pending |
 | Sant Pau de Segúries | `sant-pau-de-seguries` | ✅ Downloaded |
 | Sant Pere Pescador | `sant-pere-pescador` | ✅ Downloaded |
-| Santa Coloma de Farners | `santa-coloma-de-farners` | ❌ Pending |
+| Santa Coloma de Farners | `santa-coloma-de-farners` | ✅ Downloaded |
 | Santa Cristina d'Aro | `santa-cristina-daro` | ❌ Pending |
 | Santa Llogaia d'Àlguema | `santa-llogaia-dalguema` | ❌ Pending |
 | Santa Pau | `santa-pau` | ❌ Pending |
@@ -661,7 +661,7 @@ Progress: **38.5%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **38.5%**
 </details>
 
 <details>
-<summary><b>Tarragona (64/184 - 34.8%)</b></summary>
+<summary><b>Tarragona (65/184 - 35.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -951,7 +951,7 @@ Progress: **38.5%**
 | Salou | `salou` | ❌ Pending |
 | Sant Jaume d'Enveja | `sant-jaume-denveja` | ❌ Pending |
 | Sant Jaume dels Domenys | `sant-jaume-dels-domenys` | ❌ Pending |
-| Santa Bàrbara | `santa-barbara` | ❌ Pending |
+| Santa Bàrbara | `santa-barbara` | ✅ Downloaded |
 | Santa Coloma de Queralt | `santa-coloma-de-queralt` | ❌ Pending |
 | Santa Oliva | `santa-oliva` | ❌ Pending |
 | Sarral | `sarral` | ❌ Pending |

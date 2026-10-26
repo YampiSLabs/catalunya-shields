@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 365,
-  "missingCount": 582,
+  "downloadedCount": 369,
+  "missingCount": 578,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3286,16 +3286,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "santa-barbara": {
-      "slug": "santa-barbara",
-      "name": "Santa Bàrbara",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/santa-barbara.svg",
-      "assetSvgPath": "assets/svg/santa-barbara.svg",
-      "candidatePath": "data/commons-candidates/santa-barbara.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "santa-cecilia-de-voltrega": {
       "slug": "santa-cecilia-de-voltrega",
       "name": "Santa Cecília de Voltregà",
@@ -3303,26 +3293,6 @@
       "rawSvgPath": "raw/svg/santa-cecilia-de-voltrega.svg",
       "assetSvgPath": "assets/svg/santa-cecilia-de-voltrega.svg",
       "candidatePath": "data/commons-candidates/santa-cecilia-de-voltrega.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-coloma-de-cervello": {
-      "slug": "santa-coloma-de-cervello",
-      "name": "Santa Coloma de Cervelló",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-coloma-de-cervello.svg",
-      "assetSvgPath": "assets/svg/santa-coloma-de-cervello.svg",
-      "candidatePath": "data/commons-candidates/santa-coloma-de-cervello.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-coloma-de-farners": {
-      "slug": "santa-coloma-de-farners",
-      "name": "Santa Coloma de Farners",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/santa-coloma-de-farners.svg",
-      "assetSvgPath": "assets/svg/santa-coloma-de-farners.svg",
-      "candidatePath": "data/commons-candidates/santa-coloma-de-farners.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
@@ -3343,16 +3313,6 @@
       "rawSvgPath": "raw/svg/santa-cristina-daro.svg",
       "assetSvgPath": "assets/svg/santa-cristina-daro.svg",
       "candidatePath": "data/commons-candidates/santa-cristina-daro.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-eugenia-de-berga": {
-      "slug": "santa-eugenia-de-berga",
-      "name": "Santa Eugènia de Berga",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-eugenia-de-berga.svg",
-      "assetSvgPath": "assets/svg/santa-eugenia-de-berga.svg",
-      "candidatePath": "data/commons-candidates/santa-eugenia-de-berga.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
