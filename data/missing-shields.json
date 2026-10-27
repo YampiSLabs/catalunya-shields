@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 369,
-  "missingCount": 578,
+  "downloadedCount": 371,
+  "missingCount": 576,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1423,26 +1423,6 @@
       "rawSvgPath": "raw/svg/montbrio-del-camp.svg",
       "assetSvgPath": "assets/svg/montbrio-del-camp.svg",
       "candidatePath": "data/commons-candidates/montbrio-del-camp.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montesquiu": {
-      "slug": "montesquiu",
-      "name": "Montesquiu",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/montesquiu.svg",
-      "assetSvgPath": "assets/svg/montesquiu.svg",
-      "candidatePath": "data/commons-candidates/montesquiu.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montferrer-i-castellbo": {
-      "slug": "montferrer-i-castellbo",
-      "name": "Montferrer i Castellbò",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/montferrer-i-castellbo.svg",
-      "assetSvgPath": "assets/svg/montferrer-i-castellbo.svg",
-      "candidatePath": "data/commons-candidates/montferrer-i-castellbo.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

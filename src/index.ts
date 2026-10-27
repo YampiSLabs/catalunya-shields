@@ -269,6 +269,8 @@ export { default as Montblanc } from "../assets/svg/montblanc.svg";
 export { default as MontcadaIReixac } from "../assets/svg/montcada-i-reixac.svg";
 export { default as Montclar } from "../assets/svg/montclar.svg";
 export { default as MontellàIMartinet } from "../assets/svg/montella-i-martinet.svg";
+export { default as Montesquiu } from "../assets/svg/montesquiu.svg";
+export { default as MontferrerICastellbò } from "../assets/svg/montferrer-i-castellbo.svg";
 export { default as MontRal } from "../assets/svg/mont-ral.svg";
 export { default as MontRas } from "../assets/svg/mont-ras.svg";
 export { default as MontRoigDelCamp } from "../assets/svg/mont-roig-del-camp.svg";
