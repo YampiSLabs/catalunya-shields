@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 371,
-  "missingCount": 576,
+  "downloadedCount": 374,
+  "missingCount": 573,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1703,36 +1703,6 @@
       "rawSvgPath": "raw/svg/olost.svg",
       "assetSvgPath": "assets/svg/olost.svg",
       "candidatePath": "data/commons-candidates/olost.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "olot": {
-      "slug": "olot",
-      "name": "Olot",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/olot.svg",
-      "assetSvgPath": "assets/svg/olot.svg",
-      "candidatePath": "data/commons-candidates/olot.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "olvan": {
-      "slug": "olvan",
-      "name": "Olvan",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/olvan.svg",
-      "assetSvgPath": "assets/svg/olvan.svg",
-      "candidatePath": "data/commons-candidates/olvan.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "olerdola": {
-      "slug": "olerdola",
-      "name": "Olèrdola",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/olerdola.svg",
-      "assetSvgPath": "assets/svg/olerdola.svg",
-      "candidatePath": "data/commons-candidates/olerdola.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

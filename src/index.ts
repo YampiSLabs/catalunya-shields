@@ -274,9 +274,12 @@ export { default as MontferrerICastellbò } from "../assets/svg/montferrer-i-cas
 export { default as MontRal } from "../assets/svg/mont-ral.svg";
 export { default as MontRas } from "../assets/svg/mont-ras.svg";
 export { default as MontRoigDelCamp } from "../assets/svg/mont-roig-del-camp.svg";
+export { default as Olèrdola } from "../assets/svg/olerdola.svg";
 export { default as Oliola } from "../assets/svg/oliola.svg";
 export { default as Olius } from "../assets/svg/olius.svg";
 export { default as Olivella } from "../assets/svg/olivella.svg";
+export { default as Olot } from "../assets/svg/olot.svg";
+export { default as Olvan } from "../assets/svg/olvan.svg";
 export { default as Perafita } from "../assets/svg/perafita.svg";
 export { default as Pratdip } from "../assets/svg/pratdip.svg";
 export { default as PratsDeLluçanès } from "../assets/svg/prats-de-llucanes.svg";
