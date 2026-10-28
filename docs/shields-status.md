@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **377**
-Pending: **570**
-Progress: **39.8%**
+Downloaded: **386**
+Pending: **561**
+Progress: **40.8%**
 
-`[████████████░░░░░░░░░░░░░░░░░░] 39.8%`
+`[████████████░░░░░░░░░░░░░░░░░░] 40.8%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (128/311 - 41.2%)</b></summary>
+<summary><b>Barcelona (131/311 - 42.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -111,9 +111,9 @@ Progress: **39.8%**
 | Gallifa | `gallifa` | ❌ Pending |
 | Gavà | `gava` | ✅ Downloaded |
 | Gelida | `gelida` | ✅ Downloaded |
-| Gironella | `gironella` | ❌ Pending |
-| Gisclareny | `gisclareny` | ❌ Pending |
-| Granera | `granera` | ❌ Pending |
+| Gironella | `gironella` | ✅ Downloaded |
+| Gisclareny | `gisclareny` | ✅ Downloaded |
+| Granera | `granera` | ✅ Downloaded |
 | Granollers | `granollers` | ❌ Pending |
 | Gualba | `gualba` | ❌ Pending |
 | Guardiola de Berguedà | `guardiola-de-bergueda` | ❌ Pending |
@@ -204,7 +204,7 @@ Progress: **39.8%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **39.8%**
 </details>
 
 <details>
-<summary><b>Girona (87/221 - 39.4%)</b></summary>
+<summary><b>Girona (89/221 - 40.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -403,8 +403,8 @@ Progress: **39.8%**
 | Garrigoles | `garrigoles` | ❌ Pending |
 | Garriguella | `garriguella` | ✅ Downloaded |
 | Ger | `ger` | ✅ Downloaded |
-| Girona | `girona` | ❌ Pending |
-| Gombrèn | `gombren` | ❌ Pending |
+| Girona | `girona` | ✅ Downloaded |
+| Gombrèn | `gombren` | ✅ Downloaded |
 | Gualta | `gualta` | ❌ Pending |
 | Guils de Cerdanya | `guils-de-cerdanya` | ❌ Pending |
 | Hostalric | `hostalric` | ✅ Downloaded |
@@ -448,7 +448,7 @@ Progress: **39.8%**
 | Navata | `navata` | ❌ Pending |
 | Ogassa | `ogassa` | ❌ Pending |
 | Olot | `olot` | ✅ Downloaded |
-| Ordis | `ordis` | ❌ Pending |
+| Ordis | `ordis` | 🔍 Has Candidate |
 | Osor | `osor` | ❌ Pending |
 | Palafrugell | `palafrugell` | ❌ Pending |
 | Palamós | `palamos` | ❌ Pending |
@@ -500,7 +500,7 @@ Progress: **39.8%**
 | Sant Julià de Ramis | `sant-julia-de-ramis` | ❌ Pending |
 | Sant Julià del Llor i Bonmatí | `sant-julia-del-llor-i-bonmati` | ❌ Pending |
 | Sant Llorenç de la Muga | `sant-llorenc-de-la-muga` | ✅ Downloaded |
-| Sant Martí de Llémena | `sant-marti-de-llemena` | ❌ Pending |
+| Sant Martí de Llémena | `sant-marti-de-llemena` | 🔍 Has Candidate |
 | Sant Martí Vell | `sant-marti-vell` | ✅ Downloaded |
 | Sant Miquel de Campmajor | `sant-miquel-de-campmajor` | ❌ Pending |
 | Sant Miquel de Fluvià | `sant-miquel-de-fluvia` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **39.8%**
 </details>
 
 <details>
-<summary><b>Lleida (97/231 - 42.0%)</b></summary>
+<summary><b>Lleida (99/231 - 42.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -650,8 +650,8 @@ Progress: **39.8%**
 | Foradada | `foradada` | ❌ Pending |
 | Fulleda | `fulleda` | ❌ Pending |
 | Gavet de la Conca | `gavet-de-la-conca` | ✅ Downloaded |
-| Gimenells i el Pla de la Font | `gimenells-i-el-pla-de-la-font` | ❌ Pending |
-| Golmés | `golmes` | ❌ Pending |
+| Gimenells i el Pla de la Font | `gimenells-i-el-pla-de-la-font` | ✅ Downloaded |
+| Golmés | `golmes` | ✅ Downloaded |
 | Gósol | `gosol` | ✅ Downloaded |
 | Granyanella | `granyanella` | ❌ Pending |
 | Granyena de les Garrigues | `granyena-de-les-garrigues` | ❌ Pending |
@@ -661,7 +661,7 @@ Progress: **39.8%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **39.8%**
 </details>
 
 <details>
-<summary><b>Tarragona (65/184 - 35.3%)</b></summary>
+<summary><b>Tarragona (67/184 - 36.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -868,8 +868,8 @@ Progress: **39.8%**
 | Freginals | `freginals` | ❌ Pending |
 | Gandesa | `gandesa` | ✅ Downloaded |
 | Garcia | `garcia` | ✅ Downloaded |
-| Ginestar | `ginestar` | ❌ Pending |
-| Godall | `godall` | ❌ Pending |
+| Ginestar | `ginestar` | ✅ Downloaded |
+| Godall | `godall` | ✅ Downloaded |
 | Gratallops | `gratallops` | ❌ Pending |
 | Horta de Sant Joan | `horta-de-sant-joan` | ✅ Downloaded |
 | l'Albiol | `lalbiol` | ❌ Pending |

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 377,
-  "missingCount": 570,
+  "downloadedCount": 386,
+  "missingCount": 561,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -613,96 +613,6 @@
       "rawSvgPath": "raw/svg/garrigoles.svg",
       "assetSvgPath": "assets/svg/garrigoles.svg",
       "candidatePath": "data/commons-candidates/garrigoles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gimenells-i-el-pla-de-la-font": {
-      "slug": "gimenells-i-el-pla-de-la-font",
-      "name": "Gimenells i el Pla de la Font",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/gimenells-i-el-pla-de-la-font.svg",
-      "assetSvgPath": "assets/svg/gimenells-i-el-pla-de-la-font.svg",
-      "candidatePath": "data/commons-candidates/gimenells-i-el-pla-de-la-font.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "ginestar": {
-      "slug": "ginestar",
-      "name": "Ginestar",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/ginestar.svg",
-      "assetSvgPath": "assets/svg/ginestar.svg",
-      "candidatePath": "data/commons-candidates/ginestar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "girona": {
-      "slug": "girona",
-      "name": "Girona",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/girona.svg",
-      "assetSvgPath": "assets/svg/girona.svg",
-      "candidatePath": "data/commons-candidates/girona.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gironella": {
-      "slug": "gironella",
-      "name": "Gironella",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/gironella.svg",
-      "assetSvgPath": "assets/svg/gironella.svg",
-      "candidatePath": "data/commons-candidates/gironella.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gisclareny": {
-      "slug": "gisclareny",
-      "name": "Gisclareny",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/gisclareny.svg",
-      "assetSvgPath": "assets/svg/gisclareny.svg",
-      "candidatePath": "data/commons-candidates/gisclareny.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "godall": {
-      "slug": "godall",
-      "name": "Godall",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/godall.svg",
-      "assetSvgPath": "assets/svg/godall.svg",
-      "candidatePath": "data/commons-candidates/godall.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "golmes": {
-      "slug": "golmes",
-      "name": "Golmés",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/golmes.svg",
-      "assetSvgPath": "assets/svg/golmes.svg",
-      "candidatePath": "data/commons-candidates/golmes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gombren": {
-      "slug": "gombren",
-      "name": "Gombrèn",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/gombren.svg",
-      "assetSvgPath": "assets/svg/gombren.svg",
-      "candidatePath": "data/commons-candidates/gombren.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "granera": {
-      "slug": "granera",
-      "name": "Granera",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/granera.svg",
-      "assetSvgPath": "assets/svg/granera.svg",
-      "candidatePath": "data/commons-candidates/granera.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
