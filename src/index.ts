@@ -1,4 +1,5 @@
 export { default as AbellaDeLaConca } from "../assets/svg/abella-de-la-conca.svg";
+export { default as Àger } from "../assets/svg/ager.svg";
 export { default as Agramunt } from "../assets/svg/agramunt.svg";
 export { default as Agullana } from "../assets/svg/agullana.svg";
 export { default as Aiguafreda } from "../assets/svg/aiguafreda.svg";
@@ -274,12 +275,14 @@ export { default as MontferrerICastellbò } from "../assets/svg/montferrer-i-cas
 export { default as MontRal } from "../assets/svg/mont-ral.svg";
 export { default as MontRas } from "../assets/svg/mont-ras.svg";
 export { default as MontRoigDelCamp } from "../assets/svg/mont-roig-del-camp.svg";
+export { default as Òdena } from "../assets/svg/odena.svg";
 export { default as Olèrdola } from "../assets/svg/olerdola.svg";
 export { default as Oliola } from "../assets/svg/oliola.svg";
 export { default as Olius } from "../assets/svg/olius.svg";
 export { default as Olivella } from "../assets/svg/olivella.svg";
 export { default as Olot } from "../assets/svg/olot.svg";
 export { default as Olvan } from "../assets/svg/olvan.svg";
+export { default as Òrrius } from "../assets/svg/orrius.svg";
 export { default as Perafita } from "../assets/svg/perafita.svg";
 export { default as Pratdip } from "../assets/svg/pratdip.svg";
 export { default as PratsDeLluçanès } from "../assets/svg/prats-de-llucanes.svg";

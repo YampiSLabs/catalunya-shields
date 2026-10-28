@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 374,
-  "missingCount": 573,
+  "downloadedCount": 377,
+  "missingCount": 570,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -5703,36 +5703,6 @@
       "rawSvgPath": "raw/svg/les-valls-de-valira.svg",
       "assetSvgPath": "assets/svg/les-valls-de-valira.svg",
       "candidatePath": "data/commons-candidates/les-valls-de-valira.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "ager": {
-      "slug": "ager",
-      "name": "Àger",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/ager.svg",
-      "assetSvgPath": "assets/svg/ager.svg",
-      "candidatePath": "data/commons-candidates/ager.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "odena": {
-      "slug": "odena",
-      "name": "Òdena",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/odena.svg",
-      "assetSvgPath": "assets/svg/odena.svg",
-      "candidatePath": "data/commons-candidates/odena.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "orrius": {
-      "slug": "orrius",
-      "name": "Òrrius",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/orrius.svg",
-      "assetSvgPath": "assets/svg/orrius.svg",
-      "candidatePath": "data/commons-candidates/orrius.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     }
