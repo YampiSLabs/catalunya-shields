@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 386,
-  "missingCount": 561,
+  "downloadedCount": 392,
+  "missingCount": 555,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -5416,36 +5416,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "la-torre-de-cabdella": {
-      "slug": "la-torre-de-cabdella",
-      "name": "la Torre de Cabdella",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/la-torre-de-cabdella.svg",
-      "assetSvgPath": "assets/svg/la-torre-de-cabdella.svg",
-      "candidatePath": "data/commons-candidates/la-torre-de-cabdella.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-torre-de-claramunt": {
-      "slug": "la-torre-de-claramunt",
-      "name": "la Torre de Claramunt",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/la-torre-de-claramunt.svg",
-      "assetSvgPath": "assets/svg/la-torre-de-claramunt.svg",
-      "candidatePath": "data/commons-candidates/la-torre-de-claramunt.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-torre-de-fontaubella": {
-      "slug": "la-torre-de-fontaubella",
-      "name": "la Torre de Fontaubella",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/la-torre-de-fontaubella.svg",
-      "assetSvgPath": "assets/svg/la-torre-de-fontaubella.svg",
-      "candidatePath": "data/commons-candidates/la-torre-de-fontaubella.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "la-torre-de-lespanyol": {
       "slug": "la-torre-de-lespanyol",
       "name": "la Torre de l'Espanyol",
@@ -5453,36 +5423,6 @@
       "rawSvgPath": "raw/svg/la-torre-de-lespanyol.svg",
       "assetSvgPath": "assets/svg/la-torre-de-lespanyol.svg",
       "candidatePath": "data/commons-candidates/la-torre-de-lespanyol.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-vajol": {
-      "slug": "la-vajol",
-      "name": "la Vajol",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/la-vajol.svg",
-      "assetSvgPath": "assets/svg/la-vajol.svg",
-      "candidatePath": "data/commons-candidates/la-vajol.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-vall-den-bas": {
-      "slug": "la-vall-den-bas",
-      "name": "la Vall d'en Bas",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/la-vall-den-bas.svg",
-      "assetSvgPath": "assets/svg/la-vall-den-bas.svg",
-      "candidatePath": "data/commons-candidates/la-vall-den-bas.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-vall-de-bianya": {
-      "slug": "la-vall-de-bianya",
-      "name": "la Vall de Bianya",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/la-vall-de-bianya.svg",
-      "assetSvgPath": "assets/svg/la-vall-de-bianya.svg",
-      "candidatePath": "data/commons-candidates/la-vall-de-bianya.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

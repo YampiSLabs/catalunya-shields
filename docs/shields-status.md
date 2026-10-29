@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **386**
-Pending: **561**
-Progress: **40.8%**
+Downloaded: **392**
+Pending: **555**
+Progress: **41.4%**
 
-`[████████████░░░░░░░░░░░░░░░░░░] 40.8%`
+`[████████████░░░░░░░░░░░░░░░░░░] 41.4%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (131/311 - 42.1%)</b></summary>
+<summary><b>Barcelona (132/311 - 42.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -135,7 +135,7 @@ Progress: **40.8%**
 | la Pobla de Lillet | `la-pobla-de-lillet` | ❌ Pending |
 | la Quar | `la-quar` | ❌ Pending |
 | la Roca del Vallès | `la-roca-del-valles` | ❌ Pending |
-| la Torre de Claramunt | `la-torre-de-claramunt` | ❌ Pending |
+| la Torre de Claramunt | `la-torre-de-claramunt` | ✅ Downloaded |
 | les Cabanyes | `les-cabanyes` | ✅ Downloaded |
 | les Franqueses del Vallès | `les-franqueses-del-valles` | ✅ Downloaded |
 | les Masies de Roda | `les-masies-de-roda` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **40.8%**
 </details>
 
 <details>
-<summary><b>Girona (89/221 - 40.3%)</b></summary>
+<summary><b>Girona (92/221 - 41.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -419,9 +419,9 @@ Progress: **40.8%**
 | la Pera | `la-pera` | ❌ Pending |
 | la Selva de Mar | `la-selva-de-mar` | ❌ Pending |
 | la Tallada d'Empordà | `la-tallada-demporda` | ❌ Pending |
-| la Vajol | `la-vajol` | ❌ Pending |
-| la Vall d'en Bas | `la-vall-den-bas` | ❌ Pending |
-| la Vall de Bianya | `la-vall-de-bianya` | ❌ Pending |
+| la Vajol | `la-vajol` | ✅ Downloaded |
+| la Vall d'en Bas | `la-vall-den-bas` | ✅ Downloaded |
+| la Vall de Bianya | `la-vall-de-bianya` | ✅ Downloaded |
 | les Llosses | `les-llosses` | ✅ Downloaded |
 | les Planes d'Hostoles | `les-planes-dhostoles` | ❌ Pending |
 | les Preses | `les-preses` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **40.8%**
 </details>
 
 <details>
-<summary><b>Lleida (99/231 - 42.9%)</b></summary>
+<summary><b>Lleida (100/231 - 43.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -682,9 +682,9 @@ Progress: **40.8%**
 | la Portella | `la-portella` | ❌ Pending |
 | la Sentiu de Sió | `la-sentiu-de-sio` | ❌ Pending |
 | la Seu d'Urgell | `la-seu-durgell` | ❌ Pending |
-| la Torre de Cabdella | `la-torre-de-cabdella` | ❌ Pending |
+| la Torre de Cabdella | `la-torre-de-cabdella` | ✅ Downloaded |
 | la Vall de Boí | `la-vall-de-boi` | ❌ Pending |
-| la Vansa i Fórnols | `la-vansa-i-fornols` | ❌ Pending |
+| la Vansa i Fórnols | `la-vansa-i-fornols` | 🔍 Has Candidate |
 | Les | `les` | ❌ Pending |
 | les Avellanes i Santa Linya | `les-avellanes-i-santa-linya` | ❌ Pending |
 | les Borges Blanques | `les-borges-blanques` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **40.8%**
 </details>
 
 <details>
-<summary><b>Tarragona (67/184 - 36.4%)</b></summary>
+<summary><b>Tarragona (68/184 - 37.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -900,7 +900,7 @@ Progress: **40.8%**
 | la Secuita | `la-secuita` | ❌ Pending |
 | la Selva del Camp | `la-selva-del-camp` | ❌ Pending |
 | la Sénia | `la-senia` | ❌ Pending |
-| la Torre de Fontaubella | `la-torre-de-fontaubella` | ❌ Pending |
+| la Torre de Fontaubella | `la-torre-de-fontaubella` | ✅ Downloaded |
 | la Torre de l'Espanyol | `la-torre-de-lespanyol` | ❌ Pending |
 | la Vilella Alta | `la-vilella-alta` | ❌ Pending |
 | la Vilella Baixa | `la-vilella-baixa` | ❌ Pending |
