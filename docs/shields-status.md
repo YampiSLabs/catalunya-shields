@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **392**
-Pending: **555**
-Progress: **41.4%**
+Downloaded: **397**
+Pending: **550**
+Progress: **41.9%**
 
-`[████████████░░░░░░░░░░░░░░░░░░] 41.4%`
+`[█████████████░░░░░░░░░░░░░░░░░] 41.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (132/311 - 42.4%)</b></summary>
+<summary><b>Barcelona (134/311 - 43.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -125,8 +125,8 @@ Progress: **41.4%**
 | l'Esquirol | `lesquirol` | ❌ Pending |
 | l'Estany | `lestany` | ❌ Pending |
 | l'Hospitalet de Llobregat | `lhospitalet-de-llobregat` | ✅ Downloaded |
-| la Garriga | `la-garriga` | ❌ Pending |
-| la Granada | `la-granada` | ❌ Pending |
+| la Garriga | `la-garriga` | ✅ Downloaded |
+| la Granada | `la-granada` | ✅ Downloaded |
 | la Llacuna | `la-llacuna` | ❌ Pending |
 | la Llagosta | `la-llagosta` | ❌ Pending |
 | la Nou de Berguedà | `la-nou-de-bergueda` | ❌ Pending |
@@ -204,7 +204,7 @@ Progress: **41.4%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | 🔍 Has Candidate |
+| Rubí | `rubi` | ❌ Pending |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -448,7 +448,7 @@ Progress: **41.4%**
 | Navata | `navata` | ❌ Pending |
 | Ogassa | `ogassa` | ❌ Pending |
 | Olot | `olot` | ✅ Downloaded |
-| Ordis | `ordis` | 🔍 Has Candidate |
+| Ordis | `ordis` | ❌ Pending |
 | Osor | `osor` | ❌ Pending |
 | Palafrugell | `palafrugell` | ❌ Pending |
 | Palamós | `palamos` | ❌ Pending |
@@ -500,7 +500,7 @@ Progress: **41.4%**
 | Sant Julià de Ramis | `sant-julia-de-ramis` | ❌ Pending |
 | Sant Julià del Llor i Bonmatí | `sant-julia-del-llor-i-bonmati` | ❌ Pending |
 | Sant Llorenç de la Muga | `sant-llorenc-de-la-muga` | ✅ Downloaded |
-| Sant Martí de Llémena | `sant-marti-de-llemena` | 🔍 Has Candidate |
+| Sant Martí de Llémena | `sant-marti-de-llemena` | ❌ Pending |
 | Sant Martí Vell | `sant-marti-vell` | ✅ Downloaded |
 | Sant Miquel de Campmajor | `sant-miquel-de-campmajor` | ❌ Pending |
 | Sant Miquel de Fluvià | `sant-miquel-de-fluvia` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **41.4%**
 </details>
 
 <details>
-<summary><b>Lleida (100/231 - 43.3%)</b></summary>
+<summary><b>Lleida (103/231 - 44.6%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -661,7 +661,7 @@ Progress: **41.4%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -673,9 +673,9 @@ Progress: **41.4%**
 | la Coma i la Pedra | `la-coma-i-la-pedra` | ❌ Pending |
 | la Floresta | `la-floresta` | ❌ Pending |
 | la Fuliola | `la-fuliola` | ❌ Pending |
-| la Granadella | `la-granadella` | ❌ Pending |
-| la Granja d'Escarp | `la-granja-descarp` | ❌ Pending |
-| la Guingueta d'Àneu | `la-guingueta-daneu` | ❌ Pending |
+| la Granadella | `la-granadella` | ✅ Downloaded |
+| la Granja d'Escarp | `la-granja-descarp` | ✅ Downloaded |
+| la Guingueta d'Àneu | `la-guingueta-daneu` | ✅ Downloaded |
 | la Molsosa | `la-molsosa` | ❌ Pending |
 | la Pobla de Cérvoles | `la-pobla-de-cervoles` | ❌ Pending |
 | la Pobla de Segur | `la-pobla-de-segur` | ❌ Pending |
@@ -684,7 +684,7 @@ Progress: **41.4%**
 | la Seu d'Urgell | `la-seu-durgell` | ❌ Pending |
 | la Torre de Cabdella | `la-torre-de-cabdella` | ✅ Downloaded |
 | la Vall de Boí | `la-vall-de-boi` | ❌ Pending |
-| la Vansa i Fórnols | `la-vansa-i-fornols` | 🔍 Has Candidate |
+| la Vansa i Fórnols | `la-vansa-i-fornols` | ❌ Pending |
 | Les | `les` | ❌ Pending |
 | les Avellanes i Santa Linya | `les-avellanes-i-santa-linya` | ❌ Pending |
 | les Borges Blanques | `les-borges-blanques` | ❌ Pending |

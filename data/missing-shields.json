@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 392,
-  "missingCount": 555,
+  "downloadedCount": 397,
+  "missingCount": 550,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -5053,56 +5053,6 @@
       "rawSvgPath": "raw/svg/la-galera.svg",
       "assetSvgPath": "assets/svg/la-galera.svg",
       "candidatePath": "data/commons-candidates/la-galera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-garriga": {
-      "slug": "la-garriga",
-      "name": "la Garriga",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/la-garriga.svg",
-      "assetSvgPath": "assets/svg/la-garriga.svg",
-      "candidatePath": "data/commons-candidates/la-garriga.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-granada": {
-      "slug": "la-granada",
-      "name": "la Granada",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/la-granada.svg",
-      "assetSvgPath": "assets/svg/la-granada.svg",
-      "candidatePath": "data/commons-candidates/la-granada.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-granadella": {
-      "slug": "la-granadella",
-      "name": "la Granadella",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/la-granadella.svg",
-      "assetSvgPath": "assets/svg/la-granadella.svg",
-      "candidatePath": "data/commons-candidates/la-granadella.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-granja-descarp": {
-      "slug": "la-granja-descarp",
-      "name": "la Granja d'Escarp",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/la-granja-descarp.svg",
-      "assetSvgPath": "assets/svg/la-granja-descarp.svg",
-      "candidatePath": "data/commons-candidates/la-granja-descarp.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-guingueta-daneu": {
-      "slug": "la-guingueta-daneu",
-      "name": "la Guingueta d'Àneu",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/la-guingueta-daneu.svg",
-      "assetSvgPath": "assets/svg/la-guingueta-daneu.svg",
-      "candidatePath": "data/commons-candidates/la-guingueta-daneu.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
