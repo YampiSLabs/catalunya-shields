@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 397,
-  "missingCount": 550,
+  "downloadedCount": 405,
+  "missingCount": 542,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2113,86 +2113,6 @@
       "rawSvgPath": "raw/svg/premia-de-dalt.svg",
       "assetSvgPath": "assets/svg/premia-de-dalt.svg",
       "candidatePath": "data/commons-candidates/premia-de-dalt.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "puig-reig": {
-      "slug": "puig-reig",
-      "name": "Puig-reig",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/puig-reig.svg",
-      "assetSvgPath": "assets/svg/puig-reig.svg",
-      "candidatePath": "data/commons-candidates/puig-reig.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "puigcerda": {
-      "slug": "puigcerda",
-      "name": "Puigcerdà",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/puigcerda.svg",
-      "assetSvgPath": "assets/svg/puigcerda.svg",
-      "candidatePath": "data/commons-candidates/puigcerda.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "puigdalber": {
-      "slug": "puigdalber",
-      "name": "Puigdàlber",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/puigdalber.svg",
-      "assetSvgPath": "assets/svg/puigdalber.svg",
-      "candidatePath": "data/commons-candidates/puigdalber.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "puiggros": {
-      "slug": "puiggros",
-      "name": "Puiggròs",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/puiggros.svg",
-      "assetSvgPath": "assets/svg/puiggros.svg",
-      "candidatePath": "data/commons-candidates/puiggros.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "puigpelat": {
-      "slug": "puigpelat",
-      "name": "Puigpelat",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/puigpelat.svg",
-      "assetSvgPath": "assets/svg/puigpelat.svg",
-      "candidatePath": "data/commons-candidates/puigpelat.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "puigverd-dagramunt": {
-      "slug": "puigverd-dagramunt",
-      "name": "Puigverd d'Agramunt",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/puigverd-dagramunt.svg",
-      "assetSvgPath": "assets/svg/puigverd-dagramunt.svg",
-      "candidatePath": "data/commons-candidates/puigverd-dagramunt.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "puigverd-de-lleida": {
-      "slug": "puigverd-de-lleida",
-      "name": "Puigverd de Lleida",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/puigverd-de-lleida.svg",
-      "assetSvgPath": "assets/svg/puigverd-de-lleida.svg",
-      "candidatePath": "data/commons-candidates/puigverd-de-lleida.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "pujalt": {
-      "slug": "pujalt",
-      "name": "Pujalt",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/pujalt.svg",
-      "assetSvgPath": "assets/svg/pujalt.svg",
-      "candidatePath": "data/commons-candidates/pujalt.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
