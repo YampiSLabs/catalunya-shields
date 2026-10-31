@@ -373,6 +373,8 @@ export { default as Tiurana } from "../assets/svg/tiurana.svg";
 export { default as Tivenys } from "../assets/svg/tivenys.svg";
 export { default as Tivissa } from "../assets/svg/tivissa.svg";
 export { default as Tona } from "../assets/svg/tona.svg";
+export { default as Tordera } from "../assets/svg/tordera.svg";
+export { default as Torelló } from "../assets/svg/torello.svg";
 export { default as Tornabous } from "../assets/svg/tornabous.svg";
 export { default as Torrebesses } from "../assets/svg/torrebesses.svg";
 export { default as Torredembarra } from "../assets/svg/torredembarra.svg";

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 406,
-  "missingCount": 541,
+  "downloadedCount": 408,
+  "missingCount": 539,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3673,26 +3673,6 @@
       "rawSvgPath": "raw/svg/tiana.svg",
       "assetSvgPath": "assets/svg/tiana.svg",
       "candidatePath": "data/commons-candidates/tiana.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tordera": {
-      "slug": "tordera",
-      "name": "Tordera",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/tordera.svg",
-      "assetSvgPath": "assets/svg/tordera.svg",
-      "candidatePath": "data/commons-candidates/tordera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torello": {
-      "slug": "torello",
-      "name": "Torelló",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/torello.svg",
-      "assetSvgPath": "assets/svg/torello.svg",
-      "candidatePath": "data/commons-candidates/torello.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **406**
-Pending: **541**
-Progress: **42.9%**
+Downloaded: **408**
+Pending: **539**
+Progress: **43.1%**
 
-`[█████████████░░░░░░░░░░░░░░░░░] 42.9%`
+`[█████████████░░░░░░░░░░░░░░░░░] 43.1%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (137/311 - 44.1%)</b></summary>
+<summary><b>Barcelona (139/311 - 44.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -204,7 +204,7 @@ Progress: **42.9%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -299,8 +299,8 @@ Progress: **42.9%**
 | Terrassola i Lavit | `terrassola-i-lavit` | ❌ Pending |
 | Tiana | `tiana` | ❌ Pending |
 | Tona | `tona` | ✅ Downloaded |
-| Tordera | `tordera` | 🔍 Has Candidate |
-| Torelló | `torello` | ❌ Pending |
+| Tordera | `tordera` | ✅ Downloaded |
+| Torelló | `torello` | ✅ Downloaded |
 | Torrelles de Foix | `torrelles-de-foix` | ❌ Pending |
 | Torrelles de Llobregat | `torrelles-de-llobregat` | ❌ Pending |
 | Ullastrell | `ullastrell` | ❌ Pending |
@@ -448,7 +448,7 @@ Progress: **42.9%**
 | Navata | `navata` | ❌ Pending |
 | Ogassa | `ogassa` | ❌ Pending |
 | Olot | `olot` | ✅ Downloaded |
-| Ordis | `ordis` | ❌ Pending |
+| Ordis | `ordis` | 🔍 Has Candidate |
 | Osor | `osor` | ❌ Pending |
 | Palafrugell | `palafrugell` | ❌ Pending |
 | Palamós | `palamos` | ❌ Pending |
@@ -500,7 +500,7 @@ Progress: **42.9%**
 | Sant Julià de Ramis | `sant-julia-de-ramis` | ❌ Pending |
 | Sant Julià del Llor i Bonmatí | `sant-julia-del-llor-i-bonmati` | ❌ Pending |
 | Sant Llorenç de la Muga | `sant-llorenc-de-la-muga` | ✅ Downloaded |
-| Sant Martí de Llémena | `sant-marti-de-llemena` | ❌ Pending |
+| Sant Martí de Llémena | `sant-marti-de-llemena` | 🔍 Has Candidate |
 | Sant Martí Vell | `sant-marti-vell` | ✅ Downloaded |
 | Sant Miquel de Campmajor | `sant-miquel-de-campmajor` | ❌ Pending |
 | Sant Miquel de Fluvià | `sant-miquel-de-fluvia` | ❌ Pending |
@@ -661,7 +661,7 @@ Progress: **42.9%**
 | Guixers | `guixers` | ❌ Pending |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | ❌ Pending |
+| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -684,7 +684,7 @@ Progress: **42.9%**
 | la Seu d'Urgell | `la-seu-durgell` | ❌ Pending |
 | la Torre de Cabdella | `la-torre-de-cabdella` | ✅ Downloaded |
 | la Vall de Boí | `la-vall-de-boi` | ❌ Pending |
-| la Vansa i Fórnols | `la-vansa-i-fornols` | ❌ Pending |
+| la Vansa i Fórnols | `la-vansa-i-fornols` | 🔍 Has Candidate |
 | Les | `les` | ❌ Pending |
 | les Avellanes i Santa Linya | `les-avellanes-i-santa-linya` | ❌ Pending |
 | les Borges Blanques | `les-borges-blanques` | ❌ Pending |
