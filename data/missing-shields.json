@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 405,
-  "missingCount": 542,
+  "downloadedCount": 406,
+  "missingCount": 541,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4623,16 +4623,6 @@
       "rawSvgPath": "raw/svg/el-rourell.svg",
       "assetSvgPath": "assets/svg/el-rourell.svg",
       "candidatePath": "data/commons-candidates/el-rourell.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-soleras": {
-      "slug": "el-soleras",
-      "name": "el Soleràs",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/el-soleras.svg",
-      "assetSvgPath": "assets/svg/el-soleras.svg",
-      "candidatePath": "data/commons-candidates/el-soleras.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
