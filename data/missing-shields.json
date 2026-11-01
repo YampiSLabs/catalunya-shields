@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 408,
-  "missingCount": 539,
+  "downloadedCount": 417,
+  "missingCount": 530,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -653,96 +653,6 @@
       "rawSvgPath": "raw/svg/granyena-de-les-garrigues.svg",
       "assetSvgPath": "assets/svg/granyena-de-les-garrigues.svg",
       "candidatePath": "data/commons-candidates/granyena-de-les-garrigues.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gratallops": {
-      "slug": "gratallops",
-      "name": "Gratallops",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/gratallops.svg",
-      "assetSvgPath": "assets/svg/gratallops.svg",
-      "candidatePath": "data/commons-candidates/gratallops.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gualba": {
-      "slug": "gualba",
-      "name": "Gualba",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/gualba.svg",
-      "assetSvgPath": "assets/svg/gualba.svg",
-      "candidatePath": "data/commons-candidates/gualba.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "gualta": {
-      "slug": "gualta",
-      "name": "Gualta",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/gualta.svg",
-      "assetSvgPath": "assets/svg/gualta.svg",
-      "candidatePath": "data/commons-candidates/gualta.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "guardiola-de-bergueda": {
-      "slug": "guardiola-de-bergueda",
-      "name": "Guardiola de Berguedà",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/guardiola-de-bergueda.svg",
-      "assetSvgPath": "assets/svg/guardiola-de-bergueda.svg",
-      "candidatePath": "data/commons-candidates/guardiola-de-bergueda.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "guils-de-cerdanya": {
-      "slug": "guils-de-cerdanya",
-      "name": "Guils de Cerdanya",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/guils-de-cerdanya.svg",
-      "assetSvgPath": "assets/svg/guils-de-cerdanya.svg",
-      "candidatePath": "data/commons-candidates/guils-de-cerdanya.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "guimera": {
-      "slug": "guimera",
-      "name": "Guimerà",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/guimera.svg",
-      "assetSvgPath": "assets/svg/guimera.svg",
-      "candidatePath": "data/commons-candidates/guimera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "guissona": {
-      "slug": "guissona",
-      "name": "Guissona",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/guissona.svg",
-      "assetSvgPath": "assets/svg/guissona.svg",
-      "candidatePath": "data/commons-candidates/guissona.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "guixers": {
-      "slug": "guixers",
-      "name": "Guixers",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/guixers.svg",
-      "assetSvgPath": "assets/svg/guixers.svg",
-      "candidatePath": "data/commons-candidates/guixers.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "ivars-de-noguera": {
-      "slug": "ivars-de-noguera",
-      "name": "Ivars de Noguera",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/ivars-de-noguera.svg",
-      "assetSvgPath": "assets/svg/ivars-de-noguera.svg",
-      "candidatePath": "data/commons-candidates/ivars-de-noguera.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

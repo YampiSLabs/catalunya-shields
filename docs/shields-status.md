@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **408**
-Pending: **539**
-Progress: **43.1%**
+Downloaded: **417**
+Pending: **530**
+Progress: **44.0%**
 
-`[█████████████░░░░░░░░░░░░░░░░░] 43.1%`
+`[█████████████░░░░░░░░░░░░░░░░░] 44.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (139/311 - 44.7%)</b></summary>
+<summary><b>Barcelona (141/311 - 45.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -115,8 +115,8 @@ Progress: **43.1%**
 | Gisclareny | `gisclareny` | ✅ Downloaded |
 | Granera | `granera` | ✅ Downloaded |
 | Granollers | `granollers` | ❌ Pending |
-| Gualba | `gualba` | ❌ Pending |
-| Guardiola de Berguedà | `guardiola-de-bergueda` | ❌ Pending |
+| Gualba | `gualba` | ✅ Downloaded |
+| Guardiola de Berguedà | `guardiola-de-bergueda` | ✅ Downloaded |
 | Gurb | `gurb` | ✅ Downloaded |
 | Igualada | `igualada` | ✅ Downloaded |
 | Jorba | `jorba` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **43.1%**
 </details>
 
 <details>
-<summary><b>Girona (93/221 - 42.1%)</b></summary>
+<summary><b>Girona (95/221 - 43.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -405,8 +405,8 @@ Progress: **43.1%**
 | Ger | `ger` | ✅ Downloaded |
 | Girona | `girona` | ✅ Downloaded |
 | Gombrèn | `gombren` | ✅ Downloaded |
-| Gualta | `gualta` | ❌ Pending |
-| Guils de Cerdanya | `guils-de-cerdanya` | ❌ Pending |
+| Gualta | `gualta` | ✅ Downloaded |
+| Guils de Cerdanya | `guils-de-cerdanya` | ✅ Downloaded |
 | Hostalric | `hostalric` | ✅ Downloaded |
 | Isòvol | `isovol` | ✅ Downloaded |
 | Jafre | `jafre` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **43.1%**
 </details>
 
 <details>
-<summary><b>Lleida (107/231 - 46.3%)</b></summary>
+<summary><b>Lleida (111/231 - 48.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -656,12 +656,12 @@ Progress: **43.1%**
 | Granyanella | `granyanella` | ❌ Pending |
 | Granyena de les Garrigues | `granyena-de-les-garrigues` | ❌ Pending |
 | Granyena de Segarra | `granyena-de-segarra` | ❌ Pending |
-| Guimerà | `guimera` | ❌ Pending |
-| Guissona | `guissona` | ❌ Pending |
-| Guixers | `guixers` | ❌ Pending |
+| Guimerà | `guimera` | ✅ Downloaded |
+| Guissona | `guissona` | ✅ Downloaded |
+| Guixers | `guixers` | ✅ Downloaded |
 | Isona i Conca Dellà | `isona-i-conca-della` | ✅ Downloaded |
 | Ivars d'Urgell | `ivars-durgell` | ✅ Downloaded |
-| Ivars de Noguera | `ivars-de-noguera` | 🔍 Has Candidate |
+| Ivars de Noguera | `ivars-de-noguera` | ✅ Downloaded |
 | Ivorra | `ivorra` | ❌ Pending |
 | Josa i Tuixén | `josa-i-tuixen` | ❌ Pending |
 | Juncosa | `juncosa` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **43.1%**
 </details>
 
 <details>
-<summary><b>Tarragona (69/184 - 37.5%)</b></summary>
+<summary><b>Tarragona (70/184 - 38.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -870,7 +870,7 @@ Progress: **43.1%**
 | Garcia | `garcia` | ✅ Downloaded |
 | Ginestar | `ginestar` | ✅ Downloaded |
 | Godall | `godall` | ✅ Downloaded |
-| Gratallops | `gratallops` | ❌ Pending |
+| Gratallops | `gratallops` | ✅ Downloaded |
 | Horta de Sant Joan | `horta-de-sant-joan` | ✅ Downloaded |
 | l'Albiol | `lalbiol` | ❌ Pending |
 | l'Aldea | `laldea` | ❌ Pending |
