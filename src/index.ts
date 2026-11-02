@@ -387,6 +387,8 @@ export { default as Torelló } from "../assets/svg/torello.svg";
 export { default as Tornabous } from "../assets/svg/tornabous.svg";
 export { default as Torrebesses } from "../assets/svg/torrebesses.svg";
 export { default as Torredembarra } from "../assets/svg/torredembarra.svg";
+export { default as TorrefetaIFlorejacs } from "../assets/svg/torrefeta-i-florejacs.svg";
+export { default as Torregrossa } from "../assets/svg/torregrossa.svg";
 export { default as Torrent } from "../assets/svg/torrent.svg";
 export { default as TorresDeSegre } from "../assets/svg/torres-de-segre.svg";
 export { default as TorroellaDeFluvià } from "../assets/svg/torroella-de-fluvia.svg";

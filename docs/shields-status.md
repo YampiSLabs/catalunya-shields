@@ -1,11 +1,11 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **417**
-Pending: **530**
-Progress: **44.0%**
+Downloaded: **419**
+Pending: **528**
+Progress: **44.2%**
 
-`[█████████████░░░░░░░░░░░░░░░░░] 44.0%`
+`[█████████████░░░░░░░░░░░░░░░░░] 44.2%`
 
 ## Provinces Overview
 
@@ -558,7 +558,7 @@ Progress: **44.0%**
 </details>
 
 <details>
-<summary><b>Lleida (111/231 - 48.1%)</b></summary>
+<summary><b>Lleida (113/231 - 48.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -773,8 +773,8 @@ Progress: **44.0%**
 | Torre-serona | `torre-serona` | ❌ Pending |
 | Torrebesses | `torrebesses` | ✅ Downloaded |
 | Torrefarrera | `torrefarrera` | 🔍 Has Candidate |
-| Torrefeta i Florejacs | `torrefeta-i-florejacs` | ❌ Pending |
-| Torregrossa | `torregrossa` | ❌ Pending |
+| Torrefeta i Florejacs | `torrefeta-i-florejacs` | ✅ Downloaded |
+| Torregrossa | `torregrossa` | ✅ Downloaded |
 | Torrelameu | `torrelameu` | ❌ Pending |
 | Torres de Segre | `torres-de-segre` | ✅ Downloaded |
 | Tremp | `tremp` | ✅ Downloaded |

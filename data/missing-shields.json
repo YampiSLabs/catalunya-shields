@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 417,
-  "missingCount": 530,
+  "downloadedCount": 419,
+  "missingCount": 528,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3603,26 +3603,6 @@
       "rawSvgPath": "raw/svg/torrefarrera.svg",
       "assetSvgPath": "assets/svg/torrefarrera.svg",
       "candidatePath": "data/commons-candidates/torrefarrera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torrefeta-i-florejacs": {
-      "slug": "torrefeta-i-florejacs",
-      "name": "Torrefeta i Florejacs",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/torrefeta-i-florejacs.svg",
-      "assetSvgPath": "assets/svg/torrefeta-i-florejacs.svg",
-      "candidatePath": "data/commons-candidates/torrefeta-i-florejacs.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torregrossa": {
-      "slug": "torregrossa",
-      "name": "Torregrossa",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/torregrossa.svg",
-      "assetSvgPath": "assets/svg/torregrossa.svg",
-      "candidatePath": "data/commons-candidates/torregrossa.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
