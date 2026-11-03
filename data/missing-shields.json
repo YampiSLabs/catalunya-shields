@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 419,
-  "missingCount": 528,
+  "downloadedCount": 426,
+  "missingCount": 521,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -966,66 +966,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "margalef": {
-      "slug": "margalef",
-      "name": "Margalef",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/margalef.svg",
-      "assetSvgPath": "assets/svg/margalef.svg",
-      "candidatePath": "data/commons-candidates/margalef.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "marganell": {
-      "slug": "marganell",
-      "name": "Marganell",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/marganell.svg",
-      "assetSvgPath": "assets/svg/marganell.svg",
-      "candidatePath": "data/commons-candidates/marganell.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "martorell": {
-      "slug": "martorell",
-      "name": "Martorell",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/martorell.svg",
-      "assetSvgPath": "assets/svg/martorell.svg",
-      "candidatePath": "data/commons-candidates/martorell.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "martorelles": {
-      "slug": "martorelles",
-      "name": "Martorelles",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/martorelles.svg",
-      "assetSvgPath": "assets/svg/martorelles.svg",
-      "candidatePath": "data/commons-candidates/martorelles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "marca": {
-      "slug": "marca",
-      "name": "Marçà",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/marca.svg",
-      "assetSvgPath": "assets/svg/marca.svg",
-      "candidatePath": "data/commons-candidates/marca.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "mas-de-barberans": {
-      "slug": "mas-de-barberans",
-      "name": "Mas de Barberans",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/mas-de-barberans.svg",
-      "assetSvgPath": "assets/svg/mas-de-barberans.svg",
-      "candidatePath": "data/commons-candidates/mas-de-barberans.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "masarac-i-vilarnadal": {
       "slug": "masarac-i-vilarnadal",
       "name": "Masarac i Vilarnadal",
@@ -1033,16 +973,6 @@
       "rawSvgPath": "raw/svg/masarac-i-vilarnadal.svg",
       "assetSvgPath": "assets/svg/masarac-i-vilarnadal.svg",
       "candidatePath": "data/commons-candidates/masarac-i-vilarnadal.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "masdenverge": {
-      "slug": "masdenverge",
-      "name": "Masdenverge",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/masdenverge.svg",
-      "assetSvgPath": "assets/svg/masdenverge.svg",
-      "candidatePath": "data/commons-candidates/masdenverge.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

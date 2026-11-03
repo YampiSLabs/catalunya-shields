@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **419**
-Pending: **528**
-Progress: **44.2%**
+Downloaded: **426**
+Pending: **521**
+Progress: **45.0%**
 
-`[█████████████░░░░░░░░░░░░░░░░░] 44.2%`
+`[█████████████░░░░░░░░░░░░░░░░░] 45.0%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (141/311 - 45.3%)</b></summary>
+<summary><b>Barcelona (144/311 - 46.3%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -148,9 +148,9 @@ Progress: **44.2%**
 | Malla | `malla` | ❌ Pending |
 | Manlleu | `manlleu` | ❌ Pending |
 | Manresa | `manresa` | ❌ Pending |
-| Marganell | `marganell` | ❌ Pending |
-| Martorell | `martorell` | ❌ Pending |
-| Martorelles | `martorelles` | ❌ Pending |
+| Marganell | `marganell` | ✅ Downloaded |
+| Martorell | `martorell` | ✅ Downloaded |
+| Martorelles | `martorelles` | ✅ Downloaded |
 | Masquefa | `masquefa` | ❌ Pending |
 | Matadepera | `matadepera` | ❌ Pending |
 | Mataró | `mataro` | ✅ Downloaded |
@@ -797,7 +797,7 @@ Progress: **44.2%**
 </details>
 
 <details>
-<summary><b>Tarragona (70/184 - 38.0%)</b></summary>
+<summary><b>Tarragona (74/184 - 40.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -908,11 +908,11 @@ Progress: **44.2%**
 | les Piles | `les-piles` | ❌ Pending |
 | Llorac | `llorac` | ❌ Pending |
 | Llorenç del Penedès | `llorenc-del-penedes` | ❌ Pending |
-| Marçà | `marca` | ❌ Pending |
-| Margalef | `margalef` | ❌ Pending |
-| Mas de Barberans | `mas-de-barberans` | ❌ Pending |
-| Masdenverge | `masdenverge` | ❌ Pending |
-| Masllorenç | `masllorenc` | ❌ Pending |
+| Marçà | `marca` | ✅ Downloaded |
+| Margalef | `margalef` | ✅ Downloaded |
+| Mas de Barberans | `mas-de-barberans` | ✅ Downloaded |
+| Masdenverge | `masdenverge` | ✅ Downloaded |
+| Masllorenç | `masllorenc` | 🔍 Has Candidate |
 | Maspujols | `maspujols` | ❌ Pending |
 | Miravet | `miravet` | ❌ Pending |
 | Mont-ral | `mont-ral` | ✅ Downloaded |
