@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 430,
-  "missingCount": 517,
+  "downloadedCount": 438,
+  "missingCount": 509,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2933,86 +2933,6 @@
       "rawSvgPath": "raw/svg/santa-llogaia-dalguema.svg",
       "assetSvgPath": "assets/svg/santa-llogaia-dalguema.svg",
       "candidatePath": "data/commons-candidates/santa-llogaia-dalguema.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-margarida-de-montbui": {
-      "slug": "santa-margarida-de-montbui",
-      "name": "Santa Margarida de Montbui",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-margarida-de-montbui.svg",
-      "assetSvgPath": "assets/svg/santa-margarida-de-montbui.svg",
-      "candidatePath": "data/commons-candidates/santa-margarida-de-montbui.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-margarida-i-els-monjos": {
-      "slug": "santa-margarida-i-els-monjos",
-      "name": "Santa Margarida i els Monjos",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-margarida-i-els-monjos.svg",
-      "assetSvgPath": "assets/svg/santa-margarida-i-els-monjos.svg",
-      "candidatePath": "data/commons-candidates/santa-margarida-i-els-monjos.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-maria-dolo": {
-      "slug": "santa-maria-dolo",
-      "name": "Santa Maria d'Oló",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-maria-dolo.svg",
-      "assetSvgPath": "assets/svg/santa-maria-dolo.svg",
-      "candidatePath": "data/commons-candidates/santa-maria-dolo.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-maria-de-besora": {
-      "slug": "santa-maria-de-besora",
-      "name": "Santa Maria de Besora",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-maria-de-besora.svg",
-      "assetSvgPath": "assets/svg/santa-maria-de-besora.svg",
-      "candidatePath": "data/commons-candidates/santa-maria-de-besora.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-maria-de-martorelles": {
-      "slug": "santa-maria-de-martorelles",
-      "name": "Santa Maria de Martorelles",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-maria-de-martorelles.svg",
-      "assetSvgPath": "assets/svg/santa-maria-de-martorelles.svg",
-      "candidatePath": "data/commons-candidates/santa-maria-de-martorelles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-maria-de-merles": {
-      "slug": "santa-maria-de-merles",
-      "name": "Santa Maria de Merlès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-maria-de-merles.svg",
-      "assetSvgPath": "assets/svg/santa-maria-de-merles.svg",
-      "candidatePath": "data/commons-candidates/santa-maria-de-merles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-maria-de-miralles": {
-      "slug": "santa-maria-de-miralles",
-      "name": "Santa Maria de Miralles",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-maria-de-miralles.svg",
-      "assetSvgPath": "assets/svg/santa-maria-de-miralles.svg",
-      "candidatePath": "data/commons-candidates/santa-maria-de-miralles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "santa-maria-de-palautordera": {
-      "slug": "santa-maria-de-palautordera",
-      "name": "Santa Maria de Palautordera",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/santa-maria-de-palautordera.svg",
-      "assetSvgPath": "assets/svg/santa-maria-de-palautordera.svg",
-      "candidatePath": "data/commons-candidates/santa-maria-de-palautordera.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

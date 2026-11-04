@@ -365,6 +365,14 @@ export { default as SantaColomaDeCervelló } from "../assets/svg/santa-coloma-de
 export { default as SantaColomaDeFarners } from "../assets/svg/santa-coloma-de-farners.svg";
 export { default as SantaColomaDeGramenet } from "../assets/svg/santa-coloma-de-gramenet.svg";
 export { default as SantaEugèniaDeBerga } from "../assets/svg/santa-eugenia-de-berga.svg";
+export { default as SantaMargaridaDeMontbui } from "../assets/svg/santa-margarida-de-montbui.svg";
+export { default as SantaMargaridaIElsMonjos } from "../assets/svg/santa-margarida-i-els-monjos.svg";
+export { default as SantaMariaDeBesora } from "../assets/svg/santa-maria-de-besora.svg";
+export { default as SantaMariaDeMartorelles } from "../assets/svg/santa-maria-de-martorelles.svg";
+export { default as SantaMariaDeMerlès } from "../assets/svg/santa-maria-de-merles.svg";
+export { default as SantaMariaDeMiralles } from "../assets/svg/santa-maria-de-miralles.svg";
+export { default as SantaMariaDePalautordera } from "../assets/svg/santa-maria-de-palautordera.svg";
+export { default as SantaMariaDOló } from "../assets/svg/santa-maria-dolo.svg";
 export { default as SantCugatDelVallès } from "../assets/svg/sant-cugat-del-valles.svg";
 export { default as SantLlorençDeLaMuga } from "../assets/svg/sant-llorenc-de-la-muga.svg";
 export { default as SantLlorençDeMorunys } from "../assets/svg/sant-llorenc-de-morunys.svg";
