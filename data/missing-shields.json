@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 426,
-  "missingCount": 521,
+  "downloadedCount": 430,
+  "missingCount": 517,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2183,46 +2183,6 @@
       "rawSvgPath": "raw/svg/sallent.svg",
       "assetSvgPath": "assets/svg/sallent.svg",
       "candidatePath": "data/commons-candidates/sallent.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "salomo": {
-      "slug": "salomo",
-      "name": "Salomó",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/salomo.svg",
-      "assetSvgPath": "assets/svg/salomo.svg",
-      "candidatePath": "data/commons-candidates/salomo.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "salou": {
-      "slug": "salou",
-      "name": "Salou",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/salou.svg",
-      "assetSvgPath": "assets/svg/salou.svg",
-      "candidatePath": "data/commons-candidates/salou.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "salt": {
-      "slug": "salt",
-      "name": "Salt",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/salt.svg",
-      "assetSvgPath": "assets/svg/salt.svg",
-      "candidatePath": "data/commons-candidates/salt.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "salas-de-pallars": {
-      "slug": "salas-de-pallars",
-      "name": "Salàs de Pallars",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/salas-de-pallars.svg",
-      "assetSvgPath": "assets/svg/salas-de-pallars.svg",
-      "candidatePath": "data/commons-candidates/salas-de-pallars.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "File:Escut de Salou.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Sant Andreu Salou.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Salou escut.gif",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

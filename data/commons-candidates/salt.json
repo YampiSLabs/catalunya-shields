@@ -1,0 +1,16 @@
+[
+  {
+    "title": "File:Escut de Salt.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Logotip dels Marrecs de Salt.png",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]
