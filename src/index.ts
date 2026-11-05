@@ -374,6 +374,11 @@ export { default as SantaMariaDeMiralles } from "../assets/svg/santa-maria-de-mi
 export { default as SantaMariaDePalautordera } from "../assets/svg/santa-maria-de-palautordera.svg";
 export { default as SantaMariaDOló } from "../assets/svg/santa-maria-dolo.svg";
 export { default as SantCugatDelVallès } from "../assets/svg/sant-cugat-del-valles.svg";
+export { default as SantHilariSacalm } from "../assets/svg/sant-hilari-sacalm.svg";
+export { default as SantHipòlitDeVoltregà } from "../assets/svg/sant-hipolit-de-voltrega.svg";
+export { default as SantIscleDeVallalta } from "../assets/svg/sant-iscle-de-vallalta.svg";
+export { default as SantJaumeDeFrontanyà } from "../assets/svg/sant-jaume-de-frontanya.svg";
+export { default as SantJaumeDEnveja } from "../assets/svg/sant-jaume-denveja.svg";
 export { default as SantLlorençDeLaMuga } from "../assets/svg/sant-llorenc-de-la-muga.svg";
 export { default as SantLlorençDeMorunys } from "../assets/svg/sant-llorenc-de-morunys.svg";
 export { default as SantLlorençDHortons } from "../assets/svg/sant-llorenc-dhortons.svg";

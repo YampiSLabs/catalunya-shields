@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 438,
-  "missingCount": 509,
+  "downloadedCount": 443,
+  "missingCount": 504,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2493,56 +2493,6 @@
       "rawSvgPath": "raw/svg/sant-guim-de-la-plana.svg",
       "assetSvgPath": "assets/svg/sant-guim-de-la-plana.svg",
       "candidatePath": "data/commons-candidates/sant-guim-de-la-plana.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-hilari-sacalm": {
-      "slug": "sant-hilari-sacalm",
-      "name": "Sant Hilari Sacalm",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/sant-hilari-sacalm.svg",
-      "assetSvgPath": "assets/svg/sant-hilari-sacalm.svg",
-      "candidatePath": "data/commons-candidates/sant-hilari-sacalm.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-hipolit-de-voltrega": {
-      "slug": "sant-hipolit-de-voltrega",
-      "name": "Sant Hipòlit de Voltregà",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-hipolit-de-voltrega.svg",
-      "assetSvgPath": "assets/svg/sant-hipolit-de-voltrega.svg",
-      "candidatePath": "data/commons-candidates/sant-hipolit-de-voltrega.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-iscle-de-vallalta": {
-      "slug": "sant-iscle-de-vallalta",
-      "name": "Sant Iscle de Vallalta",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-iscle-de-vallalta.svg",
-      "assetSvgPath": "assets/svg/sant-iscle-de-vallalta.svg",
-      "candidatePath": "data/commons-candidates/sant-iscle-de-vallalta.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-jaume-denveja": {
-      "slug": "sant-jaume-denveja",
-      "name": "Sant Jaume d'Enveja",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/sant-jaume-denveja.svg",
-      "assetSvgPath": "assets/svg/sant-jaume-denveja.svg",
-      "candidatePath": "data/commons-candidates/sant-jaume-denveja.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-jaume-de-frontanya": {
-      "slug": "sant-jaume-de-frontanya",
-      "name": "Sant Jaume de Frontanyà",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-jaume-de-frontanya.svg",
-      "assetSvgPath": "assets/svg/sant-jaume-de-frontanya.svg",
-      "candidatePath": "data/commons-candidates/sant-jaume-de-frontanya.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

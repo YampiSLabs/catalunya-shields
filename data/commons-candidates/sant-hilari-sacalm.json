@@ -1,0 +1,16 @@
+[
+  {
+    "title": "File:Escut de Sant Hilari Sacalm.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut Sant Hilari Sacalm.jpg",
+    "score": 90,
+    "confidence": "medium",
+    "isSvg": false,
+    "matchesMunicipality": true
+  }
+]
