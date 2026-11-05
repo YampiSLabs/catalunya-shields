@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 443,
-  "missingCount": 504,
+  "downloadedCount": 450,
+  "missingCount": 497,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4766,66 +4766,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "la-pobla-de-segur": {
-      "slug": "la-pobla-de-segur",
-      "name": "la Pobla de Segur",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/la-pobla-de-segur.svg",
-      "assetSvgPath": "assets/svg/la-pobla-de-segur.svg",
-      "candidatePath": "data/commons-candidates/la-pobla-de-segur.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-portella": {
-      "slug": "la-portella",
-      "name": "la Portella",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/la-portella.svg",
-      "assetSvgPath": "assets/svg/la-portella.svg",
-      "candidatePath": "data/commons-candidates/la-portella.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-quar": {
-      "slug": "la-quar",
-      "name": "la Quar",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/la-quar.svg",
-      "assetSvgPath": "assets/svg/la-quar.svg",
-      "candidatePath": "data/commons-candidates/la-quar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-riba": {
-      "slug": "la-riba",
-      "name": "la Riba",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/la-riba.svg",
-      "assetSvgPath": "assets/svg/la-riba.svg",
-      "candidatePath": "data/commons-candidates/la-riba.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-riera-de-gaia": {
-      "slug": "la-riera-de-gaia",
-      "name": "la Riera de Gaià",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/la-riera-de-gaia.svg",
-      "assetSvgPath": "assets/svg/la-riera-de-gaia.svg",
-      "candidatePath": "data/commons-candidates/la-riera-de-gaia.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-roca-del-valles": {
-      "slug": "la-roca-del-valles",
-      "name": "la Roca del Vallès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/la-roca-del-valles.svg",
-      "assetSvgPath": "assets/svg/la-roca-del-valles.svg",
-      "candidatePath": "data/commons-candidates/la-roca-del-valles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "la-rapita": {
       "slug": "la-rapita",
       "name": "la Ràpita",
@@ -4833,16 +4773,6 @@
       "rawSvgPath": "raw/svg/la-rapita.svg",
       "assetSvgPath": "assets/svg/la-rapita.svg",
       "candidatePath": "data/commons-candidates/la-rapita.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-secuita": {
-      "slug": "la-secuita",
-      "name": "la Secuita",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/la-secuita.svg",
-      "assetSvgPath": "assets/svg/la-secuita.svg",
-      "candidatePath": "data/commons-candidates/la-secuita.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

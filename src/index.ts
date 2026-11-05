@@ -267,8 +267,15 @@ export { default as LaGuinguetaDÀneu } from "../assets/svg/la-guingueta-daneu.s
 export { default as LAmetllaDelVallès } from "../assets/svg/lametlla-del-valles.svg";
 export { default as LAmetllaDeMar } from "../assets/svg/lametlla-de-mar.svg";
 export { default as LAmpolla } from "../assets/svg/lampolla.svg";
+export { default as LaPoblaDeSegur } from "../assets/svg/la-pobla-de-segur.svg";
+export { default as LaPortella } from "../assets/svg/la-portella.svg";
+export { default as LaQuar } from "../assets/svg/la-quar.svg";
 export { default as LArboç } from "../assets/svg/larboc.svg";
+export { default as LaRiba } from "../assets/svg/la-riba.svg";
+export { default as LaRieraDeGaià } from "../assets/svg/la-riera-de-gaia.svg";
 export { default as LArmentera } from "../assets/svg/larmentera.svg";
+export { default as LaRocaDelVallès } from "../assets/svg/la-roca-del-valles.svg";
+export { default as LaSecuita } from "../assets/svg/la-secuita.svg";
 export { default as LaTorreDeCabdella } from "../assets/svg/la-torre-de-cabdella.svg";
 export { default as LaTorreDeClaramunt } from "../assets/svg/la-torre-de-claramunt.svg";
 export { default as LaTorreDeFontaubella } from "../assets/svg/la-torre-de-fontaubella.svg";
