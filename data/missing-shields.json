@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 454,
-  "missingCount": 493,
+  "downloadedCount": 461,
+  "missingCount": 486,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -776,56 +776,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "llambilles": {
-      "slug": "llambilles",
-      "name": "Llambilles",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/llambilles.svg",
-      "assetSvgPath": "assets/svg/llambilles.svg",
-      "candidatePath": "data/commons-candidates/llambilles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llanars": {
-      "slug": "llanars",
-      "name": "Llanars",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/llanars.svg",
-      "assetSvgPath": "assets/svg/llanars.svg",
-      "candidatePath": "data/commons-candidates/llanars.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llanca": {
-      "slug": "llanca",
-      "name": "Llançà",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/llanca.svg",
-      "assetSvgPath": "assets/svg/llanca.svg",
-      "candidatePath": "data/commons-candidates/llanca.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llardecans": {
-      "slug": "llardecans",
-      "name": "Llardecans",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/llardecans.svg",
-      "assetSvgPath": "assets/svg/llardecans.svg",
-      "candidatePath": "data/commons-candidates/llardecans.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llavorsi": {
-      "slug": "llavorsi",
-      "name": "Llavorsí",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/llavorsi.svg",
-      "assetSvgPath": "assets/svg/llavorsi.svg",
-      "candidatePath": "data/commons-candidates/llavorsi.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "lledo": {
       "slug": "lledo",
       "name": "Lledó",
@@ -833,26 +783,6 @@
       "rawSvgPath": "raw/svg/lledo.svg",
       "assetSvgPath": "assets/svg/lledo.svg",
       "candidatePath": "data/commons-candidates/lledo.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llorac": {
-      "slug": "llorac",
-      "name": "Llorac",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/llorac.svg",
-      "assetSvgPath": "assets/svg/llorac.svg",
-      "candidatePath": "data/commons-candidates/llorac.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "llorenc-del-penedes": {
-      "slug": "llorenc-del-penedes",
-      "name": "Llorenç del Penedès",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/llorenc-del-penedes.svg",
-      "assetSvgPath": "assets/svg/llorenc-del-penedes.svg",
-      "candidatePath": "data/commons-candidates/llorenc-del-penedes.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
