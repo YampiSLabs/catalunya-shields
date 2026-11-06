@@ -1,0 +1,16 @@
+[
+  {
+    "title": "File:Escudo de El Masroig (Tarragona).svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut d'El Masroig.JPG",
+    "score": 90,
+    "confidence": "medium",
+    "isSvg": false,
+    "matchesMunicipality": true
+  }
+]

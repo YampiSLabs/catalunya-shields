@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **450**
-Pending: **497**
-Progress: **47.5%**
+Downloaded: **454**
+Pending: **493**
+Progress: **47.9%**
 
-`[██████████████░░░░░░░░░░░░░░░░] 47.5%`
+`[██████████████░░░░░░░░░░░░░░░░] 47.9%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (157/311 - 50.5%)</b></summary>
+<summary><b>Barcelona (158/311 - 50.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -92,7 +92,7 @@ Progress: **47.5%**
 | el Bruc | `el-bruc` | ❌ Pending |
 | el Brull | `el-brull` | ❌ Pending |
 | el Figaró-Montmany | `el-figaro-montmany` | ✅ Downloaded |
-| el Masnou | `el-masnou` | ❌ Pending |
+| el Masnou | `el-masnou` | ✅ Downloaded |
 | el Papiol | `el-papiol` | ✅ Downloaded |
 | el Pla del Penedès | `el-pla-del-penedes` | ✅ Downloaded |
 | el Pont de Vilomara i Rocafort | `el-pont-de-vilomara-i-rocafort` | ❌ Pending |
@@ -204,7 +204,7 @@ Progress: **47.5%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ❌ Pending |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | 🔍 Has Candidate |
+| Rubí | `rubi` | ❌ Pending |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -417,7 +417,7 @@ Progress: **47.5%**
 | la Cellera de Ter | `la-cellera-de-ter` | ❌ Pending |
 | la Jonquera | `la-jonquera` | ❌ Pending |
 | la Pera | `la-pera` | ❌ Pending |
-| la Selva de Mar | `la-selva-de-mar` | 🔍 Has Candidate |
+| la Selva de Mar | `la-selva-de-mar` | ❌ Pending |
 | la Tallada d'Empordà | `la-tallada-demporda` | ❌ Pending |
 | la Vajol | `la-vajol` | ✅ Downloaded |
 | la Vall d'en Bas | `la-vall-den-bas` | ✅ Downloaded |
@@ -448,7 +448,7 @@ Progress: **47.5%**
 | Navata | `navata` | ❌ Pending |
 | Ogassa | `ogassa` | ❌ Pending |
 | Olot | `olot` | ✅ Downloaded |
-| Ordis | `ordis` | 🔍 Has Candidate |
+| Ordis | `ordis` | ❌ Pending |
 | Osor | `osor` | ❌ Pending |
 | Palafrugell | `palafrugell` | ❌ Pending |
 | Palamós | `palamos` | ❌ Pending |
@@ -500,7 +500,7 @@ Progress: **47.5%**
 | Sant Julià de Ramis | `sant-julia-de-ramis` | ❌ Pending |
 | Sant Julià del Llor i Bonmatí | `sant-julia-del-llor-i-bonmati` | ❌ Pending |
 | Sant Llorenç de la Muga | `sant-llorenc-de-la-muga` | ✅ Downloaded |
-| Sant Martí de Llémena | `sant-marti-de-llemena` | 🔍 Has Candidate |
+| Sant Martí de Llémena | `sant-marti-de-llemena` | ❌ Pending |
 | Sant Martí Vell | `sant-marti-vell` | ✅ Downloaded |
 | Sant Miquel de Campmajor | `sant-miquel-de-campmajor` | ❌ Pending |
 | Sant Miquel de Fluvià | `sant-miquel-de-fluvia` | ❌ Pending |
@@ -684,7 +684,7 @@ Progress: **47.5%**
 | la Seu d'Urgell | `la-seu-durgell` | ❌ Pending |
 | la Torre de Cabdella | `la-torre-de-cabdella` | ✅ Downloaded |
 | la Vall de Boí | `la-vall-de-boi` | ❌ Pending |
-| la Vansa i Fórnols | `la-vansa-i-fornols` | 🔍 Has Candidate |
+| la Vansa i Fórnols | `la-vansa-i-fornols` | ❌ Pending |
 | Les | `les` | ❌ Pending |
 | les Avellanes i Santa Linya | `les-avellanes-i-santa-linya` | ❌ Pending |
 | les Borges Blanques | `les-borges-blanques` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **47.5%**
 </details>
 
 <details>
-<summary><b>Tarragona (80/184 - 43.5%)</b></summary>
+<summary><b>Tarragona (83/184 - 45.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -846,9 +846,9 @@ Progress: **47.5%**
 | Deltebre | `deltebre` | ✅ Downloaded |
 | Duesaigües | `duesaigues` | ❌ Pending |
 | el Catllar | `el-catllar` | ❌ Pending |
-| el Lloar | `el-lloar` | ❌ Pending |
-| el Masroig | `el-masroig` | ❌ Pending |
-| el Milà | `el-mila` | ❌ Pending |
+| el Lloar | `el-lloar` | ✅ Downloaded |
+| el Masroig | `el-masroig` | ✅ Downloaded |
+| el Milà | `el-mila` | ✅ Downloaded |
 | el Molar | `el-molar` | ✅ Downloaded |
 | el Montmell | `el-montmell` | ✅ Downloaded |
 | el Morell | `el-morell` | ✅ Downloaded |
@@ -912,7 +912,7 @@ Progress: **47.5%**
 | Margalef | `margalef` | ✅ Downloaded |
 | Mas de Barberans | `mas-de-barberans` | ✅ Downloaded |
 | Masdenverge | `masdenverge` | ✅ Downloaded |
-| Masllorenç | `masllorenc` | 🔍 Has Candidate |
+| Masllorenç | `masllorenc` | ❌ Pending |
 | Maspujols | `maspujols` | ❌ Pending |
 | Miravet | `miravet` | ❌ Pending |
 | Mont-ral | `mont-ral` | ✅ Downloaded |
@@ -953,7 +953,7 @@ Progress: **47.5%**
 | Sant Jaume dels Domenys | `sant-jaume-dels-domenys` | ❌ Pending |
 | Santa Bàrbara | `santa-barbara` | ✅ Downloaded |
 | Santa Coloma de Queralt | `santa-coloma-de-queralt` | ❌ Pending |
-| Santa Oliva | `santa-oliva` | 🔍 Has Candidate |
+| Santa Oliva | `santa-oliva` | ❌ Pending |
 | Sarral | `sarral` | ❌ Pending |
 | Savallà del Comtat | `savalla-del-comtat` | ❌ Pending |
 | Senan | `senan` | ❌ Pending |

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 450,
-  "missingCount": 497,
+  "downloadedCount": 454,
+  "missingCount": 493,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4143,46 +4143,6 @@
       "rawSvgPath": "raw/svg/el-far-demporda.svg",
       "assetSvgPath": "assets/svg/el-far-demporda.svg",
       "candidatePath": "data/commons-candidates/el-far-demporda.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-lloar": {
-      "slug": "el-lloar",
-      "name": "el Lloar",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/el-lloar.svg",
-      "assetSvgPath": "assets/svg/el-lloar.svg",
-      "candidatePath": "data/commons-candidates/el-lloar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-masnou": {
-      "slug": "el-masnou",
-      "name": "el Masnou",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/el-masnou.svg",
-      "assetSvgPath": "assets/svg/el-masnou.svg",
-      "candidatePath": "data/commons-candidates/el-masnou.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-masroig": {
-      "slug": "el-masroig",
-      "name": "el Masroig",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/el-masroig.svg",
-      "assetSvgPath": "assets/svg/el-masroig.svg",
-      "candidatePath": "data/commons-candidates/el-masroig.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "el-mila": {
-      "slug": "el-mila",
-      "name": "el Milà",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/el-mila.svg",
-      "assetSvgPath": "assets/svg/el-mila.svg",
-      "candidatePath": "data/commons-candidates/el-mila.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
