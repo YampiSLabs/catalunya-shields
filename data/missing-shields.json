@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 464,
-  "missingCount": 483,
+  "downloadedCount": 466,
+  "missingCount": 481,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4336,16 +4336,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "la-bisbal-demporda": {
-      "slug": "la-bisbal-demporda",
-      "name": "la Bisbal d'Empordà",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/la-bisbal-demporda.svg",
-      "assetSvgPath": "assets/svg/la-bisbal-demporda.svg",
-      "candidatePath": "data/commons-candidates/la-bisbal-demporda.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "la-bisbal-de-montsant": {
       "slug": "la-bisbal-de-montsant",
       "name": "la Bisbal de Montsant",
@@ -4353,16 +4343,6 @@
       "rawSvgPath": "raw/svg/la-bisbal-de-montsant.svg",
       "assetSvgPath": "assets/svg/la-bisbal-de-montsant.svg",
       "candidatePath": "data/commons-candidates/la-bisbal-de-montsant.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-bisbal-del-penedes": {
-      "slug": "la-bisbal-del-penedes",
-      "name": "la Bisbal del Penedès",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/la-bisbal-del-penedes.svg",
-      "assetSvgPath": "assets/svg/la-bisbal-del-penedes.svg",
-      "candidatePath": "data/commons-candidates/la-bisbal-del-penedes.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

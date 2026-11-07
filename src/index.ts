@@ -263,6 +263,8 @@ export { default as IsonaIConcaDellà } from "../assets/svg/isona-i-conca-della.
 export { default as Isòvol } from "../assets/svg/isovol.svg";
 export { default as IvarsDeNoguera } from "../assets/svg/ivars-de-noguera.svg";
 export { default as IvarsDUrgell } from "../assets/svg/ivars-durgell.svg";
+export { default as LaBisbalDelPenedès } from "../assets/svg/la-bisbal-del-penedes.svg";
+export { default as LaBisbalDEmpordà } from "../assets/svg/la-bisbal-demporda.svg";
 export { default as LaGarriga } from "../assets/svg/la-garriga.svg";
 export { default as LaGranada } from "../assets/svg/la-granada.svg";
 export { default as LaGranadella } from "../assets/svg/la-granadella.svg";
