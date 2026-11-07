@@ -1,0 +1,44 @@
+[
+  {
+    "title": "File:Escut de Molins de Rei THV-ES.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Molins de Rei.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut oficial de Molins de Rei.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut oficial de Molins de Rei.jpg",
+    "score": 50,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut oficial de Molins de Rei.png",
+    "score": 50,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Palau Requesens - MdR - Escut a Can Mateu.JPG",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

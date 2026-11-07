@@ -1,0 +1,30 @@
+[
+  {
+    "title": "File:Escut de Moià.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut heràldic de Moià sense timbre.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de Moià darrere l'església de Santa Maria.jpg",
+    "score": 90,
+    "confidence": "medium",
+    "isSvg": false,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Moià - escut.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 461,
-  "missingCount": 486,
+  "downloadedCount": 464,
+  "missingCount": 483,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1043,36 +1043,6 @@
       "rawSvgPath": "raw/svg/miralcamp.svg",
       "assetSvgPath": "assets/svg/miralcamp.svg",
       "candidatePath": "data/commons-candidates/miralcamp.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "miravet": {
-      "slug": "miravet",
-      "name": "Miravet",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/miravet.svg",
-      "assetSvgPath": "assets/svg/miravet.svg",
-      "candidatePath": "data/commons-candidates/miravet.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "moia": {
-      "slug": "moia",
-      "name": "Moià",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/moia.svg",
-      "assetSvgPath": "assets/svg/moia.svg",
-      "candidatePath": "data/commons-candidates/moia.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "molins-de-rei": {
-      "slug": "molins-de-rei",
-      "name": "Molins de Rei",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/molins-de-rei.svg",
-      "assetSvgPath": "assets/svg/molins-de-rei.svg",
-      "candidatePath": "data/commons-candidates/molins-de-rei.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

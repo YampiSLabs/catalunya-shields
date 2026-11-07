@@ -1,0 +1,30 @@
+[
+  {
+    "title": "File:Escudo de Barbastro.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escudo de Mollerusa (Lérida).svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de Mollerussa a la façana de l'ajuntament.JPG",
+    "score": 90,
+    "confidence": "medium",
+    "isSvg": false,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:046 Ajuntament de Mollerussa, escut de la ciutat.JPG",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]
