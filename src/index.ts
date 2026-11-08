@@ -364,6 +364,7 @@ export { default as RibesDeFreser } from "../assets/svg/ribes-de-freser.svg";
 export { default as RiellsIViabrea } from "../assets/svg/riells-i-viabrea.svg";
 export { default as Riner } from "../assets/svg/riner.svg";
 export { default as Ripoll } from "../assets/svg/ripoll.svg";
+export { default as Ripollet } from "../assets/svg/ripollet.svg";
 export { default as Riudarenes } from "../assets/svg/riudarenes.svg";
 export { default as Riudaura } from "../assets/svg/riudaura.svg";
 export { default as Riudecanyes } from "../assets/svg/riudecanyes.svg";

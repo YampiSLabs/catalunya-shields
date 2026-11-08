@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 469,
-  "missingCount": 478,
+  "downloadedCount": 470,
+  "missingCount": 477,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1983,16 +1983,6 @@
       "rawSvgPath": "raw/svg/ribera-durgellet.svg",
       "assetSvgPath": "assets/svg/ribera-durgellet.svg",
       "candidatePath": "data/commons-candidates/ribera-durgellet.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "ripollet": {
-      "slug": "ripollet",
-      "name": "Ripollet",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/ripollet.svg",
-      "assetSvgPath": "assets/svg/ripollet.svg",
-      "candidatePath": "data/commons-candidates/ripollet.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
