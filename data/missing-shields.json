@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 466,
-  "missingCount": 481,
+  "downloadedCount": 469,
+  "missingCount": 478,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2526,16 +2526,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "sant-llorenc-savall": {
-      "slug": "sant-llorenc-savall",
-      "name": "Sant Llorenç Savall",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-llorenc-savall.svg",
-      "assetSvgPath": "assets/svg/sant-llorenc-savall.svg",
-      "candidatePath": "data/commons-candidates/sant-llorenc-savall.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "sant-marti-dalbars": {
       "slug": "sant-marti-dalbars",
       "name": "Sant Martí d'Albars",
@@ -2543,26 +2533,6 @@
       "rawSvgPath": "raw/svg/sant-marti-dalbars.svg",
       "assetSvgPath": "assets/svg/sant-marti-dalbars.svg",
       "candidatePath": "data/commons-candidates/sant-marti-dalbars.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-marti-de-llemena": {
-      "slug": "sant-marti-de-llemena",
-      "name": "Sant Martí de Llémena",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/sant-marti-de-llemena.svg",
-      "assetSvgPath": "assets/svg/sant-marti-de-llemena.svg",
-      "candidatePath": "data/commons-candidates/sant-marti-de-llemena.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-marti-de-riucorb": {
-      "slug": "sant-marti-de-riucorb",
-      "name": "Sant Martí de Riucorb",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/sant-marti-de-riucorb.svg",
-      "assetSvgPath": "assets/svg/sant-marti-de-riucorb.svg",
-      "candidatePath": "data/commons-candidates/sant-marti-de-riucorb.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

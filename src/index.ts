@@ -405,7 +405,10 @@ export { default as SantJaumeDEnveja } from "../assets/svg/sant-jaume-denveja.sv
 export { default as SantLlorençDeLaMuga } from "../assets/svg/sant-llorenc-de-la-muga.svg";
 export { default as SantLlorençDeMorunys } from "../assets/svg/sant-llorenc-de-morunys.svg";
 export { default as SantLlorençDHortons } from "../assets/svg/sant-llorenc-dhortons.svg";
+export { default as SantLlorençSavall } from "../assets/svg/sant-llorenc-savall.svg";
 export { default as SantMartíDeCentelles } from "../assets/svg/sant-marti-de-centelles.svg";
+export { default as SantMartíDeLlémena } from "../assets/svg/sant-marti-de-llemena.svg";
+export { default as SantMartíDeRiucorb } from "../assets/svg/sant-marti-de-riucorb.svg";
 export { default as SantMartíSarroca } from "../assets/svg/sant-marti-sarroca.svg";
 export { default as SantMartíSesgueioles } from "../assets/svg/sant-marti-sesgueioles.svg";
 export { default as SantMartíVell } from "../assets/svg/sant-marti-vell.svg";
