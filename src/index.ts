@@ -282,6 +282,8 @@ export { default as LaRieraDeGaià } from "../assets/svg/la-riera-de-gaia.svg";
 export { default as LArmentera } from "../assets/svg/larmentera.svg";
 export { default as LaRocaDelVallès } from "../assets/svg/la-roca-del-valles.svg";
 export { default as LaSecuita } from "../assets/svg/la-secuita.svg";
+export { default as LaSelvaDelCamp } from "../assets/svg/la-selva-del-camp.svg";
+export { default as LaSelvaDeMar } from "../assets/svg/la-selva-de-mar.svg";
 export { default as LaTorreDeCabdella } from "../assets/svg/la-torre-de-cabdella.svg";
 export { default as LaTorreDeClaramunt } from "../assets/svg/la-torre-de-claramunt.svg";
 export { default as LaTorreDeFontaubella } from "../assets/svg/la-torre-de-fontaubella.svg";

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 475,
-  "missingCount": 472,
+  "downloadedCount": 477,
+  "missingCount": 470,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -4523,26 +4523,6 @@
       "rawSvgPath": "raw/svg/la-rapita.svg",
       "assetSvgPath": "assets/svg/la-rapita.svg",
       "candidatePath": "data/commons-candidates/la-rapita.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-selva-de-mar": {
-      "slug": "la-selva-de-mar",
-      "name": "la Selva de Mar",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/la-selva-de-mar.svg",
-      "assetSvgPath": "assets/svg/la-selva-de-mar.svg",
-      "candidatePath": "data/commons-candidates/la-selva-de-mar.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "la-selva-del-camp": {
-      "slug": "la-selva-del-camp",
-      "name": "la Selva del Camp",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/la-selva-del-camp.svg",
-      "assetSvgPath": "assets/svg/la-selva-del-camp.svg",
-      "candidatePath": "data/commons-candidates/la-selva-del-camp.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
