@@ -1,0 +1,58 @@
+[
+  {
+    "title": "File:Escut de Verges.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Foios ornamentat.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de Foios.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de Càlig de 1786.jpg",
+    "score": 50,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de morella (somat de la Mare de Déu).jpg",
+    "score": 50,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut Felip V a l'Ermitana.JPG",
+    "score": 50,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:3. Escut a la façana del CEIP Juan Lacomba Guillot (Xella, Canal de Navarrés, País Valencià).jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:3. Escut del Palau dels Comtes de Bunyol (Xella, Canal de Navarrés, País Valencià).jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

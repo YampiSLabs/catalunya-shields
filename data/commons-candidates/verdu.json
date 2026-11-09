@@ -1,0 +1,30 @@
+[
+  {
+    "title": "File:Escut de Verdú.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut de Verdú en pedra.JPG",
+    "score": 90,
+    "confidence": "medium",
+    "isSvg": false,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:107 Escut de Verdú a la façana de l'Ajuntament.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:116 Església de Santa Maria, façana sud, fornícula i escut.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 470,
-  "missingCount": 477,
+  "downloadedCount": 475,
+  "missingCount": 472,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3483,56 +3483,6 @@
       "rawSvgPath": "raw/svg/ventallo.svg",
       "assetSvgPath": "assets/svg/ventallo.svg",
       "candidatePath": "data/commons-candidates/ventallo.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "verdu": {
-      "slug": "verdu",
-      "name": "Verdú",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/verdu.svg",
-      "assetSvgPath": "assets/svg/verdu.svg",
-      "candidatePath": "data/commons-candidates/verdu.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "verges": {
-      "slug": "verges",
-      "name": "Verges",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/verges.svg",
-      "assetSvgPath": "assets/svg/verges.svg",
-      "candidatePath": "data/commons-candidates/verges.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vespella-de-gaia": {
-      "slug": "vespella-de-gaia",
-      "name": "Vespella de Gaià",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/vespella-de-gaia.svg",
-      "assetSvgPath": "assets/svg/vespella-de-gaia.svg",
-      "candidatePath": "data/commons-candidates/vespella-de-gaia.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vic": {
-      "slug": "vic",
-      "name": "Vic",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/vic.svg",
-      "assetSvgPath": "assets/svg/vic.svg",
-      "candidatePath": "data/commons-candidates/vic.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "vidreres": {
-      "slug": "vidreres",
-      "name": "Vidreres",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/vidreres.svg",
-      "assetSvgPath": "assets/svg/vidreres.svg",
-      "candidatePath": "data/commons-candidates/vidreres.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

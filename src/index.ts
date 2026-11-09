@@ -454,6 +454,11 @@ export { default as VallfogonaDeBalaguer } from "../assets/svg/vallfogona-de-bal
 export { default as VallfogonaDeRipollès } from "../assets/svg/vallfogona-de-ripolles.svg";
 export { default as VallfogonaDeRiucorb } from "../assets/svg/vallfogona-de-riucorb.svg";
 export { default as Vallgorguina } from "../assets/svg/vallgorguina.svg";
+export { default as Verdú } from "../assets/svg/verdu.svg";
+export { default as Verges } from "../assets/svg/verges.svg";
+export { default as VespellaDeGaià } from "../assets/svg/vespella-de-gaia.svg";
+export { default as Vic } from "../assets/svg/vic.svg";
+export { default as Vidreres } from "../assets/svg/vidreres.svg";
 export { default as Vilablareix } from "../assets/svg/vilablareix.svg";
 export { default as Vilada } from "../assets/svg/vilada.svg";
 export { default as Viladamat } from "../assets/svg/viladamat.svg";

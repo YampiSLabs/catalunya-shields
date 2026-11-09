@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **470**
-Pending: **477**
-Progress: **49.6%**
+Downloaded: **475**
+Pending: **472**
+Progress: **50.2%**
 
-`[███████████████░░░░░░░░░░░░░░░] 49.6%`
+`[███████████████░░░░░░░░░░░░░░░] 50.2%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (162/311 - 52.1%)</b></summary>
+<summary><b>Barcelona (163/311 - 52.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -204,7 +204,7 @@ Progress: **49.6%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ✅ Downloaded |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | 🔍 Has Candidate |
+| Rubí | `rubi` | ❌ Pending |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -311,7 +311,7 @@ Progress: **49.6%**
 | Vallirana | `vallirana` | ❌ Pending |
 | Vallromanes | `vallromanes` | ❌ Pending |
 | Veciana | `veciana` | ❌ Pending |
-| Vic | `vic` | ❌ Pending |
+| Vic | `vic` | ✅ Downloaded |
 | Vilada | `vilada` | ✅ Downloaded |
 | Viladecans | `viladecans` | ✅ Downloaded |
 | Viladecavalls | `viladecavalls` | ✅ Downloaded |
@@ -329,7 +329,7 @@ Progress: **49.6%**
 </details>
 
 <details>
-<summary><b>Girona (102/221 - 46.2%)</b></summary>
+<summary><b>Girona (104/221 - 47.1%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -417,7 +417,7 @@ Progress: **49.6%**
 | la Cellera de Ter | `la-cellera-de-ter` | ❌ Pending |
 | la Jonquera | `la-jonquera` | ❌ Pending |
 | la Pera | `la-pera` | ❌ Pending |
-| la Selva de Mar | `la-selva-de-mar` | 🔍 Has Candidate |
+| la Selva de Mar | `la-selva-de-mar` | ❌ Pending |
 | la Tallada d'Empordà | `la-tallada-demporda` | ❌ Pending |
 | la Vajol | `la-vajol` | ✅ Downloaded |
 | la Vall d'en Bas | `la-vall-den-bas` | ✅ Downloaded |
@@ -432,7 +432,7 @@ Progress: **49.6%**
 | Lledó | `lledo` | ❌ Pending |
 | Llers | `llers` | ✅ Downloaded |
 | Llívia | `llivia` | ❌ Pending |
-| Lloret de Mar | `lloret-de-mar` | 🔍 Has Candidate |
+| Lloret de Mar | `lloret-de-mar` | ❌ Pending |
 | Maçanes | `macanes` | ❌ Pending |
 | Maçanet de Cabrenys | `macanet-de-cabrenys` | ❌ Pending |
 | Maçanet de la Selva | `macanet-de-la-selva` | ❌ Pending |
@@ -448,7 +448,7 @@ Progress: **49.6%**
 | Navata | `navata` | ❌ Pending |
 | Ogassa | `ogassa` | ❌ Pending |
 | Olot | `olot` | ✅ Downloaded |
-| Ordis | `ordis` | 🔍 Has Candidate |
+| Ordis | `ordis` | ❌ Pending |
 | Osor | `osor` | ❌ Pending |
 | Palafrugell | `palafrugell` | ❌ Pending |
 | Palamós | `palamos` | ❌ Pending |
@@ -533,9 +533,9 @@ Progress: **49.6%**
 | Vall-llobrega | `vall-llobrega` | ❌ Pending |
 | Vallfogona de Ripollès | `vallfogona-de-ripolles` | ✅ Downloaded |
 | Ventalló | `ventallo` | ❌ Pending |
-| Verges | `verges` | ❌ Pending |
+| Verges | `verges` | ✅ Downloaded |
 | Vidrà | `vidra` | ❌ Pending |
-| Vidreres | `vidreres` | ❌ Pending |
+| Vidreres | `vidreres` | ✅ Downloaded |
 | Vila-sacra | `vila-sacra` | ❌ Pending |
 | Vilabertran | `vilabertran` | ❌ Pending |
 | Vilablareix | `vilablareix` | ✅ Downloaded |
@@ -558,7 +558,7 @@ Progress: **49.6%**
 </details>
 
 <details>
-<summary><b>Lleida (119/231 - 51.5%)</b></summary>
+<summary><b>Lleida (120/231 - 51.9%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -684,7 +684,7 @@ Progress: **49.6%**
 | la Seu d'Urgell | `la-seu-durgell` | ❌ Pending |
 | la Torre de Cabdella | `la-torre-de-cabdella` | ✅ Downloaded |
 | la Vall de Boí | `la-vall-de-boi` | ❌ Pending |
-| la Vansa i Fórnols | `la-vansa-i-fornols` | 🔍 Has Candidate |
+| la Vansa i Fórnols | `la-vansa-i-fornols` | ❌ Pending |
 | Les | `les` | ❌ Pending |
 | les Avellanes i Santa Linya | `les-avellanes-i-santa-linya` | ❌ Pending |
 | les Borges Blanques | `les-borges-blanques` | ❌ Pending |
@@ -781,7 +781,7 @@ Progress: **49.6%**
 | Vall de Cardós | `vall-de-cardos` | ❌ Pending |
 | Vallbona de les Monges | `vallbona-de-les-monges` | ❌ Pending |
 | Vallfogona de Balaguer | `vallfogona-de-balaguer` | ✅ Downloaded |
-| Verdú | `verdu` | ❌ Pending |
+| Verdú | `verdu` | ✅ Downloaded |
 | Vielha e Mijaran | `vielha-e-mijaran` | ❌ Pending |
 | Vila-sana | `vila-sana` | ❌ Pending |
 | Vilagrassa | `vilagrassa` | ❌ Pending |
@@ -797,7 +797,7 @@ Progress: **49.6%**
 </details>
 
 <details>
-<summary><b>Tarragona (87/184 - 47.3%)</b></summary>
+<summary><b>Tarragona (88/184 - 47.8%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -882,7 +882,7 @@ Progress: **49.6%**
 | l'Espluga de Francolí | `lespluga-de-francoli` | ❌ Pending |
 | la Bisbal de Montsant | `la-bisbal-de-montsant` | ❌ Pending |
 | la Bisbal del Penedès | `la-bisbal-del-penedes` | ✅ Downloaded |
-| la Canonja | `la-canonja` | 🔍 Has Candidate |
+| la Canonja | `la-canonja` | ❌ Pending |
 | la Fatarella | `la-fatarella` | ❌ Pending |
 | la Febró | `la-febro` | ❌ Pending |
 | la Figuera | `la-figuera` | ❌ Pending |
@@ -912,7 +912,7 @@ Progress: **49.6%**
 | Margalef | `margalef` | ✅ Downloaded |
 | Mas de Barberans | `mas-de-barberans` | ✅ Downloaded |
 | Masdenverge | `masdenverge` | ✅ Downloaded |
-| Masllorenç | `masllorenc` | 🔍 Has Candidate |
+| Masllorenç | `masllorenc` | ❌ Pending |
 | Maspujols | `maspujols` | ❌ Pending |
 | Miravet | `miravet` | ✅ Downloaded |
 | Mont-ral | `mont-ral` | ✅ Downloaded |
@@ -953,7 +953,7 @@ Progress: **49.6%**
 | Sant Jaume dels Domenys | `sant-jaume-dels-domenys` | ❌ Pending |
 | Santa Bàrbara | `santa-barbara` | ✅ Downloaded |
 | Santa Coloma de Queralt | `santa-coloma-de-queralt` | ❌ Pending |
-| Santa Oliva | `santa-oliva` | 🔍 Has Candidate |
+| Santa Oliva | `santa-oliva` | ❌ Pending |
 | Sarral | `sarral` | ❌ Pending |
 | Savallà del Comtat | `savalla-del-comtat` | ❌ Pending |
 | Senan | `senan` | ❌ Pending |
@@ -971,7 +971,7 @@ Progress: **49.6%**
 | Vallmoll | `vallmoll` | ❌ Pending |
 | Valls | `valls` | ❌ Pending |
 | Vandellòs i l'Hospitalet de l'Infant | `vandellos-i-lhospitalet-de-linfant` | ❌ Pending |
-| Vespella de Gaià | `vespella-de-gaia` | ❌ Pending |
+| Vespella de Gaià | `vespella-de-gaia` | ✅ Downloaded |
 | Vila-rodona | `vila-rodona` | ❌ Pending |
 | Vila-seca | `vila-seca` | ❌ Pending |
 | Vilabella | `vilabella` | ❌ Pending |
