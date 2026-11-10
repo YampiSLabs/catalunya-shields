@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 481,
-  "missingCount": 466,
+  "downloadedCount": 489,
+  "missingCount": 458,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -3003,86 +3003,6 @@
       "rawSvgPath": "raw/svg/sunyer.svg",
       "assetSvgPath": "assets/svg/sunyer.svg",
       "candidatePath": "data/commons-candidates/sunyer.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "susqueda": {
-      "slug": "susqueda",
-      "name": "Susqueda",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/susqueda.svg",
-      "assetSvgPath": "assets/svg/susqueda.svg",
-      "candidatePath": "data/commons-candidates/susqueda.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "suria": {
-      "slug": "suria",
-      "name": "Súria",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/suria.svg",
-      "assetSvgPath": "assets/svg/suria.svg",
-      "candidatePath": "data/commons-candidates/suria.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tagamanent": {
-      "slug": "tagamanent",
-      "name": "Tagamanent",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/tagamanent.svg",
-      "assetSvgPath": "assets/svg/tagamanent.svg",
-      "candidatePath": "data/commons-candidates/tagamanent.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "talamanca": {
-      "slug": "talamanca",
-      "name": "Talamanca",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/talamanca.svg",
-      "assetSvgPath": "assets/svg/talamanca.svg",
-      "candidatePath": "data/commons-candidates/talamanca.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "talarn": {
-      "slug": "talarn",
-      "name": "Talarn",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/talarn.svg",
-      "assetSvgPath": "assets/svg/talarn.svg",
-      "candidatePath": "data/commons-candidates/talarn.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "talavera": {
-      "slug": "talavera",
-      "name": "Talavera",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/talavera.svg",
-      "assetSvgPath": "assets/svg/talavera.svg",
-      "candidatePath": "data/commons-candidates/talavera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "taradell": {
-      "slug": "taradell",
-      "name": "Taradell",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/taradell.svg",
-      "assetSvgPath": "assets/svg/taradell.svg",
-      "candidatePath": "data/commons-candidates/taradell.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "tarragona": {
-      "slug": "tarragona",
-      "name": "Tarragona",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/tarragona.svg",
-      "assetSvgPath": "assets/svg/tarragona.svg",
-      "candidatePath": "data/commons-candidates/tarragona.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

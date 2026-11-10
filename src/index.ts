@@ -432,6 +432,14 @@ export { default as SantSadurníDAnoia } from "../assets/svg/sant-sadurni-danoia
 export { default as Serinyà } from "../assets/svg/serinya.svg";
 export { default as Seròs } from "../assets/svg/seros.svg";
 export { default as SerraDeDaró } from "../assets/svg/serra-de-daro.svg";
+export { default as Súria } from "../assets/svg/suria.svg";
+export { default as Susqueda } from "../assets/svg/susqueda.svg";
+export { default as Tagamanent } from "../assets/svg/tagamanent.svg";
+export { default as Talamanca } from "../assets/svg/talamanca.svg";
+export { default as Talarn } from "../assets/svg/talarn.svg";
+export { default as Talavera } from "../assets/svg/talavera.svg";
+export { default as Taradell } from "../assets/svg/taradell.svg";
+export { default as Tarragona } from "../assets/svg/tarragona.svg";
 export { default as Tàrrega } from "../assets/svg/tarrega.svg";
 export { default as Térmens } from "../assets/svg/termens.svg";
 export { default as Terrassa } from "../assets/svg/terrassa.svg";

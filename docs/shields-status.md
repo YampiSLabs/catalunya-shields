@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **481**
-Pending: **466**
-Progress: **50.8%**
+Downloaded: **489**
+Pending: **458**
+Progress: **51.6%**
 
-`[███████████████░░░░░░░░░░░░░░░] 50.8%`
+`[███████████████░░░░░░░░░░░░░░░] 51.6%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (163/311 - 52.4%)</b></summary>
+<summary><b>Barcelona (167/311 - 53.7%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -204,7 +204,7 @@ Progress: **50.8%**
 | Rellinars | `rellinars` | ❌ Pending |
 | Ripollet | `ripollet` | ✅ Downloaded |
 | Roda de Ter | `roda-de-ter` | ✅ Downloaded |
-| Rubí | `rubi` | ❌ Pending |
+| Rubí | `rubi` | 🔍 Has Candidate |
 | Rubió | `rubio` | ✅ Downloaded |
 | Rupit i Pruit | `rupit-i-pruit` | ❌ Pending |
 | Sabadell | `sabadell` | ✅ Downloaded |
@@ -288,10 +288,10 @@ Progress: **50.8%**
 | Sobremunt | `sobremunt` | ❌ Pending |
 | Sora | `sora` | ❌ Pending |
 | Subirats | `subirats` | ❌ Pending |
-| Súria | `suria` | ❌ Pending |
-| Tagamanent | `tagamanent` | ❌ Pending |
-| Talamanca | `talamanca` | ❌ Pending |
-| Taradell | `taradell` | ❌ Pending |
+| Súria | `suria` | ✅ Downloaded |
+| Tagamanent | `tagamanent` | ✅ Downloaded |
+| Talamanca | `talamanca` | ✅ Downloaded |
+| Taradell | `taradell` | ✅ Downloaded |
 | Tavèrnoles | `tavernoles` | ❌ Pending |
 | Tavertet | `tavertet` | ❌ Pending |
 | Teià | `teia` | ❌ Pending |
@@ -329,7 +329,7 @@ Progress: **50.8%**
 </details>
 
 <details>
-<summary><b>Girona (106/221 - 48.0%)</b></summary>
+<summary><b>Girona (107/221 - 48.4%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -432,7 +432,7 @@ Progress: **50.8%**
 | Lledó | `lledo` | ❌ Pending |
 | Llers | `llers` | ✅ Downloaded |
 | Llívia | `llivia` | ❌ Pending |
-| Lloret de Mar | `lloret-de-mar` | ❌ Pending |
+| Lloret de Mar | `lloret-de-mar` | 🔍 Has Candidate |
 | Maçanes | `macanes` | ❌ Pending |
 | Maçanet de Cabrenys | `macanet-de-cabrenys` | ❌ Pending |
 | Maçanet de la Selva | `macanet-de-la-selva` | ❌ Pending |
@@ -448,7 +448,7 @@ Progress: **50.8%**
 | Navata | `navata` | ✅ Downloaded |
 | Ogassa | `ogassa` | ❌ Pending |
 | Olot | `olot` | ✅ Downloaded |
-| Ordis | `ordis` | ❌ Pending |
+| Ordis | `ordis` | 🔍 Has Candidate |
 | Osor | `osor` | ❌ Pending |
 | Palafrugell | `palafrugell` | ❌ Pending |
 | Palamós | `palamos` | ❌ Pending |
@@ -518,7 +518,7 @@ Progress: **50.8%**
 | Setcases | `setcases` | ❌ Pending |
 | Sils | `sils` | ❌ Pending |
 | Siurana | `siurana` | ❌ Pending |
-| Susqueda | `susqueda` | ❌ Pending |
+| Susqueda | `susqueda` | ✅ Downloaded |
 | Terrades | `terrades` | ❌ Pending |
 | Torrent | `torrent` | ✅ Downloaded |
 | Torroella de Fluvià | `torroella-de-fluvia` | ✅ Downloaded |
@@ -558,7 +558,7 @@ Progress: **50.8%**
 </details>
 
 <details>
-<summary><b>Lleida (121/231 - 52.4%)</b></summary>
+<summary><b>Lleida (123/231 - 53.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -681,10 +681,10 @@ Progress: **50.8%**
 | la Pobla de Segur | `la-pobla-de-segur` | ✅ Downloaded |
 | la Portella | `la-portella` | ✅ Downloaded |
 | la Sentiu de Sió | `la-sentiu-de-sio` | ❌ Pending |
-| la Seu d'Urgell | `la-seu-durgell` | ❌ Pending |
+| la Seu d'Urgell | `la-seu-durgell` | 🔍 Has Candidate |
 | la Torre de Cabdella | `la-torre-de-cabdella` | ✅ Downloaded |
 | la Vall de Boí | `la-vall-de-boi` | ❌ Pending |
-| la Vansa i Fórnols | `la-vansa-i-fornols` | ❌ Pending |
+| la Vansa i Fórnols | `la-vansa-i-fornols` | 🔍 Has Candidate |
 | Les | `les` | ❌ Pending |
 | les Avellanes i Santa Linya | `les-avellanes-i-santa-linya` | ❌ Pending |
 | les Borges Blanques | `les-borges-blanques` | ❌ Pending |
@@ -760,11 +760,11 @@ Progress: **50.8%**
 | Soses | `soses` | ❌ Pending |
 | Sudanell | `sudanell` | ❌ Pending |
 | Sunyer | `sunyer` | ❌ Pending |
-| Talarn | `talarn` | ❌ Pending |
-| Talavera | `talavera` | ❌ Pending |
+| Talarn | `talarn` | ✅ Downloaded |
+| Talavera | `talavera` | ✅ Downloaded |
 | Tàrrega | `tarrega` | ✅ Downloaded |
 | Tarrés | `tarres` | ❌ Pending |
-| Tarroja de Segarra | `tarroja-de-segarra` | ❌ Pending |
+| Tarroja de Segarra | `tarroja-de-segarra` | 🔍 Has Candidate |
 | Térmens | `termens` | ✅ Downloaded |
 | Tírvia | `tirvia` | ❌ Pending |
 | Tiurana | `tiurana` | ✅ Downloaded |
@@ -797,7 +797,7 @@ Progress: **50.8%**
 </details>
 
 <details>
-<summary><b>Tarragona (91/184 - 49.5%)</b></summary>
+<summary><b>Tarragona (92/184 - 50.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -882,7 +882,7 @@ Progress: **50.8%**
 | l'Espluga de Francolí | `lespluga-de-francoli` | ❌ Pending |
 | la Bisbal de Montsant | `la-bisbal-de-montsant` | ❌ Pending |
 | la Bisbal del Penedès | `la-bisbal-del-penedes` | ✅ Downloaded |
-| la Canonja | `la-canonja` | ❌ Pending |
+| la Canonja | `la-canonja` | 🔍 Has Candidate |
 | la Fatarella | `la-fatarella` | ❌ Pending |
 | la Febró | `la-febro` | ❌ Pending |
 | la Figuera | `la-figuera` | ❌ Pending |
@@ -912,7 +912,7 @@ Progress: **50.8%**
 | Margalef | `margalef` | ✅ Downloaded |
 | Mas de Barberans | `mas-de-barberans` | ✅ Downloaded |
 | Masdenverge | `masdenverge` | ✅ Downloaded |
-| Masllorenç | `masllorenc` | ❌ Pending |
+| Masllorenç | `masllorenc` | 🔍 Has Candidate |
 | Maspujols | `maspujols` | ❌ Pending |
 | Miravet | `miravet` | ✅ Downloaded |
 | Mont-ral | `mont-ral` | ✅ Downloaded |
@@ -953,12 +953,12 @@ Progress: **50.8%**
 | Sant Jaume dels Domenys | `sant-jaume-dels-domenys` | ❌ Pending |
 | Santa Bàrbara | `santa-barbara` | ✅ Downloaded |
 | Santa Coloma de Queralt | `santa-coloma-de-queralt` | ❌ Pending |
-| Santa Oliva | `santa-oliva` | ❌ Pending |
+| Santa Oliva | `santa-oliva` | 🔍 Has Candidate |
 | Sarral | `sarral` | ❌ Pending |
 | Savallà del Comtat | `savalla-del-comtat` | ❌ Pending |
 | Senan | `senan` | ❌ Pending |
 | Solivella | `solivella` | ❌ Pending |
-| Tarragona | `tarragona` | ❌ Pending |
+| Tarragona | `tarragona` | ✅ Downloaded |
 | Tivenys | `tivenys` | ✅ Downloaded |
 | Tivissa | `tivissa` | ✅ Downloaded |
 | Torredembarra | `torredembarra` | ✅ Downloaded |
