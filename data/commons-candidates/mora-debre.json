@@ -1,0 +1,16 @@
+[
+  {
+    "title": "File:Escut de Móra d'Ebre.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut del Morell.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  }
+]

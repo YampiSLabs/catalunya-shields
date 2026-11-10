@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 477,
-  "missingCount": 470,
+  "downloadedCount": 481,
+  "missingCount": 466,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1206,36 +1206,6 @@
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
-    "mora-debre": {
-      "slug": "mora-debre",
-      "name": "Móra d'Ebre",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/mora-debre.svg",
-      "assetSvgPath": "assets/svg/mora-debre.svg",
-      "candidatePath": "data/commons-candidates/mora-debre.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "mora-la-nova": {
-      "slug": "mora-la-nova",
-      "name": "Móra la Nova",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/mora-la-nova.svg",
-      "assetSvgPath": "assets/svg/mora-la-nova.svg",
-      "candidatePath": "data/commons-candidates/mora-la-nova.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "nalec": {
-      "slug": "nalec",
-      "name": "Nalec",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/nalec.svg",
-      "assetSvgPath": "assets/svg/nalec.svg",
-      "candidatePath": "data/commons-candidates/nalec.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
     "naut-aran": {
       "slug": "naut-aran",
       "name": "Naut Aran",
@@ -1253,16 +1223,6 @@
       "rawSvgPath": "raw/svg/navarcles.svg",
       "assetSvgPath": "assets/svg/navarcles.svg",
       "candidatePath": "data/commons-candidates/navarcles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "navata": {
-      "slug": "navata",
-      "name": "Navata",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/navata.svg",
-      "assetSvgPath": "assets/svg/navata.svg",
-      "candidatePath": "data/commons-candidates/navata.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

@@ -337,6 +337,10 @@ export { default as MontferrerICastellbò } from "../assets/svg/montferrer-i-cas
 export { default as MontRal } from "../assets/svg/mont-ral.svg";
 export { default as MontRas } from "../assets/svg/mont-ras.svg";
 export { default as MontRoigDelCamp } from "../assets/svg/mont-roig-del-camp.svg";
+export { default as MóraDEbre } from "../assets/svg/mora-debre.svg";
+export { default as MóraLaNova } from "../assets/svg/mora-la-nova.svg";
+export { default as Nalec } from "../assets/svg/nalec.svg";
+export { default as Navata } from "../assets/svg/navata.svg";
 export { default as Òdena } from "../assets/svg/odena.svg";
 export { default as Olèrdola } from "../assets/svg/olerdola.svg";
 export { default as Oliola } from "../assets/svg/oliola.svg";
