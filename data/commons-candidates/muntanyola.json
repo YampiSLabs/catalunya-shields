@@ -1,0 +1,30 @@
+[
+  {
+    "title": "File:Escut de Muntanyola.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut Muntanyola.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut oficial de Muntanyola.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut - Muntanyola CIC 20110928 00774.jpg",
+    "score": 90,
+    "confidence": "medium",
+    "isSvg": false,
+    "matchesMunicipality": true
+  }
+]

@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 489,
-  "missingCount": 458,
+  "downloadedCount": 494,
+  "missingCount": 453,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -1143,56 +1143,6 @@
       "rawSvgPath": "raw/svg/montoliu-de-lleida.svg",
       "assetSvgPath": "assets/svg/montoliu-de-lleida.svg",
       "candidatePath": "data/commons-candidates/montoliu-de-lleida.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montoliu-de-segarra": {
-      "slug": "montoliu-de-segarra",
-      "name": "Montoliu de Segarra",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/montoliu-de-segarra.svg",
-      "assetSvgPath": "assets/svg/montoliu-de-segarra.svg",
-      "candidatePath": "data/commons-candidates/montoliu-de-segarra.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montornes-de-segarra": {
-      "slug": "montornes-de-segarra",
-      "name": "Montornès de Segarra",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/montornes-de-segarra.svg",
-      "assetSvgPath": "assets/svg/montornes-de-segarra.svg",
-      "candidatePath": "data/commons-candidates/montornes-de-segarra.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montornes-del-valles": {
-      "slug": "montornes-del-valles",
-      "name": "Montornès del Vallès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/montornes-del-valles.svg",
-      "assetSvgPath": "assets/svg/montornes-del-valles.svg",
-      "candidatePath": "data/commons-candidates/montornes-del-valles.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "montseny": {
-      "slug": "montseny",
-      "name": "Montseny",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/montseny.svg",
-      "assetSvgPath": "assets/svg/montseny.svg",
-      "candidatePath": "data/commons-candidates/montseny.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "muntanyola": {
-      "slug": "muntanyola",
-      "name": "Muntanyola",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/muntanyola.svg",
-      "assetSvgPath": "assets/svg/muntanyola.svg",
-      "candidatePath": "data/commons-candidates/muntanyola.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

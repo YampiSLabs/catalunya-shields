@@ -1,0 +1,16 @@
+[
+  {
+    "title": "File:Escut de Montseny.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:020 Casa Illa, Galeries Montseny, c. Jacint Verdaguer 20 (Vic), escut de la ciutat.jpg",
+    "score": 0,
+    "confidence": "low",
+    "isSvg": false,
+    "matchesMunicipality": false
+  }
+]
