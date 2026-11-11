@@ -408,7 +408,15 @@ export { default as SantaMariaDeMerlès } from "../assets/svg/santa-maria-de-mer
 export { default as SantaMariaDeMiralles } from "../assets/svg/santa-maria-de-miralles.svg";
 export { default as SantaMariaDePalautordera } from "../assets/svg/santa-maria-de-palautordera.svg";
 export { default as SantaMariaDOló } from "../assets/svg/santa-maria-dolo.svg";
+export { default as SantBartomeuDelGrau } from "../assets/svg/sant-bartomeu-del-grau.svg";
+export { default as SantBoiDeLlobregat } from "../assets/svg/sant-boi-de-llobregat.svg";
+export { default as SantBoiDeLluçanès } from "../assets/svg/sant-boi-de-llucanes.svg";
+export { default as SantCebriàDeVallalta } from "../assets/svg/sant-cebria-de-vallalta.svg";
+export { default as SantCeloni } from "../assets/svg/sant-celoni.svg";
+export { default as SantClimentDeLlobregat } from "../assets/svg/sant-climent-de-llobregat.svg";
+export { default as SantClimentSescebes } from "../assets/svg/sant-climent-sescebes.svg";
 export { default as SantCugatDelVallès } from "../assets/svg/sant-cugat-del-valles.svg";
+export { default as SantCugatSesgarrigues } from "../assets/svg/sant-cugat-sesgarrigues.svg";
 export { default as SantHilariSacalm } from "../assets/svg/sant-hilari-sacalm.svg";
 export { default as SantHipòlitDeVoltregà } from "../assets/svg/sant-hipolit-de-voltrega.svg";
 export { default as SantIscleDeVallalta } from "../assets/svg/sant-iscle-de-vallalta.svg";

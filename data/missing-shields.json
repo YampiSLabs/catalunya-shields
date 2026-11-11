@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 494,
-  "missingCount": 453,
+  "downloadedCount": 502,
+  "missingCount": 445,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2063,86 +2063,6 @@
       "rawSvgPath": "raw/svg/sant-antoni-de-vilamajor.svg",
       "assetSvgPath": "assets/svg/sant-antoni-de-vilamajor.svg",
       "candidatePath": "data/commons-candidates/sant-antoni-de-vilamajor.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-bartomeu-del-grau": {
-      "slug": "sant-bartomeu-del-grau",
-      "name": "Sant Bartomeu del Grau",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-bartomeu-del-grau.svg",
-      "assetSvgPath": "assets/svg/sant-bartomeu-del-grau.svg",
-      "candidatePath": "data/commons-candidates/sant-bartomeu-del-grau.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-boi-de-llobregat": {
-      "slug": "sant-boi-de-llobregat",
-      "name": "Sant Boi de Llobregat",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-boi-de-llobregat.svg",
-      "assetSvgPath": "assets/svg/sant-boi-de-llobregat.svg",
-      "candidatePath": "data/commons-candidates/sant-boi-de-llobregat.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-boi-de-llucanes": {
-      "slug": "sant-boi-de-llucanes",
-      "name": "Sant Boi de Lluçanès",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-boi-de-llucanes.svg",
-      "assetSvgPath": "assets/svg/sant-boi-de-llucanes.svg",
-      "candidatePath": "data/commons-candidates/sant-boi-de-llucanes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-cebria-de-vallalta": {
-      "slug": "sant-cebria-de-vallalta",
-      "name": "Sant Cebrià de Vallalta",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-cebria-de-vallalta.svg",
-      "assetSvgPath": "assets/svg/sant-cebria-de-vallalta.svg",
-      "candidatePath": "data/commons-candidates/sant-cebria-de-vallalta.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-celoni": {
-      "slug": "sant-celoni",
-      "name": "Sant Celoni",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-celoni.svg",
-      "assetSvgPath": "assets/svg/sant-celoni.svg",
-      "candidatePath": "data/commons-candidates/sant-celoni.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-climent-sescebes": {
-      "slug": "sant-climent-sescebes",
-      "name": "Sant Climent Sescebes",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/sant-climent-sescebes.svg",
-      "assetSvgPath": "assets/svg/sant-climent-sescebes.svg",
-      "candidatePath": "data/commons-candidates/sant-climent-sescebes.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-climent-de-llobregat": {
-      "slug": "sant-climent-de-llobregat",
-      "name": "Sant Climent de Llobregat",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-climent-de-llobregat.svg",
-      "assetSvgPath": "assets/svg/sant-climent-de-llobregat.svg",
-      "candidatePath": "data/commons-candidates/sant-climent-de-llobregat.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "sant-cugat-sesgarrigues": {
-      "slug": "sant-cugat-sesgarrigues",
-      "name": "Sant Cugat Sesgarrigues",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/sant-cugat-sesgarrigues.svg",
-      "assetSvgPath": "assets/svg/sant-cugat-sesgarrigues.svg",
-      "candidatePath": "data/commons-candidates/sant-cugat-sesgarrigues.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },
