@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 502,
-  "missingCount": 445,
+  "downloadedCount": 505,
+  "missingCount": 442,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2663,36 +2663,6 @@
       "rawSvgPath": "raw/svg/sarroca-de-lleida.svg",
       "assetSvgPath": "assets/svg/sarroca-de-lleida.svg",
       "candidatePath": "data/commons-candidates/sarroca-de-lleida.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "saus-camallera-i-llampaies": {
-      "slug": "saus-camallera-i-llampaies",
-      "name": "Saus, Camallera i Llampaies",
-      "province": "Girona",
-      "rawSvgPath": "raw/svg/saus-camallera-i-llampaies.svg",
-      "assetSvgPath": "assets/svg/saus-camallera-i-llampaies.svg",
-      "candidatePath": "data/commons-candidates/saus-camallera-i-llampaies.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "savalla-del-comtat": {
-      "slug": "savalla-del-comtat",
-      "name": "Savallà del Comtat",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/savalla-del-comtat.svg",
-      "assetSvgPath": "assets/svg/savalla-del-comtat.svg",
-      "candidatePath": "data/commons-candidates/savalla-del-comtat.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "senan": {
-      "slug": "senan",
-      "name": "Senan",
-      "province": "Tarragona",
-      "rawSvgPath": "raw/svg/senan.svg",
-      "assetSvgPath": "assets/svg/senan.svg",
-      "candidatePath": "data/commons-candidates/senan.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

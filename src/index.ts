@@ -442,6 +442,9 @@ export { default as SantQuirzeDeBesora } from "../assets/svg/sant-quirze-de-beso
 export { default as SantQuirzeDelVallès } from "../assets/svg/sant-quirze-del-valles.svg";
 export { default as SantQuirzeSafaja } from "../assets/svg/sant-quirze-safaja.svg";
 export { default as SantSadurníDAnoia } from "../assets/svg/sant-sadurni-danoia.svg";
+export { default as SausCamalleraILlampaies } from "../assets/svg/saus-camallera-i-llampaies.svg";
+export { default as SavallàDelComtat } from "../assets/svg/savalla-del-comtat.svg";
+export { default as Senan } from "../assets/svg/senan.svg";
 export { default as Serinyà } from "../assets/svg/serinya.svg";
 export { default as Seròs } from "../assets/svg/seros.svg";
 export { default as SerraDeDaró } from "../assets/svg/serra-de-daro.svg";
