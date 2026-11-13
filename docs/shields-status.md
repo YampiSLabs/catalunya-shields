@@ -259,7 +259,7 @@ Progress: **53.3%**
 | Sant Quirze Safaja | `sant-quirze-safaja` | ✅ Downloaded |
 | Sant Sadurní d'Anoia | `sant-sadurni-danoia` | ✅ Downloaded |
 | Sant Sadurní d'Osormort | `sant-sadurni-dosormort` | ❌ Pending |
-| Sant Salvador de Guardiola | `sant-salvador-de-guardiola` | ❌ Pending |
+| Sant Salvador de Guardiola | `sant-salvador-de-guardiola` | 🔍 Has Candidate |
 | Sant Vicenç de Castellet | `sant-vicenc-de-castellet` | ❌ Pending |
 | Sant Vicenç de Montalt | `sant-vicenc-de-montalt` | ❌ Pending |
 | Sant Vicenç de Torelló | `sant-vicenc-de-torello` | ❌ Pending |
