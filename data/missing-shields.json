@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "data/municipalities.json",
   "municipalityCount": 947,
-  "downloadedCount": 505,
-  "missingCount": 442,
+  "downloadedCount": 508,
+  "missingCount": 439,
   "candidateFilesAreAdvisory": true,
   "missingBySlug": {
     "abrera": {
@@ -2933,36 +2933,6 @@
       "rawSvgPath": "raw/svg/torre-serona.svg",
       "assetSvgPath": "assets/svg/torre-serona.svg",
       "candidatePath": "data/commons-candidates/torre-serona.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torrefarrera": {
-      "slug": "torrefarrera",
-      "name": "Torrefarrera",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/torrefarrera.svg",
-      "assetSvgPath": "assets/svg/torrefarrera.svg",
-      "candidatePath": "data/commons-candidates/torrefarrera.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torrelameu": {
-      "slug": "torrelameu",
-      "name": "Torrelameu",
-      "province": "Lleida",
-      "rawSvgPath": "raw/svg/torrelameu.svg",
-      "assetSvgPath": "assets/svg/torrelameu.svg",
-      "candidatePath": "data/commons-candidates/torrelameu.json",
-      "rawSvgPresent": false,
-      "nextStep": "find-reviewed-commons-svg"
-    },
-    "torrelles-de-foix": {
-      "slug": "torrelles-de-foix",
-      "name": "Torrelles de Foix",
-      "province": "Barcelona",
-      "rawSvgPath": "raw/svg/torrelles-de-foix.svg",
-      "assetSvgPath": "assets/svg/torrelles-de-foix.svg",
-      "candidatePath": "data/commons-candidates/torrelles-de-foix.json",
       "rawSvgPresent": false,
       "nextStep": "find-reviewed-commons-svg"
     },

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "File:Escut de Torrelameu.svg",
+    "score": 160,
+    "confidence": "high",
+    "isSvg": true,
+    "matchesMunicipality": true
+  },
+  {
+    "title": "File:Escut d'Artesa de Lleida.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de l'Espluga de Francolí.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de la Torre de Fontaubella THV-ES.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de la Torre de Fontaubella.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  },
+  {
+    "title": "File:Escut de Sidamon.svg",
+    "score": 120,
+    "confidence": "medium",
+    "isSvg": true,
+    "matchesMunicipality": false
+  }
+]

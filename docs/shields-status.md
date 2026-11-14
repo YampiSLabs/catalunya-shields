@@ -1,16 +1,16 @@
 # Catalunya Shields Status 🛡️
 
 Total municipalities: **947**
-Downloaded: **505**
-Pending: **442**
-Progress: **53.3%**
+Downloaded: **508**
+Pending: **439**
+Progress: **53.6%**
 
-`[████████████████░░░░░░░░░░░░░░] 53.3%`
+`[████████████████░░░░░░░░░░░░░░] 53.6%`
 
 ## Provinces Overview
 
 <details>
-<summary><b>Barcelona (177/311 - 56.9%)</b></summary>
+<summary><b>Barcelona (178/311 - 57.2%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -301,7 +301,7 @@ Progress: **53.3%**
 | Tona | `tona` | ✅ Downloaded |
 | Tordera | `tordera` | ✅ Downloaded |
 | Torelló | `torello` | ✅ Downloaded |
-| Torrelles de Foix | `torrelles-de-foix` | ❌ Pending |
+| Torrelles de Foix | `torrelles-de-foix` | ✅ Downloaded |
 | Torrelles de Llobregat | `torrelles-de-llobregat` | ❌ Pending |
 | Ullastrell | `ullastrell` | ❌ Pending |
 | Vacarisses | `vacarisses` | ❌ Pending |
@@ -558,7 +558,7 @@ Progress: **53.3%**
 </details>
 
 <details>
-<summary><b>Lleida (125/231 - 54.1%)</b></summary>
+<summary><b>Lleida (127/231 - 55.0%)</b></summary>
 
 | Municipality | Slug | Status |
 | :--- | :--- | :--- |
@@ -772,10 +772,10 @@ Progress: **53.3%**
 | Tornabous | `tornabous` | ✅ Downloaded |
 | Torre-serona | `torre-serona` | ❌ Pending |
 | Torrebesses | `torrebesses` | ✅ Downloaded |
-| Torrefarrera | `torrefarrera` | 🔍 Has Candidate |
+| Torrefarrera | `torrefarrera` | ✅ Downloaded |
 | Torrefeta i Florejacs | `torrefeta-i-florejacs` | ✅ Downloaded |
 | Torregrossa | `torregrossa` | ✅ Downloaded |
-| Torrelameu | `torrelameu` | ❌ Pending |
+| Torrelameu | `torrelameu` | ✅ Downloaded |
 | Torres de Segre | `torres-de-segre` | ✅ Downloaded |
 | Tremp | `tremp` | ✅ Downloaded |
 | Vall de Cardós | `vall-de-cardos` | ❌ Pending |
